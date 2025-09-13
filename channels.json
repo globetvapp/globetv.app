@@ -1177,7 +1177,9 @@
     ],
     "country": "UA",
     "categories": [
-      "general"
+      "general",
+      "all-channels",
+      "news"
     ],
     "is_nsfw": false,
     "launched": "1997-01-01",
@@ -2686,7 +2688,8 @@
     "country": "RU",
     "categories": [
       "general",
-      "all-channels"
+      "all-channels",
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2014-01-01",
@@ -5248,7 +5251,8 @@
     "owners": [],
     "country": "RU",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -17616,7 +17620,8 @@
     "owners": [],
     "country": "EG",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -17670,7 +17675,8 @@
     "owners": [],
     "country": "SA",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2012-01-12",
@@ -56399,7 +56405,9 @@
     "network": null,
     "owners": [],
     "country": "CN",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -58062,7 +58070,8 @@
     "owners": [],
     "country": "UA",
     "categories": [
-      "shop"
+      "shop",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -498242,7 +498251,8 @@
     ],
     "country": "RU",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1994-06-06",
@@ -499457,7 +499467,10 @@
     "network": null,
     "owners": [],
     "country": "UA",
-    "categories": [],
+    "categories": [
+      "all-channels",
+      "news"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -626953,7 +626966,9 @@
       "Zaporozhye City Council"
     ],
     "country": "UA",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": "2016-10-07",
     "closed": null,
@@ -631698,7 +631713,7 @@
     "website": null
   },
   {
-    "id": "2dd22611f5a76e0d.ru",
+    "id": "779c9d29224418bb.ru",
     "name": "2х2",
     "alt_names": [],
     "network": null,
@@ -631783,25 +631798,6 @@
     "city": null,
     "categories": [
       "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e5dc0efe0347e652.ua",
-    "name": "5 канал",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -631905,7 +631901,7 @@
     "website": null
   },
   {
-    "id": "7c4afd32f4adc0ac.ru",
+    "id": "b116754c63c748a4.ru",
     "name": "12 канал",
     "alt_names": [],
     "network": null,
@@ -631981,7 +631977,7 @@
     "website": null
   },
   {
-    "id": "a79a3e2f60ab6ce4.ua",
+    "id": "ffadbb11ebb20f39.ua",
     "name": "24 Канал онлайн",
     "alt_names": [],
     "network": null,
@@ -631991,6 +631987,7 @@
     "city": null,
     "categories": [
       "all-channels",
+      "general",
       "news"
     ],
     "is_nsfw": false,
@@ -632086,25 +632083,6 @@
     "categories": [
       "all-channels",
       "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "4d4ba00702c45743.ru",
-    "name": "360° Новости",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -633461,44 +633439,6 @@
     "website": null
   },
   {
-    "id": "alghad-tv.eg",
-    "name": "Alghad TV: قناة الغد",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "EG",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "alhadath.sa",
-    "name": "AlHadath: الحدث",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "SA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "alien-nation.us",
     "name": "Alien Nation",
     "alt_names": [],
@@ -634547,25 +634487,6 @@
     "website": null
   },
   {
-    "id": "bbc-news.uk",
-    "name": "BBC News عربي",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UK",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "bbc-one-london-hd.uk",
     "name": "BBC One London HD",
     "alt_names": [],
@@ -635405,24 +635326,6 @@
     "website": null
   },
   {
-    "id": "bread-tv.cn",
-    "name": "Bread TV面包台",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "brevard-county-government-access-tv-brevard-fl.us",
     "name": "Brevard County Government Access TV (Brevard FL)",
     "alt_names": [],
@@ -635434,25 +635337,6 @@
     "categories": [
       "all-channels",
       "legislative"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "btq.ua",
-    "name": "BTQ - Телеканал",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "shop"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -636821,25 +636705,6 @@
     "website": null
   },
   {
-    "id": "cgtn.cn",
-    "name": "CGTN Русский",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "champaign-government-television-cgtv-champaign-il.us",
     "name": "Champaign Government Television (CGTV) (Champaign IL)",
     "alt_names": [],
@@ -637997,25 +637862,6 @@
     "website": null
   },
   {
-    "id": "ctv-news.tw-1",
-    "name": "CTV News 台灣中視",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "curiosity-now.uk",
     "name": "Curiosity Now",
     "alt_names": [],
@@ -638074,25 +637920,6 @@
   {
     "id": "c.kr",
     "name": "C채널방송: 성지가좋다",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c.kr-1",
-    "name": "C채널방송: 실시간 방송",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -639688,25 +639515,6 @@
   {
     "id": "euronews.fr",
     "name": "Euronews Ελληνικά",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "FR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "euronews.fr-1",
-    "name": "Euronews Русский",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -646903,42 +646711,6 @@
     "categories": [
       "all-channels",
       "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "mnb.mn",
-    "name": "MNB Гэр бүл",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "MN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "mnb.mn-1",
-    "name": "MNB Монголын Мэдээ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "MN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -661611,24 +661383,6 @@
     "website": null
   },
   {
-    "id": "z.ua",
-    "name": "Z (Запорожье)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "z-tv.ro",
     "name": "Z-TV",
     "alt_names": [],
@@ -661867,7 +661621,7 @@
     "website": null
   },
   {
-    "id": "1c62e2effb247c4a.ru",
+    "id": "248001f72718e35c.ru",
     "name": "Аист ТВ",
     "alt_names": [],
     "network": null,
@@ -661877,7 +661631,21 @@
     "city": null,
     "categories": [
       "all-channels",
-      "general"
+      "animation",
+      "business",
+      "culture",
+      "entertainment",
+      "general",
+      "kids",
+      "legislative",
+      "lifestyle",
+      "movies",
+      "music",
+      "news",
+      "outdoor",
+      "religious",
+      "series",
+      "shop"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -661886,7 +661654,7 @@
     "website": null
   },
   {
-    "id": "5f34f8bf723a332e.ru",
+    "id": "e442cbdf8d92dfd4.ru",
     "name": "Архыз 24",
     "alt_names": [],
     "network": null,
@@ -661895,26 +661663,10 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "6d625ca0e7b3112f.ru",
-    "name": "Астрахань 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
       "all-channels",
-      "news"
+      "general",
+      "news",
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -661942,25 +661694,7 @@
     "website": null
   },
   {
-    "id": "ru-tv.ru",
-    "name": "Астрахань.Ru TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "cb09db995b12100a.by",
+    "id": "794d2bc345472110.by",
     "name": "Беларусь 1",
     "alt_names": [],
     "network": null,
@@ -661979,7 +661713,7 @@
     "website": null
   },
   {
-    "id": "5601bdc28b33574a.by",
+    "id": "8df94eb9fc1a201f.by",
     "name": "Беларусь 5",
     "alt_names": [],
     "network": null,
@@ -661998,26 +661732,7 @@
     "website": null
   },
   {
-    "id": "ce3b3511af8306ef.by",
-    "name": "Беларусь 5 Интернет",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BY",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "631234ea792c84e9.by",
+    "id": "c4651454ce1f3c37.by",
     "name": "Беларусь 24",
     "alt_names": [],
     "network": null,
@@ -662028,44 +661743,6 @@
     "categories": [
       "all-channels",
       "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e3526022a8747fa3.ru",
-    "name": "Белгород 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "6024f0fea6db8293.ru",
-    "name": "БелРос",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -662093,61 +661770,6 @@
     "website": null
   },
   {
-    "id": "de9dabac83983d4e.ru",
-    "name": "БСТ (Башкирское спутниковое телевидение)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "7aed630128c21ba0.ru",
-    "name": "Вера 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "39e1be0b1440a358.ru",
-    "name": "Вместе РФ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "hd.ru",
     "name": "Волга (HD)",
     "alt_names": [],
@@ -662157,63 +661779,8 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "80cb35e0311593e9.ru",
-    "name": "Восток 24 (Владивосток)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
       "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2d41d6a78d720922.ru",
-    "name": "Дагестан",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "80f24cce10127388.ru",
-    "name": "Дембельский альбом: Солдаты",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "series"
+      "documentary"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -662232,7 +661799,12 @@
     "city": null,
     "categories": [
       "all-channels",
-      "movies"
+      "entertainment",
+      "general",
+      "kids",
+      "lifestyle",
+      "movies",
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -662241,7 +661813,7 @@
     "website": null
   },
   {
-    "id": "b63419e957567c55.nl",
+    "id": "2ee2f8be2539abe5.nl",
     "name": "Дождь",
     "alt_names": [],
     "network": null,
@@ -662251,252 +661823,6 @@
     "city": null,
     "categories": [
       "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "537a9cb78de35dda.ru",
-    "name": "Дом Кино",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "international.ru-1",
-    "name": "Домашний International",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "lifestyle"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "9b66dc070f22fe8c.ru",
-    "name": "Дума ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "legislative"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c14a962ba9eca97d.ru",
-    "name": "Евразия (Орск)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "df156ecf5e1fbe36.ru",
-    "name": "Енисей",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "19aec5cbe3b59ae5.ru",
-    "name": "За!ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "59aee6da3c884c53.ru",
-    "name": "Звезда",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0798d5fe75ebdfe8.ru",
-    "name": "Звезда Плюс",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "7506a00b248cae5a.ru",
-    "name": "Известия",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ee8d6a0d9331ddfe.ru",
-    "name": "Ингушетия ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "952a8f2597217c07.ru",
-    "name": "Каббала ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "08a580b51f0e3228.ru",
-    "name": "Карусель",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "international.ru-2",
-    "name": "Карусель International",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -662515,7 +661841,8 @@
     "city": null,
     "categories": [
       "all-channels",
-      "movies"
+      "movies",
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -662524,182 +661851,12 @@
     "website": null
   },
   {
-    "id": "89e338cd1f5d76d5.ru",
-    "name": "Кино Добряк: Сваты и Байки Митяя",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "series"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "4eee396de0d58b51.ru",
-    "name": "КИНОТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c7b6d1003c68628d.ru",
-    "name": "Конный Мир",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "outdoor"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "435ada7c9461fa6d.ru",
-    "name": "Красная линия",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "fd5ae4ed91796ab4.ru",
-    "name": "КРИК-ТВ (Екатеринбург)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0ade1db56c9d8128.ru",
-    "name": "Крым 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "14fb205a168bd637.kz",
+    "id": "baf428e680e5d8d0.kz",
     "name": "КТК",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "KZ",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "33cc89808f50d6b8.ru",
-    "name": "Кубань 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "362edc6217bb42bd.ru",
-    "name": "Культура",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "culture"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "6923ff7dc4fdbc45.ru",
-    "name": "Курай (Уфа)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -662723,120 +661880,9 @@
     "city": null,
     "categories": [
       "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "29cbd969c6d4341a.ru",
-    "name": "Легендарный 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "a7c39ada029ead6e.ru",
-    "name": "Лен ТВ 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f687ae9a594eb5a8.ua",
-    "name": "Луганск 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e513addf4931b6d0.ru",
-    "name": "Луч",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2d72012554d84133.ru",
-    "name": "Любимое Индийское Кино",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "8c61701a3939c7fe.ru",
-    "name": "Магнат ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
+      "entertainment",
+      "general",
+      "news",
       "shop"
     ],
     "is_nsfw": false,
@@ -662846,83 +661892,7 @@
     "website": null
   },
   {
-    "id": "aa8d9692c8115388.ru",
-    "name": "Мама",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "7546d8bbed1032dd.ua",
-    "name": "Ми - Україна",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "7aef22118c96ea05.ru",
-    "name": "Миллет",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "be7af99e6b1a8821.ru",
-    "name": "Мир",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2fa89759f0a3a0c8.ru",
+    "id": "81f6c32603be9007.ru",
     "name": "Мир +7",
     "alt_names": [],
     "network": null,
@@ -662941,199 +661911,7 @@
     "website": null
   },
   {
-    "id": "d109ef07e764f8e5.kz",
-    "name": "МТРК",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KZ",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "9b0861b66a0cf7c9.ru",
-    "name": "Муз союз",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "3a4c07ce4f8b1f93.ru",
-    "name": "Муз ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "1-international.ru-1",
-    "name": "Музыка 1 International",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "international.ru-3",
-    "name": "Музыка Кино International",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "65b7841d8d3e24f0.ru",
-    "name": "Мульт",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "247e853a979e2909.ru",
-    "name": "Мульт и музыка",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "769b5b1abbca1bd2.ru",
-    "name": "Мультимания",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "animation",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "b42e82f28bbb5030.ru",
-    "name": "Надежда",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "hd.ru-1",
-    "name": "Нано ТВ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "d22a357ff5ea942a.cz",
+    "id": "9b8908e450ec236c.cz",
     "name": "Настоящее Время",
     "alt_names": [],
     "network": null,
@@ -663152,7 +661930,7 @@
     "website": null
   },
   {
-    "id": "eb1d8f2210fe109a.ru",
+    "id": "39489c6582f0a010.ru",
     "name": "Наука 2.0",
     "alt_names": [],
     "network": null,
@@ -663171,121 +661949,7 @@
     "website": null
   },
   {
-    "id": "a80259fb89665024.ru",
-    "name": "НВК Саха",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "72fbb83931afc12a.ru",
-    "name": "Ника ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "16d341f82658cde2.ru",
-    "name": "Новгородское областное телевидение",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "534b5bdf796899cc.ru",
-    "name": "Новый Век",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ba0bc1571fa7e158.ru",
-    "name": "НТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c5748b364326c6c6.ru",
-    "name": "НТВ Мир",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "culture"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "79390ccde43289f2.ru",
+    "id": "b08d5cc7926f9e57.ru",
     "name": "НТК 21 (Биробиджан)",
     "alt_names": [],
     "network": null,
@@ -663304,64 +661968,7 @@
     "website": null
   },
   {
-    "id": "df698fb4420b97be.ua",
-    "name": "НТК ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "d4555390e8335a55.ru",
-    "name": "НТМ (Народное телевидение Мордовии)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "9fc3a9fccb941cf0.ru",
-    "name": "НТС (Севастополь)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "d84fa8dcabfeda37.by",
+    "id": "1a3d75041c35f636.by",
     "name": "ОНТ",
     "alt_names": [],
     "network": null,
@@ -663371,7 +661978,8 @@
     "city": null,
     "categories": [
       "all-channels",
-      "general"
+      "general",
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -663380,64 +661988,7 @@
     "website": null
   },
   {
-    "id": "62d4fec55c9fca47.ru",
-    "name": "ОСН",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "78b43f71bb3df726.ru",
-    "name": "Открытый мир. Здоровье",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "lifestyle"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "5fe85b06038c091a.ru",
-    "name": "ОТР",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "96c5b0dd64c2ed38.mn",
+    "id": "bb55e134a555a6b8.mn",
     "name": "Өлзий ТВ",
     "alt_names": [],
     "network": null,
@@ -663475,651 +662026,12 @@
     "website": null
   },
   {
-    "id": "ac06fc4602764168.by",
-    "name": "Первый информационный",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BY",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0cf22c15a2e68a72.ru",
-    "name": "Первый канал",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "320eb232749fd9a5.ru",
-    "name": "Первый канал Европа",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0410c3732d752dce.ru",
-    "name": "Первый Республиканский",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "b2de71cac352ff65.ru",
-    "name": "Первый Ярославский",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "international.ru-4",
-    "name": "Перец International",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "5cd67fe815cbc108.ru",
-    "name": "Победа",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e2a6f0289d1b4b88.ru",
-    "name": "Прима",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "1a7353221c83b2e4.ru",
-    "name": "Просвещение",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "67ac7a8b4d150d07.ru",
-    "name": "Пятница!",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "international.ru-5",
-    "name": "Пятница! International",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "bba9fbadf0fc7e1f.ru",
-    "name": "Пятый Канал",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "880c007f68dd830a.ru",
-    "name": "Радость моя",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "9b75383ed879df69.ru",
-    "name": "РБК",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "business"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "b4ed3c0875c07181.ru",
-    "name": "РЕН ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "international.ru-6",
-    "name": "РЕН ТВ International",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e6d6724052201a7b.ru",
+    "id": "4040b88d5972b7ca.ru",
     "name": "Россия 1",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "96d6b2181d3a98b5.ru",
-    "name": "Россия 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "85100fe4c937459c.ru",
-    "name": "С1 (Сургут)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "9e0c7b59027859fd.ru",
-    "name": "Салям (Уфа)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "hd.ru-2",
-    "name": "Санкт-Петербург HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "hd.ru-3",
-    "name": "Своё HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "464edbfaa5698f54.ru",
-    "name": "Север (Нарьян-Мар)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "4a21092b85c11020.ru",
-    "name": "Сити Эдем КиноСемья",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e79c71764823bdf5.ru",
-    "name": "Сити Эдем МедЗдрав",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "lifestyle"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "918c212e369f1dfd.ru",
-    "name": "Смайл ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f61e2d30023d3eaa.ru",
-    "name": "Смотрим Честный Детектив",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "series"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "75a996a70224e341.ru",
-    "name": "Советское телевидение. ГОСТЕЛЕРАДИОФОНД: Следствие ведут ЗнаТоКи",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "series"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "3cf2923498b8783c.mn",
-    "name": "Соён Гэгээрүүлэгч",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "MN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "9eea74121d333391.ru",
-    "name": "Солнце",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "animation",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "20f459003ed86908.ru",
-    "name": "Союз",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "6bd05ba77d9908ae.ru",
-    "name": "Союзмультфильм: Ну, погоди!",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "53e96f3c9a2f1af7.ru",
-    "name": "Союзмультфильм: Простоквашино",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0735ec34b8c7da63.ru",
-    "name": "Спас",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c2ac2b7155a6b7c3.by",
-    "name": "СТБ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BY",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -664152,197 +662064,12 @@
     "website": null
   },
   {
-    "id": "4ec7dd8c0ecfd37f.ru",
-    "name": "Студия Факт",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "17301070bd2af612.ru",
-    "name": "Суббота!",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "8bb24aee207e5df4.ru",
-    "name": "Сургут 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "7377de04dc12fb76.ua",
-    "name": "Суспільне Новини",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "6772f1054c454fd5.ua",
-    "name": "Сфера-ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "b6c42bdf1ee3876d.ru",
-    "name": "Таврия",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "6a7b42a26ebd11f0.ru",
-    "name": "Тамыр (Уфа)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "eab5026d852f9ae1.ru",
-    "name": "ТВ Центр",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "a47dc5f02b0d4808.ru",
-    "name": "ТВ-3",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "i-i.ua",
     "name": "ТВА (Чернiвцi)",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2b7aef5f7545dfea.ru",
-    "name": "ТВК 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -664374,139 +662101,7 @@
     "website": null
   },
   {
-    "id": "24kz.kz",
-    "name": "Телеканал 24kz",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KZ",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "5ec5b6dde7d239fe.ru",
-    "name": "Телеканал 86 (Сургут)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tv.ua-1",
-    "name": "Телеканал Конкурент TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "8d6168fb024f7e98.ru",
-    "name": "Телеканал Краснодар",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "58c1ee6bbc67b283.ua",
-    "name": "Телеканал Прямий",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "95543fd3c48b614c.ua",
-    "name": "Телеканал Рада",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "65699ecbe4fb18bc.ru",
-    "name": "Телплюс ТВ (Астрахань)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "4cd0aa1b4b3191e3.ua",
+    "id": "5a233fc18e34d89d.ua",
     "name": "Тернопіль 1",
     "alt_names": [],
     "network": null,
@@ -664517,62 +662112,6 @@
     "categories": [
       "all-channels",
       "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "aca00a187c2ea064.ru",
-    "name": "ТНВ-Планета (Казань)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "bb3efbfb8dbc5d44.ru",
-    "name": "ТНТ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "international.ru-7",
-    "name": "ТНТ International",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -664600,7 +662139,7 @@
     "website": null
   },
   {
-    "id": "9255e872fb8c6ce0.ru",
+    "id": "932284480244fa33.ru",
     "name": "ТНТ4",
     "alt_names": [],
     "network": null,
@@ -664630,213 +662169,6 @@
     "categories": [
       "all-channels",
       "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c6fec2ec086f6088.ru",
-    "name": "Три Ангела",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "53e2b6c4c17aee95.ua",
-    "name": "ТСН: Єдині новини: 1+1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "643b0881765b117a.ua",
-    "name": "ТСН: Марафон новин",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f0aabb56665a5bd2.ua",
-    "name": "Тюсо",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "shop"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "446c885d533c68e2.mn",
-    "name": "Хөгжим",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "MN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "3bc1cf4a6bacd29f.ru",
-    "name": "Хузур ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c4ab0e46bdf8f0d4.ua",
-    "name": "ЦЕНТР",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "bcda2f7fef1c4d51.ru",
-    "name": "Ю",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f5c20a343d8743bf.ru",
-    "name": "Ювелирочка",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "shop"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "62dbd3b973add054.ru",
-    "name": "Ювелирочка ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "shop"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0dc661bc1d30f636.ru",
-    "name": "Югра",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -664883,7 +662215,7 @@
     "website": null
   },
   {
-    "id": "eeac0e8b5a2379d5.ae",
+    "id": "5c7e57016b3a8d5d.ae",
     "name": "اوكو ليلي القناة الرسمية 1",
     "alt_names": [],
     "network": null,
@@ -664931,159 +662263,10 @@
     "city": null,
     "categories": [
       "all-channels",
+      "business",
+      "education",
+      "entertainment",
       "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "50d9f56c5401f18e.kr",
-    "name": "사피엔스 스튜디오",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "education"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tv.kr-1",
-    "name": "서울경제TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "business"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "48d6424281f27b76.kr",
-    "name": "어서와 한국은 처음이지",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tv.kr-2",
-    "name": "연합뉴스경제TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tv.kr-3",
-    "name": "이데일리TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "eedf0c1593228ccb.kr",
-    "name": "토마토증권통",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "business"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c5df1e470b890cff.kr",
-    "name": "토마토집통",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tv.kr-4",
-    "name": "한국경제TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "business"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -665149,7 +662332,7 @@
     "website": null
   },
   {
-    "id": "b706350c70a0fec2.cn",
+    "id": "68f3daed86365a4e.cn",
     "name": "上虞1新闻综合",
     "alt_names": [],
     "network": null,
@@ -665167,7 +662350,7 @@
     "website": null
   },
   {
-    "id": "9396e71a3d550077.cn",
+    "id": "0ebfe6d1bf104625.cn",
     "name": "上虞3新商都",
     "alt_names": [],
     "network": null,
@@ -665185,7 +662368,7 @@
     "website": null
   },
   {
-    "id": "3fe46cb02bfb7d65.cn",
+    "id": "c4b4b2aae6a8b489.cn",
     "name": "上虞經濟文化",
     "alt_names": [],
     "network": null,
@@ -665194,7 +662377,8 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "all-channels"
+      "all-channels",
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -665203,7 +662387,7 @@
     "website": null
   },
   {
-    "id": "5991e54a6eaeb6b7.tw",
+    "id": "a03a7f40026a3e11.tw",
     "name": "中天新聞台",
     "alt_names": [],
     "network": null,
@@ -665213,208 +662397,10 @@
     "city": null,
     "categories": [
       "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "d8cf77111be0027b.tw",
-    "name": "中天電視",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "b4ceaeb5c72b62fe.tw",
-    "name": "中視經典綜藝",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "b3435445bcc9a65c.cn",
-    "name": "之江纪录",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "45314ace20a39865.cn",
-    "name": "余姚姚江文化",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "61e09a5a8acdd8a0.cn",
-    "name": "余姚新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c91de7e72c272bfa.cn",
-    "name": "农安新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "a61f5cc2747ec59c.cn",
-    "name": "前郭综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0013a242ee4a21a0.cn",
-    "name": "半岛新闻",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "6d994afc66db5505.cn",
-    "name": "吉林市新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e74f5417cc273cf8.tw",
-    "name": "唯心電視",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "1b70c1ced40ac4f4.cn",
-    "name": "四平新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
+      "entertainment",
+      "news",
+      "religious",
+      "travel"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -665461,98 +662447,6 @@
     "website": null
   },
   {
-    "id": "b915cfef72f96836.tw",
-    "name": "大陸尋奇",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "travel"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "1a5f2d9405b41bab.tw",
-    "name": "天才衝衝衝",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "b8f85ac99c01c80e.cn",
-    "name": "宿州公共",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2897a8a7d14af23f.cn",
-    "name": "宿州新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "97522b4caa1103eb.cn",
-    "name": "宿州科教",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "peppa-pig.cn",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "alt_names": [],
@@ -665564,60 +662458,6 @@
     "categories": [
       "all-channels",
       "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "74614c55cb6efcad.cn",
-    "name": "嵊州综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "edf6decb060c6b75.cn",
-    "name": "广东 Ⅰ 韶关公共台",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "fef7d10b3bfa3937.cn",
-    "name": "延边新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -665645,42 +662485,6 @@
     "website": null
   },
   {
-    "id": "1dbca6f64b75d3ed.cn",
-    "name": "新昌休闲影视",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "aea374d88eede2b9.cn",
-    "name": "新昌新聞綜合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "ch51.tw",
     "name": "東森新聞 CH51",
     "alt_names": [],
@@ -665700,7 +662504,7 @@
     "website": null
   },
   {
-    "id": "707c424165010d4c.tw",
+    "id": "b40791a0b0fe8d3f.tw",
     "name": "東森購物60",
     "alt_names": [],
     "network": null,
@@ -665711,24 +662515,6 @@
     "categories": [
       "all-channels",
       "shop"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "974e5d71d86e4bc4.cn",
-    "name": "松原新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -665748,188 +662534,6 @@
     "categories": [
       "all-channels",
       "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f82fe4a3ce0566b4.cn",
-    "name": "河源公共",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "a470c39eba69de5f.cn",
-    "name": "河源综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "4caa81cd7dab4148.cn",
-    "name": "浙江国际",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c8354dc4e234f86c.cn",
-    "name": "浙江教科",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "20dae289c367bd20.cn",
-    "name": "浙江新闻",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "371b6f26986ef693.cn",
-    "name": "浙江民生",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e0d77b4729ab036e.cn",
-    "name": "浙江经济",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "9d51f0b4dcd96e4a.cn",
-    "name": "浙江钱江",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "608ad1bbb0e82695.cn",
-    "name": "白城新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "710d8408c00adba4.cn",
-    "name": "白山新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -666010,297 +662614,8 @@
     "website": null
   },
   {
-    "id": "ivod.tw-1",
-    "name": "立法院IVOD直播內政委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-2",
-    "name": "立法院IVOD直播司法及法制委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-3",
-    "name": "立法院IVOD直播外交及國防委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-4",
-    "name": "立法院IVOD直播教育及文化委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-5",
-    "name": "立法院IVOD直播朝野協商",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-6",
-    "name": "立法院IVOD直播社會福利及衛生環境委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-7",
-    "name": "立法院IVOD直播經濟委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-8",
-    "name": "立法院IVOD直播財政委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-9",
-    "name": "立法院IVOD直播院會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "redbull-tv.cn",
     "name": "红牛REDBULL TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "932c436485fe0e41.cn",
-    "name": "萧山新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "438518f790bb179f.cn",
-    "name": "蕭山生活頻道",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "d9ee8b61f6aa01b4.cn",
-    "name": "辽源新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "3e72c4cc70717e1d.cn",
-    "name": "通化新闻",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "6c923b1d134f7ad6.tw",
-    "name": "鏡新聞",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "c6d0c42ad3e21a23.cn",
-    "name": "长春综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "4ac519e30af2bb46.cn",
-    "name": "集安综合",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -666328,24 +662643,6 @@
     "categories": [
       "all-channels",
       "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "a09387b6aae054dd.cn",
-    "name": "餘姚姚江文化",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
