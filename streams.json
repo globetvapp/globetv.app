@@ -297,6 +297,15 @@
     "quality": "1080p"
   },
   {
+    "channel": "4FunKids.pl",
+    "feed": "SD",
+    "title": "4 Fun Kids (576i)",
+    "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "4FunTV.pl",
     "feed": null,
     "title": "4 Fun TV (576i)",
@@ -1650,8 +1659,8 @@
     "channel": "AasthaBhajan.in",
     "feed": null,
     "title": "Aastha Bhajan",
-    "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8",
-    "referrer": "Aasthatv.in",
+    "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8",
+    "referrer": null,
     "user_agent": null,
     "quality": "480p"
   },
@@ -2007,6 +2016,15 @@
     "quality": "720p"
   },
   {
+    "channel": "ABCTVParaguay.py",
+    "feed": "SD",
+    "title": "ABC-TV Paraguay",
+    "url": "https://cdn.jwplayer.com/live/broadcast/GQagSggs.mpd",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "720p"
+  },
+  {
     "channel": "ABCTVPlus.au",
     "feed": "Sydney",
     "title": "ABC TV Plus",
@@ -2077,6 +2095,15 @@
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
+  },
+  {
+    "channel": "ABNNews.pk",
+    "feed": "SD",
+    "title": "ABN News",
+    "url": "http://116.90.120.149:8000/play/a01r/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "1080p"
   },
   {
     "channel": "ABNsat.iq",
@@ -2352,7 +2379,7 @@
     "channel": "ACCNetwork.us",
     "feed": null,
     "title": "ACCN",
-    "url": "https://fl4.moveonjoy.com/ACC_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/ACC_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -5484,7 +5511,7 @@
     "channel": "AMC.us",
     "feed": "East",
     "title": "AMC East",
-    "url": "https://fl4.moveonjoy.com/AMC_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "1080p"
@@ -5866,24 +5893,6 @@
     "referrer": null,
     "user_agent": null,
     "quality": "1080p"
-  },
-  {
-    "channel": "AndoTV.cn",
-    "feed": null,
-    "title": "Ando TV",
-    "url": "http://119.1.122.186:4022/rtp/238.255.2.189:5999",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "576p"
-  },
-  {
-    "channel": "AndoTV.cn",
-    "feed": null,
-    "title": "Ando TV",
-    "url": "http://stream.qhbtv.com/adws/sd/live.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
   },
   {
     "channel": "Andpictures.in",
@@ -6528,7 +6537,7 @@
     "channel": "AntennaTV.us",
     "feed": null,
     "title": "Antenna TV",
-    "url": "https://fl4.moveonjoy.com/Antenna_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Antenna_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -7752,7 +7761,7 @@
     "channel": "Aspire.us",
     "feed": null,
     "title": "Aspire",
-    "url": "https://fl4.moveonjoy.com/Aspire/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Aspire/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -8670,7 +8679,7 @@
     "channel": "AXSTV.us",
     "feed": null,
     "title": "AXS TV",
-    "url": "https://fl4.moveonjoy.com/Axs_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Axs_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -9207,15 +9216,6 @@
     "quality": "720p"
   },
   {
-    "channel": "BaliTV.id",
-    "feed": null,
-    "title": "Bali TV",
-    "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "BalkanRadioSalzburg.at",
     "feed": null,
     "title": "Balkan Radio Salzburg",
@@ -9642,7 +9642,7 @@
     "channel": "BBCAmerica.us",
     "feed": "East",
     "title": "BBC America East",
-    "url": "https://fl4.moveonjoy.com/BBC_AMERICA/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BBC_AMERICA/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -9984,7 +9984,7 @@
     "channel": "BBCNews.uk",
     "feed": "NorthAmerica",
     "title": "BBC News North America",
-    "url": "https://fl4.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -11676,7 +11676,7 @@
     "channel": "beINSportsUSA.us",
     "feed": null,
     "title": "beIN Sports USA",
-    "url": "http://fl4.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+    "url": "http://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -12144,7 +12144,7 @@
     "channel": "BET.us",
     "feed": "East",
     "title": "BET East",
-    "url": "https://fl4.moveonjoy.com/BET_EAST/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BET_EAST/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -12180,7 +12180,7 @@
     "channel": "BETGospel.us",
     "feed": null,
     "title": "BET Gospel",
-    "url": "https://fl4.moveonjoy.com/BET_GOSPEL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BET_GOSPEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -12198,7 +12198,7 @@
     "channel": "BETHer.us",
     "feed": "East",
     "title": "BET Her East",
-    "url": "https://fl4.moveonjoy.com/BET_HER/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BET_HER/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -12216,7 +12216,7 @@
     "channel": "BETJams.us",
     "feed": null,
     "title": "BET Jams",
-    "url": "https://fl4.moveonjoy.com/BET_Jams/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BET_Jams/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -12234,7 +12234,7 @@
     "channel": "BETSoul.us",
     "feed": null,
     "title": "BET Soul",
-    "url": "https://fl4.moveonjoy.com/BET_SOUL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BET_SOUL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -12711,7 +12711,7 @@
     "channel": "BigTenNetwork.us",
     "feed": null,
     "title": "Big Ten Network",
-    "url": "https://fl4.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -12861,15 +12861,6 @@
     "quality": "720p"
   },
   {
-    "channel": "BioskopIndonesia.id",
-    "feed": null,
-    "title": "Biznet Adventure",
-    "url": "https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41d51f9f-8855-e625-012f-304a1f0eb538)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "BIPTV.fr",
     "feed": null,
     "title": "BIP TV",
@@ -12930,25 +12921,25 @@
     "url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
-    "quality": "720p"
+    "quality": "1080p"
   },
   {
     "channel": "BiznetKids.id",
     "feed": null,
     "title": "Biznet Kids",
-    "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8",
+    "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
     "referrer": null,
     "user_agent": null,
-    "quality": "480p"
+    "quality": "1080p"
   },
   {
     "channel": "BiznetLifestyle.id",
     "feed": null,
     "title": "Biznet Lifestyle",
-    "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8",
+    "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
     "referrer": null,
     "user_agent": null,
-    "quality": "480p"
+    "quality": "1080p"
   },
   {
     "channel": "BizTV.us",
@@ -13287,7 +13278,7 @@
     "channel": "BloombergTV.us",
     "feed": null,
     "title": "Bloomberg TV",
-    "url": "https://fl4.moveonjoy.com/BLOOMBERG/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BLOOMBERG/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -13467,7 +13458,7 @@
     "channel": "BMSTV.id",
     "feed": null,
     "title": "Banyumas TV",
-    "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
+    "url": "https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -13809,7 +13800,7 @@
     "channel": "Bounce.us",
     "feed": null,
     "title": "Bounce",
-    "url": "https://fl4.moveonjoy.com/BOUNCE_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BOUNCE_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -13917,7 +13908,7 @@
     "channel": "Bravo.us",
     "feed": "East",
     "title": "Bravo East",
-    "url": "https://fl4.moveonjoy.com/BRAVO/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/BRAVO/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -14583,7 +14574,7 @@
     "channel": "Buzzr.us",
     "feed": null,
     "title": "Buzzr",
-    "url": "https://fl4.moveonjoy.com/Buzzr/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Buzzr/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -16605,6 +16596,15 @@
     "quality": "576p"
   },
   {
+    "channel": "CanalExtremaduraSatelite.es",
+    "feed": "SD",
+    "title": "Canal Extremadura Satelite",
+    "url": "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "1080p"
+  },
+  {
     "channel": "CanalGov.br",
     "feed": null,
     "title": "Canal Gov",
@@ -18102,7 +18102,7 @@
     "channel": "CBS.us",
     "feed": "East",
     "title": "CBS East",
-    "url": "https://fl4.moveonjoy.com/CBS_News/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CBS_News/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -18480,7 +18480,7 @@
     "channel": "CBSSportsNetworkUSA.us",
     "feed": null,
     "title": "CBS Sports Network USA",
-    "url": "https://fl4.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -20028,7 +20028,7 @@
     "channel": "CHBLTV.ca",
     "feed": null,
     "title": "CHBL-TV",
-    "url": "https://fl4.moveonjoy.com/CA_GLOBAL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CA_GLOBAL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -20871,42 +20871,6 @@
     "quality": "720p"
   },
   {
-    "channel": "CitraBioskop.id",
-    "feed": null,
-    "title": "Citra Bioskop",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
-    "channel": "CitraDangdut.id",
-    "feed": null,
-    "title": "Citra Dangdut",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "CitraDrama.id",
-    "feed": null,
-    "title": "Citra Drama",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
-    "channel": "CitraMuslim.id",
-    "feed": null,
-    "title": "Citra Muslim",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "CitricoTV.do",
     "feed": null,
     "title": "Cítrico TV",
@@ -21121,6 +21085,15 @@
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
+  },
+  {
+    "channel": "CityNewsEdmonton.ca",
+    "feed": "SD",
+    "title": "CityNews Edmonton",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
   },
   {
     "channel": "CityNewsHD.pk",
@@ -21411,6 +21384,15 @@
     "quality": "1080p"
   },
   {
+    "channel": "ClanInternacional.es",
+    "feed": "SD",
+    "title": "Clan Internacional",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "1080p"
+  },
+  {
     "channel": "ClaroTelevisionDominicana.do",
     "feed": null,
     "title": "Claro Televisión Dominicana",
@@ -21531,7 +21513,7 @@
     "channel": "CleoTV.us",
     "feed": null,
     "title": "Cleo TV",
-    "url": "https://fl4.moveonjoy.com/Cleo_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Cleo_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -21720,7 +21702,7 @@
     "channel": "CMT.us",
     "feed": "East",
     "title": "CMT East",
-    "url": "https://fl4.moveonjoy.com/CMT/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CMT/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -21810,7 +21792,7 @@
     "channel": "CNBC.us",
     "feed": null,
     "title": "CNBC",
-    "url": "https://fl4.moveonjoy.com/CNBC/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CNBC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -21918,7 +21900,7 @@
     "channel": "CNBCWorld.us",
     "feed": null,
     "title": "CNBC World",
-    "url": "https://fl4.moveonjoy.com/CNBC_World/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CNBC_World/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -22152,7 +22134,7 @@
     "channel": "ComedyCentral.us",
     "feed": "East",
     "title": "Comedy Central East",
-    "url": "https://fl4.moveonjoy.com/Comedy_Central/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Comedy_Central/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -22296,7 +22278,7 @@
     "channel": "ComedyTV.us",
     "feed": null,
     "title": "Comedy TV",
-    "url": "https://fl4.moveonjoy.com/Comedy_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Comedy_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -22314,7 +22296,7 @@
     "channel": "Comet.us",
     "feed": null,
     "title": "Comet",
-    "url": "https://fl4.moveonjoy.com/COMET/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/COMET/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -22773,7 +22755,7 @@
     "channel": "CourtTV.us",
     "feed": null,
     "title": "Court TV",
-    "url": "https://fl4.moveonjoy.com/COURT_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/COURT_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -22827,7 +22809,7 @@
     "channel": "CoziTV.us",
     "feed": null,
     "title": "Cozi TV",
-    "url": "https://fl4.moveonjoy.com/COZI_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/COZI_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -22854,7 +22836,7 @@
     "channel": "Crave1.ca",
     "feed": null,
     "title": "Crave 1",
-    "url": "https://fl4.moveonjoy.com/CRAVE_1/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CRAVE_1/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -22863,7 +22845,7 @@
     "channel": "Crave2.ca",
     "feed": null,
     "title": "Crave 2",
-    "url": "https://fl4.moveonjoy.com/CRAVE_2/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CRAVE_2/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -22872,7 +22854,7 @@
     "channel": "Crave3.ca",
     "feed": null,
     "title": "Crave 3",
-    "url": "https://fl4.moveonjoy.com/CRAVE_3/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CRAVE_3/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -22881,7 +22863,7 @@
     "channel": "Crave4.ca",
     "feed": null,
     "title": "Crave 4",
-    "url": "https://fl4.moveonjoy.com/CRAVE_4/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CRAVE_4/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -23025,7 +23007,7 @@
     "channel": "CrimePlusInvestigation.us",
     "feed": "SD",
     "title": "Crime + Investigation",
-    "url": "https://fl4.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -23214,7 +23196,7 @@
     "channel": "CSPAN.us",
     "feed": null,
     "title": "C-SPAN",
-    "url": "https://fl4.moveonjoy.com/C-SPAN/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/C-SPAN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -23583,7 +23565,7 @@
     "channel": "CuriosityStream.us",
     "feed": null,
     "title": "CuriosityStream",
-    "url": "https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Curiosity_Stream/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -23664,7 +23646,7 @@
     "channel": "CVMTV.jm",
     "feed": "SD",
     "title": "CVM TV",
-    "url": "https://fl4.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -25029,15 +25011,6 @@
     "quality": "720p"
   },
   {
-    "channel": "DigiOne.id",
-    "feed": null,
-    "title": "DigiOne",
-    "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "Digital15.do",
     "feed": "SD",
     "title": "Digital 15",
@@ -25221,7 +25194,7 @@
     "channel": "DisneyChannel.us",
     "feed": "East",
     "title": "Disney Channel East",
-    "url": "https://fl4.moveonjoy.com/DISNEY/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/DISNEY/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -25266,7 +25239,7 @@
     "channel": "DisneyJunior.us",
     "feed": "East",
     "title": "Disney Junior East",
-    "url": "https://fl4.moveonjoy.com/DISNEY_JR/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -25293,7 +25266,7 @@
     "channel": "DisneyXD.us",
     "feed": "East",
     "title": "Disney XD",
-    "url": "http://fl4.moveonjoy.com/DISNEY_XD/index.m3u8",
+    "url": "http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -26676,15 +26649,6 @@
     "quality": "1080p"
   },
   {
-    "channel": "DuniaGamesTV.id",
-    "feed": null,
-    "title": "Dunia Games TV",
-    "url": "https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "DuniaSinema.my",
     "feed": null,
     "title": "Dunia Sinema",
@@ -26904,7 +26868,7 @@
     "channel": "E.us",
     "feed": "East",
     "title": "E! East",
-    "url": "https://fl4.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -28533,7 +28497,7 @@
     "channel": "ESPNews.us",
     "feed": null,
     "title": "ESPNews",
-    "url": "https://fl4.moveonjoy.com/ESPN_NEWS/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -28542,7 +28506,7 @@
     "channel": "ESPNU.us",
     "feed": null,
     "title": "ESPN U",
-    "url": "https://fl4.moveonjoy.com/ESPN_U/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/ESPN_U/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -29350,6 +29314,15 @@
   },
   {
     "channel": "EWTN.us",
+    "feed": "English",
+    "title": "EWTN",
+    "url": "https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "720p"
+  },
+  {
+    "channel": "EWTN.us",
     "feed": "Europe",
     "title": "EWTN Europe",
     "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
@@ -29359,8 +29332,8 @@
   },
   {
     "channel": "EWTN.us",
-    "feed": "SpanishLatinAmerica",
-    "title": "EWTN el Canal Católico",
+    "feed": "SpainLatinAmerica",
+    "title": "EWTN Spain & Latin America",
     "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
@@ -29368,17 +29341,8 @@
   },
   {
     "channel": "EWTN.us",
-    "feed": "UnitedStates",
-    "title": "EWTN",
-    "url": "https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
-    "channel": "EWTN.us",
-    "feed": "UnitedStates",
-    "title": "EWTN",
+    "feed": "Spanish",
+    "title": "EWTN Spanish",
     "url": "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
@@ -29838,7 +29802,7 @@
     "channel": "FanDuelSportsNetwork.us",
     "feed": null,
     "title": "FanDuel Sports Network",
-    "url": "https://fl4.moveonjoy.com/PAC_12/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/PAC_12/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -29847,7 +29811,7 @@
     "channel": "FanDuelTV.us",
     "feed": null,
     "title": "FanDuel TV",
-    "url": "https://fl4.moveonjoy.com/TVG/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TVG/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -30945,7 +30909,7 @@
     "channel": "FoxBusinessNetwork.us",
     "feed": null,
     "title": "Fox Business Network",
-    "url": "https://fl4.moveonjoy.com/FOX_Business_Network/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FOX_Business_Network/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -31008,7 +30972,7 @@
     "channel": "FoxNewsChannel.us",
     "feed": null,
     "title": "Fox News Channel",
-    "url": "https://fl4.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -31044,7 +31008,7 @@
     "channel": "FoxSoul.us",
     "feed": null,
     "title": "Fox Soul",
-    "url": "https://fl4.moveonjoy.com/FOX_SOUL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FOX_SOUL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -31746,7 +31710,7 @@
     "channel": "Freeform.us",
     "feed": "East",
     "title": "Free form East",
-    "url": "https://fl4.moveonjoy.com/FREE_FORM/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FREE_FORM/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -32016,7 +31980,7 @@
     "channel": "Fuse.us",
     "feed": "East",
     "title": "Fuse East",
-    "url": "https://fl4.moveonjoy.com/FUSE/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FUSE/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -32106,7 +32070,7 @@
     "channel": "FX.us",
     "feed": "East",
     "title": "FX East",
-    "url": "https://fl4.moveonjoy.com/FX/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FX/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -32133,7 +32097,7 @@
     "channel": "FXM.us",
     "feed": "East",
     "title": "FXM East",
-    "url": "https://fl4.moveonjoy.com/FX_MOVIE/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FX_MOVIE/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -32160,7 +32124,7 @@
     "channel": "FXX.us",
     "feed": "East",
     "title": "FXX East",
-    "url": "https://fl4.moveonjoy.com/FXX/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FXX/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -32187,7 +32151,7 @@
     "channel": "FYI.us",
     "feed": "East",
     "title": "FYI East",
-    "url": "https://fl4.moveonjoy.com/FYI/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FYI/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -32479,15 +32443,6 @@
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
-  },
-  {
-    "channel": "GarudaTV.id",
-    "feed": null,
-    "title": "Garuda TV",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "480p"
   },
   {
     "channel": "GaundaPunjabTV.ca",
@@ -32904,6 +32859,15 @@
     "quality": null
   },
   {
+    "channel": "Gen.py",
+    "feed": "SD",
+    "title": "Gen",
+    "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_baja/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "480p"
+  },
+  {
     "channel": "GenerationsTV.fr",
     "feed": null,
     "title": "Generations TV",
@@ -32958,6 +32922,15 @@
     "quality": "720p"
   },
   {
+    "channel": "GeoSuper.pk",
+    "feed": "SD",
+    "title": "Geo Super",
+    "url": "http://116.90.120.149:8000/play/a021/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "1080p"
+  },
+  {
     "channel": "GeoTez.pk",
     "feed": "SD",
     "title": "Geo Tez (576i)",
@@ -32979,7 +32952,7 @@
     "channel": "GetTV.us",
     "feed": null,
     "title": "GetTV",
-    "url": "https://fl4.moveonjoy.com/GET_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/GET_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "480p"
@@ -33591,7 +33564,7 @@
     "channel": "GolfChannel.us",
     "feed": "SD",
     "title": "Golf Channel",
-    "url": "https://fl4.moveonjoy.com/GOLF/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/GOLF/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -34023,7 +33996,7 @@
     "channel": "Grit.us",
     "feed": null,
     "title": "Grit",
-    "url": "https://fl4.moveonjoy.com/GRIT_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/GRIT_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -34905,7 +34878,7 @@
     "channel": "HallmarkChannel.us",
     "feed": "East",
     "title": "Hallmark Channel East",
-    "url": "https://fl4.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -34914,7 +34887,7 @@
     "channel": "HallmarkDrama.us",
     "feed": null,
     "title": "Hallmark Drama",
-    "url": "https://fl4.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -34950,7 +34923,7 @@
     "channel": "HallmarkMoviesMysteries.us",
     "feed": "East",
     "title": "Hallmark Movies Mysteries East",
-    "url": "https://fl4.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -35886,7 +35859,7 @@
     "channel": "History.us",
     "feed": "East",
     "title": "History",
-    "url": "https://fl4.moveonjoy.com/history_channel/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/history_channel/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -36531,15 +36504,6 @@
     "quality": "576p"
   },
   {
-    "channel": "Horee.id",
-    "feed": null,
-    "title": "Horee!",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "HoremowTV.ng",
     "feed": null,
     "title": "HoremowTV",
@@ -36759,7 +36723,7 @@
     "channel": "HSN.us",
     "feed": null,
     "title": "HSN",
-    "url": "https://fl4.moveonjoy.com/HSN/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/HSN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -38478,7 +38442,7 @@
     "channel": "INSP.us",
     "feed": null,
     "title": "INSP",
-    "url": "https://fl4.moveonjoy.com/INSP/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/INSP/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -38730,7 +38694,7 @@
     "channel": "IONPlus.us",
     "feed": "East",
     "title": "ION Plus East",
-    "url": "https://fl4.moveonjoy.com/ION_Plus/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/ION_Plus/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -38775,7 +38739,7 @@
     "channel": "IONTV.us",
     "feed": "East",
     "title": "ION TV East",
-    "url": "https://fl4.moveonjoy.com/ION_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/ION_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -39760,15 +39724,6 @@
     "referrer": null,
     "user_agent": null,
     "quality": null
-  },
-  {
-    "channel": "JakTV.id",
-    "feed": null,
-    "title": "Jak TV",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "480p"
   },
   {
     "channel": "JaliscoTV.mx",
@@ -41130,15 +41085,6 @@
     "quality": "720p"
   },
   {
-    "channel": "JTV.id",
-    "feed": null,
-    "title": "JTV",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "JubiloTV.gt",
     "feed": null,
     "title": "Júbilo TV",
@@ -42082,6 +42028,24 @@
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
+  },
+  {
+    "channel": "KantipurMax.np",
+    "feed": null,
+    "title": "Kantipur Max",
+    "url": "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "KantipurTV.np",
+    "feed": null,
+    "title": "Kantipur TV",
+    "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
   },
   {
     "channel": "KaposTV.hu",
@@ -46623,7 +46587,7 @@
     "channel": "Lifetime.us",
     "feed": "East",
     "title": "Lifetime East",
-    "url": "https://fl4.moveonjoy.com/LIFETIME/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/LIFETIME/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -46632,7 +46596,7 @@
     "channel": "LifetimeMovies.us",
     "feed": "East",
     "title": "Lifetime Movies East",
-    "url": "https://fl4.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -47478,7 +47442,7 @@
     "channel": "LoveNature.ca",
     "feed": null,
     "title": "Love Nature",
-    "url": "https://fl4.moveonjoy.com/LOVE_NATURE/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -49185,15 +49149,6 @@
     "quality": "576p"
   },
   {
-    "channel": "Max2U.id",
-    "feed": null,
-    "title": "Max2U",
-    "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "MAX4.hu",
     "feed": null,
     "title": "MAX4",
@@ -50250,7 +50205,7 @@
     "channel": "MeTV.us",
     "feed": null,
     "title": "MeTV",
-    "url": "https://fl4.moveonjoy.com/ME_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/ME_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -50304,7 +50259,7 @@
     "channel": "MGMPlus.us",
     "feed": "East",
     "title": "MGM+ East",
-    "url": "https://fl4.moveonjoy.com/EPIX/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/EPIX/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -50313,7 +50268,7 @@
     "channel": "MGMPlusMarquee.us",
     "feed": null,
     "title": "MGM+ Marquee",
-    "url": "https://fl4.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -50601,7 +50556,7 @@
     "channel": "MilitaryHistory.us",
     "feed": null,
     "title": "Military History",
-    "url": "https://fl4.moveonjoy.com/Military_History/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Military_History/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -50722,6 +50677,15 @@
     "referrer": null,
     "user_agent": null,
     "quality": null
+  },
+  {
+    "channel": "Minimax.pk",
+    "feed": "SD",
+    "title": "Minimax",
+    "url": "http://116.90.120.149:8000/play/a01c/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "576p"
   },
   {
     "channel": "MinimaxCEE.cz",
@@ -51177,7 +51141,7 @@
     "channel": "MLBNetwork.us",
     "feed": null,
     "title": "MLB Network",
-    "url": "https://fl4.moveonjoy.com/MLB_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -52221,7 +52185,7 @@
     "channel": "MSG.us",
     "feed": null,
     "title": "MSG",
-    "url": "https://fl4.moveonjoy.com/MSG/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/MSG/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -52434,15 +52398,6 @@
     "quality": "1080p"
   },
   {
-    "channel": "MTATV.id",
-    "feed": null,
-    "title": "MTA TV",
-    "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "MtavariArkhi.ge",
     "feed": null,
     "title": "Mtavari Arkhi",
@@ -52527,7 +52482,7 @@
     "channel": "MTV2.us",
     "feed": "East",
     "title": "MTV2",
-    "url": "https://fl4.moveonjoy.com/MTV_2/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/MTV_2/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -52581,7 +52536,7 @@
     "channel": "MTV.us",
     "feed": "East",
     "title": "MTV East",
-    "url": "https://fl4.moveonjoy.com/MTV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/MTV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -52635,7 +52590,7 @@
     "channel": "MTVClassic.us",
     "feed": "East",
     "title": "MTV Classic",
-    "url": "https://fl4.moveonjoy.com/MTV_CLASSIC/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/MTV_CLASSIC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "360p"
@@ -52698,7 +52653,7 @@
     "channel": "MTVLive.us",
     "feed": null,
     "title": "MTV Live",
-    "url": "https://fl4.moveonjoy.com/MTV_LIVE/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/MTV_LIVE/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -52878,7 +52833,7 @@
     "channel": "MTVU.us",
     "feed": null,
     "title": "mtvU",
-    "url": "https://fl4.moveonjoy.com/MTV_U/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/MTV_U/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "480p"
@@ -52914,7 +52869,7 @@
     "channel": "Much.ca",
     "feed": null,
     "title": "Much",
-    "url": "https://fl4.moveonjoy.com/MUCH/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/MUCH/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -54048,7 +54003,7 @@
     "channel": "NationalGeographic.us",
     "feed": "East",
     "title": "National Geographic East",
-    "url": "https://fl4.moveonjoy.com/National_Geographic/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/National_Geographic/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -54138,7 +54093,7 @@
     "channel": "NationalGeographicWild.us",
     "feed": "East",
     "title": "National Geographic Wild East",
-    "url": "https://fl4.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -54381,7 +54336,7 @@
     "channel": "NBATV.us",
     "feed": null,
     "title": "NBA TV",
-    "url": "https://fl4.moveonjoy.com/NBA_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NBA_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -55317,7 +55272,7 @@
     "channel": "NewsNation.us",
     "feed": "East",
     "title": "News Nation",
-    "url": "https://fl4.moveonjoy.com/NEWS_NATION/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NEWS_NATION/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -55452,7 +55407,7 @@
     "channel": "NFLNetwork.us",
     "feed": null,
     "title": "NFL Network",
-    "url": "https://fl4.moveonjoy.com/NFL_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -55461,7 +55416,7 @@
     "channel": "NFLRedZone.us",
     "feed": null,
     "title": "NFL RedZone",
-    "url": "https://fl4.moveonjoy.com/NFL_RedZone/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NFL_RedZone/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -55632,7 +55587,7 @@
     "channel": "NHLNetwork.us",
     "feed": null,
     "title": "NHL Network",
-    "url": "https://fl4.moveonjoy.com/NHL_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -55767,7 +55722,7 @@
     "channel": "Nickelodeon.us",
     "feed": "East",
     "title": "Nickelodeon East",
-    "url": "https://fl4.moveonjoy.com/NICKELODEON/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NICKELODEON/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -55803,7 +55758,7 @@
     "channel": "NickJr.us",
     "feed": "East",
     "title": "Nick Jr. East",
-    "url": "https://fl4.moveonjoy.com/NICK_JR/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NICK_JR/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -55830,7 +55785,7 @@
     "channel": "NickMusic.us",
     "feed": null,
     "title": "Nick Music",
-    "url": "https://fl4.moveonjoy.com/NICK_MUSIC/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -55902,7 +55857,7 @@
     "channel": "Nicktoons.us",
     "feed": "East",
     "title": "Nicktoons East",
-    "url": "https://fl4.moveonjoy.com/NICKTOONS/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NICKTOONS/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -59493,7 +59448,7 @@
     "channel": "OutdoorChannel.us",
     "feed": null,
     "title": "Outdoor Channel",
-    "url": "https://fl4.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -59502,7 +59457,7 @@
     "channel": "OuterMax.us",
     "feed": "East",
     "title": "OuterMax East",
-    "url": "https://fl4.moveonjoy.com/OUTER_MAX/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/OUTER_MAX/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -59520,7 +59475,7 @@
     "channel": "OutsideTV.us",
     "feed": null,
     "title": "Outside TV",
-    "url": "https://fl4.moveonjoy.com/OUTSIDE_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/OUTSIDE_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -59574,7 +59529,7 @@
     "channel": "Ovation.us",
     "feed": null,
     "title": "Ovation",
-    "url": "https://fl4.moveonjoy.com/Ovation/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Ovation/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "1080p"
@@ -59610,7 +59565,7 @@
     "channel": "Oxygen.us",
     "feed": "East",
     "title": "Oxygen East",
-    "url": "https://fl4.moveonjoy.com/OXYGEN/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/OXYGEN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -60093,19 +60048,10 @@
     "quality": null
   },
   {
-    "channel": "ParamountNetwork.id",
-    "feed": null,
-    "title": "Paramount Network (Indonesia)",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "ParamountNetwork.us",
     "feed": "East",
     "title": "Paramount Network East",
-    "url": "https://fl4.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -64389,7 +64335,7 @@
     "channel": "PopTV.us",
     "feed": null,
     "title": "Pop TV",
-    "url": "https://fl4.moveonjoy.com/Pop_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Pop_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -65667,7 +65613,7 @@
     "channel": "PursuitChannel.us",
     "feed": null,
     "title": "Pursuit Channel",
-    "url": "https://fl4.moveonjoy.com/Pursuit_Channel/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Pursuit_Channel/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -66243,7 +66189,7 @@
     "channel": "QVC.us",
     "feed": null,
     "title": "QVC",
-    "url": "https://fl4.moveonjoy.com/QVC/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/QVC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -66373,6 +66319,15 @@
     "referrer": null,
     "user_agent": null,
     "quality": "480p"
+  },
+  {
+    "channel": "RaaviTV.pk",
+    "feed": "SD",
+    "title": "Raavi TV",
+    "url": "http://116.90.120.149:8000/play/a01f/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "576p"
   },
   {
     "channel": "RabehSaqer.sa",
@@ -67046,6 +67001,15 @@
     "title": "Radio Suyai TV",
     "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
     "referrer": "https://radio.suyaitv.cl",
+    "user_agent": null,
+    "quality": "1080p"
+  },
+  {
+    "channel": "RadioSWHTV.lv",
+    "feed": "SD",
+    "title": "Radio SWH TV",
+    "url": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
+    "referrer": null,
     "user_agent": null,
     "quality": "1080p"
   },
@@ -67858,15 +67822,6 @@
     "referrer": null,
     "user_agent": null,
     "quality": "576p"
-  },
-  {
-    "channel": "RajawaliTV.id",
-    "feed": null,
-    "title": "Rajawali TV",
-    "url": "https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
   },
   {
     "channel": "RajawaliTV.id",
@@ -69159,7 +69114,7 @@
     "channel": "Reelz.us",
     "feed": null,
     "title": "Reelz",
-    "url": "https://fl4.moveonjoy.com/REELZ/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/REELZ/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -69681,7 +69636,7 @@
     "channel": "Revolt.us",
     "feed": null,
     "title": "Revolt",
-    "url": "https://fl4.moveonjoy.com/REVOLT/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/REVOLT/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -73494,6 +73449,15 @@
     "quality": "576p"
   },
   {
+    "channel": "SamaaTV.pk",
+    "feed": "SD",
+    "title": "Samaa TV",
+    "url": "http://116.90.120.149:8000/play/a01g/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "576p"
+  },
+  {
     "channel": "SamacharPlus24x7.in",
     "feed": null,
     "title": "Samachar Plus",
@@ -73573,6 +73537,15 @@
     "referrer": null,
     "user_agent": null,
     "quality": "540p"
+  },
+  {
+    "channel": "SampitTV.id",
+    "feed": null,
+    "title": "Sampit TV",
+    "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "720p"
   },
   {
     "channel": "SamsungMovieSphere.us",
@@ -74232,15 +74205,6 @@
     "quality": "1080p"
   },
   {
-    "channel": "SEAToday.id",
-    "feed": null,
-    "title": "Sea Today",
-    "url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "720p"
-  },
-  {
     "channel": "SEATV.kh",
     "feed": null,
     "title": "SEATV",
@@ -74257,6 +74221,15 @@
     "referrer": null,
     "user_agent": null,
     "quality": "1080p"
+  },
+  {
+    "channel": "SeeTV.pk",
+    "feed": "SD",
+    "title": "See TV",
+    "url": "http://116.90.120.149:8000/play/a01l/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "576p"
   },
   {
     "channel": "SelangorTV.my",
@@ -75387,7 +75360,7 @@
     "channel": "Showtime2.us",
     "feed": "East",
     "title": "Showtime 2 East",
-    "url": "https://fl4.moveonjoy.com/SHOWTIME_2/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -75396,7 +75369,7 @@
     "channel": "Showtime.us",
     "feed": "East",
     "title": "Showtime East",
-    "url": "https://fl4.moveonjoy.com/SHOWTIME/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SHOWTIME/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -75405,7 +75378,7 @@
     "channel": "Showtime.us",
     "feed": "West",
     "title": "Showtime West",
-    "url": "https://fl4.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "1080p"
@@ -75414,7 +75387,7 @@
     "channel": "ShowtimeNext.us",
     "feed": "East",
     "title": "Showtime Next East",
-    "url": "https://fl4.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -75423,7 +75396,7 @@
     "channel": "ShowtimeWomen.us",
     "feed": "East",
     "title": "Showtime Women East",
-    "url": "https://fl4.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -76269,7 +76242,7 @@
     "channel": "SmithsonianChannel.us",
     "feed": "East",
     "title": "Smithsonian Channel East",
-    "url": "https://fl4.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -76656,7 +76629,7 @@
     "channel": "SonyChannel.mx",
     "feed": null,
     "title": "Sony Channel",
-    "url": "https://fl4.moveonjoy.com/Sony_Movie_Channel/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -77277,7 +77250,7 @@
     "channel": "SportsmanChannel.us",
     "feed": null,
     "title": "Sportsman Channel",
-    "url": "https://fl4.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -77286,7 +77259,7 @@
     "channel": "SportsNetNewYork.us",
     "feed": null,
     "title": "SportsNet New York",
-    "url": "https://fl4.moveonjoy.com/SNY/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SNY/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "540p"
@@ -77544,6 +77517,15 @@
     "quality": "1080p"
   },
   {
+    "channel": "StarGoldThrills.in",
+    "feed": "SD",
+    "title": "Star Gold Thrills",
+    "url": "http://116.90.120.149:8000/play/a0c0/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "576p"
+  },
+  {
     "channel": "StarKentrikisElladas.gr",
     "feed": null,
     "title": "Star Kentrikis Elladas",
@@ -77587,6 +77569,15 @@
     "referrer": null,
     "user_agent": null,
     "quality": null
+  },
+  {
+    "channel": "StarSports1Hindi.in",
+    "feed": "HD",
+    "title": "Star Sports 1 Hindi HD",
+    "url": "http://116.90.120.149:8000/play/a0bv/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "1080p"
   },
   {
     "channel": "StarSports1Tamil.in",
@@ -77682,7 +77673,7 @@
     "channel": "StartTV.us",
     "feed": null,
     "title": "Start TV",
-    "url": "https://fl4.moveonjoy.com/Start_Tv/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Start_Tv/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -77745,7 +77736,7 @@
     "channel": "Starz.us",
     "feed": "East",
     "title": "Starz East",
-    "url": "https://fl4.moveonjoy.com/STARZ/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/STARZ/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -77772,7 +77763,7 @@
     "channel": "Starz.us",
     "feed": "West",
     "title": "Starz West",
-    "url": "https://fl4.moveonjoy.com/STARZ_WEST/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/STARZ_WEST/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -77781,7 +77772,7 @@
     "channel": "StarzEncoreClassic.us",
     "feed": "East",
     "title": "Starz Encore Classic East",
-    "url": "https://fl4.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -78168,7 +78159,7 @@
     "channel": "StoriesbyAMC.us",
     "feed": "EastHD",
     "title": "Stories by AMC",
-    "url": "http://fl4.moveonjoy.com/AMC_NETWORK/index.m3u8",
+    "url": "http://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "1080p"
@@ -78636,7 +78627,7 @@
     "channel": "SundanceTV.us",
     "feed": "East",
     "title": "Sundance TV East",
-    "url": "https://fl4.moveonjoy.com/SUNDANCE/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SUNDANCE/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -79329,7 +79320,7 @@
     "channel": "Syfy.us",
     "feed": "East",
     "title": "Syfy East",
-    "url": "https://fl4.moveonjoy.com/SYFY/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/SYFY/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -80481,7 +80472,7 @@
     "channel": "TeenNick.us",
     "feed": null,
     "title": "TeenNick",
-    "url": "https://fl4.moveonjoy.com/Teen_Nick/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Teen_Nick/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -82947,7 +82938,7 @@
     "channel": "TennisChannel.us",
     "feed": null,
     "title": "Tennis Channel",
-    "url": "https://fl4.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -83550,7 +83541,7 @@
     "channel": "TheCowboyChannel.us",
     "feed": null,
     "title": "The Cowboy Channel",
-    "url": "https://fl4.moveonjoy.com/Cowboy_Channel/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Cowboy_Channel/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -86538,7 +86529,7 @@
     "channel": "TSN1.ca",
     "feed": null,
     "title": "TSN1",
-    "url": "https://fl4.moveonjoy.com/TSN_1/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TSN_1/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "1080p"
@@ -86565,7 +86556,7 @@
     "channel": "TSN2.ca",
     "feed": null,
     "title": "TSN2",
-    "url": "https://fl4.moveonjoy.com/TSN_2/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TSN_2/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -86592,7 +86583,7 @@
     "channel": "TSN3.ca",
     "feed": null,
     "title": "TSN3",
-    "url": "https://fl4.moveonjoy.com/TSN_3/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TSN_3/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -86619,7 +86610,7 @@
     "channel": "TSN4.ca",
     "feed": null,
     "title": "TSN4",
-    "url": "https://fl4.moveonjoy.com/TSN_4/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TSN_4/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -86646,7 +86637,7 @@
     "channel": "TSN5.ca",
     "feed": null,
     "title": "TSN5",
-    "url": "https://fl4.moveonjoy.com/TSN_5/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TSN_5/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -89724,7 +89715,7 @@
     "channel": "TVJ.jm",
     "feed": null,
     "title": "TVJ",
-    "url": "https://fl4.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -89868,7 +89859,7 @@
     "channel": "TVLand.us",
     "feed": "East",
     "title": "TV Land",
-    "url": "https://fl4.moveonjoy.com/TV_LAND/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TV_LAND/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -90441,6 +90432,15 @@
     "quality": "1080p"
   },
   {
+    "channel": "TVMparati.ve",
+    "feed": null,
+    "title": "TVM para ti",
+    "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": "1080p"
+  },
+  {
     "channel": "TVMu.id",
     "feed": null,
     "title": "TV Mu",
@@ -90768,7 +90768,7 @@
     "channel": "TVOne.us",
     "feed": null,
     "title": "TV One",
-    "url": "https://fl4.moveonjoy.com/TV_ONE/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/TV_ONE/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -93855,7 +93855,7 @@
     "channel": "UpTV.us",
     "feed": null,
     "title": "Up TV",
-    "url": "https://fl4.moveonjoy.com/Up_Tv/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Up_Tv/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "1080p"
@@ -93918,7 +93918,7 @@
     "channel": "USANetwork.us",
     "feed": "East",
     "title": "USA Network",
-    "url": "http://fl4.moveonjoy.com/USA_NETWORK/index.m3u8",
+    "url": "http://fl7.moveonjoy.com/USA_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -94746,7 +94746,7 @@
     "channel": "VH1.us",
     "feed": "East",
     "title": "VH1 East",
-    "url": "https://fl4.moveonjoy.com/VH1/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/VH1/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -94872,7 +94872,7 @@
     "channel": "VICETV.us",
     "feed": null,
     "title": "VICE TV",
-    "url": "https://fl4.moveonjoy.com/VICELAND/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/VICELAND/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -97014,7 +97014,7 @@
     "channel": "WeTV.us",
     "feed": "East",
     "title": "We TV East",
-    "url": "https://fl4.moveonjoy.com/WE_TV/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/WE_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -97032,7 +97032,7 @@
     "channel": "WFLADT1.us",
     "feed": "SD",
     "title": "WFLA-DT1",
-    "url": "https://fl4.moveonjoy.com/FL_Tampa_NBC/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FL_Tampa_NBC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -97050,7 +97050,7 @@
     "channel": "WFLXDT1.us",
     "feed": "SD",
     "title": "WFLX-DT1",
-    "url": "https://fl4.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -97086,7 +97086,7 @@
     "channel": "WFTSDT1.us",
     "feed": "SD",
     "title": "WFTS-DT1",
-    "url": "https://fl4.moveonjoy.com/FL_Tampa_ABC/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -97194,7 +97194,7 @@
     "channel": "WGNDT1.us",
     "feed": null,
     "title": "WGN-DT1",
-    "url": "https://fl4.moveonjoy.com/WGN/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/WGN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -97428,7 +97428,7 @@
     "channel": "Willow.us",
     "feed": null,
     "title": "Willow",
-    "url": "https://fl4.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -97707,7 +97707,7 @@
     "channel": "WKCFDT1.us",
     "feed": "SD",
     "title": "WKCF-DT1",
-    "url": "https://fl4.moveonjoy.com/CW_ORLANDO/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/CW_ORLANDO/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -97932,7 +97932,7 @@
     "channel": "WNBCDT1.us",
     "feed": null,
     "title": "WNBC-DT1",
-    "url": "https://fl4.moveonjoy.com/NBC_EAST/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/NBC_EAST/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -97995,7 +97995,7 @@
     "channel": "WNetwork.ca",
     "feed": "East",
     "title": "W Network",
-    "url": "https://fl4.moveonjoy.com/W_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/W_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
@@ -98031,7 +98031,7 @@
     "channel": "WNYWDT1.us",
     "feed": null,
     "title": "WNYW-DT1",
-    "url": "https://fl4.moveonjoy.com/FOX_EAST/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FOX_EAST/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -98085,7 +98085,7 @@
     "channel": "WOLODT1.us",
     "feed": null,
     "title": "ABC 25 Columbia",
-    "url": "https://fl4.moveonjoy.com/ABC_EAST/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/ABC_EAST/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -98211,7 +98211,7 @@
     "channel": "WorldFishingNetwork.us",
     "feed": null,
     "title": "World Fishing Network",
-    "url": "https://fl4.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -98418,7 +98418,7 @@
     "channel": "WPECDT1.us",
     "feed": "SD",
     "title": "WPEC-DT1",
-    "url": "https://fl4.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -98679,7 +98679,7 @@
     "channel": "WTOGDT1.us",
     "feed": "SD",
     "title": "WTOG-DT1",
-    "url": "https://fl4.moveonjoy.com/FL_Tampa_CW44/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -98823,7 +98823,7 @@
     "channel": "WVGNLD1.vi",
     "feed": "SD",
     "title": "WVGN-LD1",
-    "url": "https://fl4.moveonjoy.com/Virgin_Islands_NBC/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/Virgin_Islands_NBC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -99777,7 +99777,7 @@
     "channel": "YesNetwork.us",
     "feed": null,
     "title": "Yes Network",
-    "url": "https://fl4.moveonjoy.com/YES_NETWORK/index.m3u8",
+    "url": "https://fl7.moveonjoy.com/YES_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -100474,15 +100474,6 @@
     "referrer": null,
     "user_agent": null,
     "quality": "720p"
-  },
-  {
-    "channel": "ZeeBioskop.id",
-    "feed": null,
-    "title": "Zee Bioskop",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": "360p"
   },
   {
     "channel": "ZeeBollymovies.za",
@@ -101367,15 +101358,6 @@
     "quality": null
   },
   {
-    "channel": "4pm.in",
-    "feed": null,
-    "title": "4PM",
-    "url": "https://www.youtube-nocookie.com/embed/HxvaPmrT0x4",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "e5dc0efe0347e652.ua",
     "feed": null,
     "title": "5 канал",
@@ -101406,7 +101388,7 @@
     "channel": "7Info.ci",
     "feed": null,
     "title": "7 Info",
-    "url": "https://www.youtube-nocookie.com/embed/7vNducTEIHM",
+    "url": "https://www.youtube-nocookie.com/embed/RAJ2VfW6cTQ",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -101442,6 +101424,15 @@
     "channel": "7c4afd32f4adc0ac.ru",
     "feed": null,
     "title": "12 канал",
+    "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "7c4afd32f4adc0ac.ru",
+    "feed": null,
+    "title": "12 канал",
     "url": "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
@@ -101451,7 +101442,25 @@
     "channel": "12tv-alicante.es",
     "feed": null,
     "title": "12TV Alicante",
+    "url": "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "12tv-alicante.es",
+    "feed": null,
+    "title": "12TV Alicante",
     "url": "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "13-teleseries.cl",
+    "feed": null,
+    "title": "13 Teleseries",
+    "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -101677,15 +101686,6 @@
     "feed": null,
     "title": "Aaj TV",
     "url": "https://www.youtube-nocookie.com/embed/SNI-LDceNBA",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "AasthaBhajan.in",
-    "feed": null,
-    "title": "Aastha Bhajan",
-    "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -102258,15 +102258,6 @@
     "quality": null
   },
   {
-    "channel": "access-tuolumne-tuolumne-county-ca.us",
-    "feed": null,
-    "title": "Access Tuolumne (Tuolumne County CA)",
-    "url": "https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "accn.us",
     "feed": null,
     "title": "ACCN",
@@ -102297,7 +102288,7 @@
     "channel": "AdomTV.gh",
     "feed": null,
     "title": "Adom TV",
-    "url": "https://www.youtube-nocookie.com/embed/ODhEXfl6Kqk",
+    "url": "https://www.youtube-nocookie.com/embed/dW0z_-rQBjs",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -102555,15 +102546,6 @@
     "quality": null
   },
   {
-    "channel": "al-mahditv.us",
-    "feed": null,
-    "title": "Al-MahdiTV",
-    "url": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "AlArabyTV.qa",
     "feed": null,
     "title": "Alaraby TV",
@@ -102621,7 +102603,7 @@
     "channel": "AlikhbariaSyria.sy",
     "feed": null,
     "title": "Alikhbaria Syria",
-    "url": "https://www.youtube-nocookie.com/embed/YdmPiwCrtM4",
+    "url": "https://www.youtube-nocookie.com/embed/kpwUoBhNEPo",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -102771,6 +102753,15 @@
     "quality": null
   },
   {
+    "channel": "anewz.za",
+    "feed": null,
+    "title": "AnewZ",
+    "url": "https://www.youtube-nocookie.com/embed/nUnV3z9OnpE",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "anger-management-en-espanol.us",
     "feed": null,
     "title": "Anger Management en Espanol",
@@ -102792,7 +102783,7 @@
     "channel": "ani-news.in",
     "feed": null,
     "title": "ANI News",
-    "url": "https://www.youtube-nocookie.com/embed/W1stFN_hTDg",
+    "url": "https://www.youtube-nocookie.com/embed/XeFI4XIVjm4",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -102828,16 +102819,7 @@
     "channel": "ANNNews.in",
     "feed": null,
     "title": "ANN News",
-    "url": "https://www.youtube-nocookie.com/embed/bCngobp9Ubc",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "ANNNews.in",
-    "feed": null,
-    "title": "ANN News",
-    "url": "https://www.youtube-nocookie.com/embed/qE9dvrNm2iI",
+    "url": "https://www.youtube-nocookie.com/embed/Ux3lylZJ9Nc",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -102852,10 +102834,10 @@
     "quality": null
   },
   {
-    "channel": "AntennaTV.us",
+    "channel": "antofagasta-tv-atv.cl",
     "feed": null,
-    "title": "Antenna TV",
-    "url": "https://fl7.moveonjoy.com/Antenna_TV/index.m3u8",
+    "title": "Antofagasta TV (ATV)",
+    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -102915,15 +102897,6 @@
     "quality": null
   },
   {
-    "channel": "artv-canal-parlamento.pt",
-    "feed": null,
-    "title": "ARTV Canal Parlamento",
-    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "ARYNews.pk",
     "feed": null,
     "title": "ARY News",
@@ -102936,7 +102909,7 @@
     "channel": "asahi-documentary.jp",
     "feed": null,
     "title": "Asahi: Documentary",
-    "url": "https://www.youtube-nocookie.com/embed/VuA-8779U04",
+    "url": "https://www.youtube-nocookie.com/embed/tMbT_-tF7ps",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -102982,15 +102955,6 @@
     "feed": null,
     "title": "Aşk-ı Nevâ",
     "url": "https://www.youtube-nocookie.com/embed/OyuqW7A4gmg",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Aspire.us",
-    "feed": null,
-    "title": "Aspire",
-    "url": "https://fl7.moveonjoy.com/Aspire/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -103068,24 +103032,6 @@
     "quality": null
   },
   {
-    "channel": "auto-tv.mn",
-    "feed": null,
-    "title": "Auto TV",
-    "url": "https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "AwaazIndiaTV.in",
-    "feed": null,
-    "title": "Awaaz India TV",
-    "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "AwakeningTV.in",
     "feed": null,
     "title": "Awakening TV",
@@ -103098,16 +103044,7 @@
     "channel": "awaz-tv-news.pk",
     "feed": null,
     "title": "Awaz Tv News",
-    "url": "https://www.youtube-nocookie.com/embed/NQapGhfRW7Y",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "AXSTV.us",
-    "feed": null,
-    "title": "AXS TV",
-    "url": "https://fl7.moveonjoy.com/Axs_TV/index.m3u8",
+    "url": "https://www.youtube-nocookie.com/embed/aByYs0LD-xQ",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -103170,7 +103107,7 @@
     "channel": "BakuTV.az",
     "feed": null,
     "title": "Baku TV",
-    "url": "https://www.youtube-nocookie.com/embed/KfViyK0rcmk",
+    "url": "https://www.youtube-nocookie.com/embed/tAUxUpbhPPA",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -103275,15 +103212,6 @@
     "quality": null
   },
   {
-    "channel": "BBCAmerica.us",
-    "feed": null,
-    "title": "BBC America",
-    "url": "https://fl7.moveonjoy.com/BBC_AMERICA/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "bbc-drama-italy.it",
     "feed": null,
     "title": "BBC Drama Italy",
@@ -103297,15 +103225,6 @@
     "feed": null,
     "title": "BBC Four UK HD",
     "url": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "bbc-news-asia-pacific.uk",
-    "feed": null,
-    "title": "BBC News Asia Pacific",
-    "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -103527,37 +103446,10 @@
     "quality": null
   },
   {
-    "channel": "BETGospel.us",
-    "feed": null,
-    "title": "BET Gospel",
-    "url": "https://fl7.moveonjoy.com/BET_GOSPEL/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "bet-her-east.us",
     "feed": null,
     "title": "BET Her East",
     "url": "https://fl7.moveonjoy.com/BET_HER/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "BETJams.us",
-    "feed": null,
-    "title": "BET Jams",
-    "url": "https://fl7.moveonjoy.com/BET_Jams/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "BETSoul.us",
-    "feed": null,
-    "title": "BET Soul",
-    "url": "https://fl7.moveonjoy.com/BET_SOUL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -103662,15 +103554,6 @@
     "quality": null
   },
   {
-    "channel": "BigTenNetwork.us",
-    "feed": null,
-    "title": "Big Ten Network",
-    "url": "https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "big-tv-telugu-news.in",
     "feed": null,
     "title": "BIG TV Telugu News",
@@ -103738,15 +103621,6 @@
     "feed": null,
     "title": "Bloomberg Podcasts",
     "url": "https://www.youtube-nocookie.com/embed/f39oHo6vFLg",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "bloomberg-tv-mongolia-hd.mn",
-    "feed": null,
-    "title": "Bloomberg TV Mongolia HD",
-    "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -103896,15 +103770,6 @@
     "quality": null
   },
   {
-    "channel": "Bounce.us",
-    "feed": null,
-    "title": "Bounce",
-    "url": "https://fl7.moveonjoy.com/BOUNCE_TV/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "boxing-tv.us",
     "feed": null,
     "title": "Boxing TV",
@@ -103950,7 +103815,7 @@
     "quality": null
   },
   {
-    "channel": "BTV.ug",
+    "channel": "BTV.sk",
     "feed": null,
     "title": "BTV",
     "url": "https://www.youtube-nocookie.com/embed/N-UGU17tJss",
@@ -104017,24 +103882,6 @@
     "feed": null,
     "title": "Business Insider",
     "url": "https://www.youtube-nocookie.com/embed/pSa4yQr2fdQ",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Buzzr.us",
-    "feed": null,
-    "title": "BUZZR",
-    "url": "https://fl7.moveonjoy.com/Buzzr/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "CSPAN.us",
-    "feed": null,
-    "title": "C-SPAN",
-    "url": "https://fl7.moveonjoy.com/C-SPAN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -104112,6 +103959,15 @@
     "quality": null
   },
   {
+    "channel": "campus-tv-talca.cl",
+    "feed": null,
+    "title": "Campus TV (Talca)",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "canal-6-ertv.ar",
     "feed": null,
     "title": "Canal 6 ERTV",
@@ -104152,15 +104008,6 @@
     "feed": null,
     "title": "Canal 9 en Français",
     "url": "https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "canal-10-576i.cr",
-    "feed": null,
-    "title": "Canal 10 (576i)",
-    "url": "https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -104251,15 +104098,6 @@
     "feed": null,
     "title": "Canal 44 Chihuahua",
     "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "canal-44-ciudad-juarez.mx",
-    "feed": null,
-    "title": "Canal 44 Ciudad Juárez",
-    "url": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -104691,7 +104529,7 @@
     "channel": "cbs-news.us",
     "feed": null,
     "title": "CBS News",
-    "url": "https://www.youtube-nocookie.com/embed/I284C4OZugI",
+    "url": "https://www.youtube-nocookie.com/embed/QYPB8cakuPU",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -104710,15 +104548,6 @@
     "feed": null,
     "title": "CBS News Texas",
     "url": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "CBSSportsNetworkUSA.us",
-    "feed": null,
-    "title": "CBS Sports Network USA",
-    "url": "https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -104850,7 +104679,7 @@
     "quality": null
   },
   {
-    "channel": "Channel8.iq",
+    "channel": "Channel8.th",
     "feed": null,
     "title": "Channel 8",
     "url": "https://www.youtube-nocookie.com/embed/WDWRU1R3sNM",
@@ -104886,15 +104715,6 @@
     "quality": null
   },
   {
-    "channel": "ChannelOne.us",
-    "feed": null,
-    "title": "Channel One",
-    "url": "https://www.youtube-nocookie.com/embed/RVsSddcIFVo",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "channels-television.ng",
     "feed": null,
     "title": "Channels Television",
@@ -104908,15 +104728,6 @@
     "feed": null,
     "title": "Charlotte County CC-TV (Charlotte County FA)",
     "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "CHBLTV.ca",
-    "feed": null,
-    "title": "CHBL-TV",
-    "url": "https://fl7.moveonjoy.com/CA_GLOBAL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -104943,7 +104754,7 @@
     "channel": "ChileVision.cl",
     "feed": null,
     "title": "Chilevisión",
-    "url": "https://www.youtube-nocookie.com/embed/u9pPv4VD4HQ",
+    "url": "https://www.youtube-nocookie.com/embed/Gx9JpMx0KYM",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105102,15 +104913,6 @@
     "quality": null
   },
   {
-    "channel": "CleoTV.us",
-    "feed": null,
-    "title": "Cleo TV",
-    "url": "https://fl7.moveonjoy.com/Cleo_TV/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "click-tv-coronel.cl",
     "feed": null,
     "title": "Click TV (Coronel)",
@@ -105123,7 +104925,7 @@
     "channel": "clifford-the-big-red-dog-classic.us",
     "feed": null,
     "title": "Clifford the Big Red Dog: Classic",
-    "url": "https://www.youtube-nocookie.com/embed/Ho1Li0oqhWU",
+    "url": "https://www.youtube-nocookie.com/embed/AF-MUTFkGpk",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105132,7 +104934,7 @@
     "channel": "clifford-the-big-red-dog-clifford-s-puppy-days.us",
     "feed": null,
     "title": "Clifford the Big Red Dog: Clifford's Puppy Days",
-    "url": "https://www.youtube-nocookie.com/embed/4hA6PqNPe-A",
+    "url": "https://www.youtube-nocookie.com/embed/mXSbIkyhN0k",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105156,15 +104958,6 @@
     "quality": null
   },
   {
-    "channel": "cmt-east.us",
-    "feed": null,
-    "title": "CMT East",
-    "url": "https://fl7.moveonjoy.com/CMT/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "cna-insider.sg",
     "feed": null,
     "title": "CNA Insider",
@@ -105178,15 +104971,6 @@
     "feed": null,
     "title": "CNA International",
     "url": "https://www.youtube-nocookie.com/embed/XWq5kBlakcQ",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "CNBC.us",
-    "feed": null,
-    "title": "CNBC",
-    "url": "https://fl7.moveonjoy.com/CNBC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105219,24 +105003,6 @@
     "quality": null
   },
   {
-    "channel": "cnbc-mgl.mn",
-    "feed": null,
-    "title": "CNBC MGL",
-    "url": "https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "CNBCWorld.us",
-    "feed": null,
-    "title": "CNBC World",
-    "url": "https://fl7.moveonjoy.com/CNBC_World/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "CNC.kh",
     "feed": null,
     "title": "CNC",
@@ -105249,7 +105015,7 @@
     "channel": "CNNBrasil.br",
     "feed": null,
     "title": "CNN Brasil",
-    "url": "https://www.youtube-nocookie.com/embed/93DZFevC3PE",
+    "url": "https://www.youtube-nocookie.com/embed/UquQ3GpiydU",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105322,24 +105088,6 @@
     "feed": null,
     "title": "Comedy Central East",
     "url": "https://fl7.moveonjoy.com/Comedy_Central/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "ComedyTV.us",
-    "feed": null,
-    "title": "Comedy TV",
-    "url": "https://fl7.moveonjoy.com/Comedy_TV/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Comet.us",
-    "feed": null,
-    "title": "Comet",
-    "url": "https://fl7.moveonjoy.com/COMET/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105435,15 +105183,6 @@
     "quality": null
   },
   {
-    "channel": "CoziTV.us",
-    "feed": null,
-    "title": "Cozi TV",
-    "url": "https://fl7.moveonjoy.com/COZI_TV/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "cpac.ca",
     "feed": null,
     "title": "CPAC",
@@ -105465,7 +105204,7 @@
     "channel": "crafter-s-tv.uk",
     "feed": null,
     "title": "Crafter's TV",
-    "url": "https://www.youtube-nocookie.com/embed/R6QnGnVFJzs",
+    "url": "https://www.youtube-nocookie.com/embed/11Vl2FERYM0",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105484,42 +105223,6 @@
     "feed": null,
     "title": "CraftsyTV",
     "url": "https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Crave1.ca",
-    "feed": null,
-    "title": "Crave 1",
-    "url": "https://fl7.moveonjoy.com/CRAVE_1/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Crave2.ca",
-    "feed": null,
-    "title": "Crave 2",
-    "url": "https://fl7.moveonjoy.com/CRAVE_2/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Crave3.ca",
-    "feed": null,
-    "title": "Crave 3",
-    "url": "https://fl7.moveonjoy.com/CRAVE_3/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Crave4.ca",
-    "feed": null,
-    "title": "Crave 4",
-    "url": "https://fl7.moveonjoy.com/CRAVE_4/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105583,15 +105286,6 @@
     "feed": null,
     "title": "Crime & Justice",
     "url": "https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "CrimePlusInvestigation.us",
-    "feed": null,
-    "title": "Crime + Investigation",
-    "url": "https://fl7.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105786,15 +105480,6 @@
     "quality": null
   },
   {
-    "channel": "CVMTV.jm",
-    "feed": null,
-    "title": "CVM TV",
-    "url": "https://fl7.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "cypress-public-access-channel-36-cypress-ca.us",
     "feed": null,
     "title": "Cypress Public Access Channel 36 (Cypress CA)",
@@ -105834,7 +105519,7 @@
     "channel": "dainik-gomantak-tv.in",
     "feed": null,
     "title": "Dainik Gomantak TV",
-    "url": "https://www.youtube-nocookie.com/embed/JcNuewhTJ3c",
+    "url": "https://www.youtube-nocookie.com/embed/FckGLzE8zgU",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -105930,6 +105615,15 @@
     "quality": null
   },
   {
+    "channel": "dc-council-channel.us",
+    "feed": null,
+    "title": "DC Council Channel",
+    "url": "https://video.oct.dc.gov/out/u/DCC.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "dc-gov-council-hearing-room-120-washington-dc.us",
     "feed": null,
     "title": "DC.gov Council Hearing Room 120 (Washington DC)",
@@ -106020,15 +105714,6 @@
     "quality": null
   },
   {
-    "channel": "decima-tv-ancud.cl",
-    "feed": null,
-    "title": "Décima TV (Ancud)",
-    "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "def-jam.us",
     "feed": null,
     "title": "Def Jam",
@@ -106068,7 +105753,7 @@
     "channel": "DeshTV.bd",
     "feed": null,
     "title": "Desh TV",
-    "url": "https://www.youtube-nocookie.com/embed/iaHj3OauQIY",
+    "url": "https://www.youtube-nocookie.com/embed/YlxHKJq8lKI",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -106095,7 +105780,7 @@
     "channel": "dgv.vn",
     "feed": null,
     "title": "DGV",
-    "url": "https://www.youtube-nocookie.com/embed/NDMh6TT2Lt8",
+    "url": "https://www.youtube-nocookie.com/embed/6fwKBBq1_FQ",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -106218,6 +105903,24 @@
     "quality": null
   },
   {
+    "channel": "DisneyXD.us",
+    "feed": null,
+    "title": "Disney XD",
+    "url": "https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "district-of-columbia-network-dcn.us",
+    "feed": null,
+    "title": "District of Columbia Network (DCN)",
+    "url": "https://video.oct.dc.gov/out/u/DCN.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "DitisHelmond.nl",
     "feed": null,
     "title": "Dit is Helmond",
@@ -106272,6 +105975,15 @@
     "quality": null
   },
   {
+    "channel": "DongThapTV.vn",
+    "feed": null,
+    "title": "Dong Thap TV",
+    "url": "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "dr-g-medical-examiner.us",
     "feed": null,
     "title": "Dr. G Medical Examiner",
@@ -106285,15 +105997,6 @@
     "feed": null,
     "title": "Dr. Seuss",
     "url": "https://www.youtube-nocookie.com/embed/e5j9WSHOFnI",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "dream-tv.mn",
-    "feed": null,
-    "title": "Dream TV",
-    "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -106410,15 +106113,6 @@
     "channel": "dw-english.de",
     "feed": null,
     "title": "DW English",
-    "url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "dw-english.de",
-    "feed": null,
-    "title": "DW English",
     "url": "https://www.youtube-nocookie.com/embed/LuKwFajn37U",
     "referrer": null,
     "user_agent": null,
@@ -106483,15 +106177,6 @@
     "feed": null,
     "title": "E! Keeping Up",
     "url": "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "eagle-news-hd.mn",
-    "feed": null,
-    "title": "Eagle News HD",
-    "url": "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -106614,15 +106299,6 @@
     "quality": null
   },
   {
-    "channel": "education.mn",
-    "feed": null,
-    "title": "Education",
-    "url": "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "educatv.ec",
     "feed": null,
     "title": "EducaTV",
@@ -106689,7 +106365,7 @@
     "channel": "el-observador-107-9.ar",
     "feed": null,
     "title": "El Observador 107.9",
-    "url": "https://www.youtube-nocookie.com/embed/NuvdGXCtz6w",
+    "url": "https://www.youtube-nocookie.com/embed/P2yibI2KhF8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -106743,7 +106419,7 @@
     "channel": "el-tres-tv.ar",
     "feed": null,
     "title": "El Tres TV",
-    "url": "https://www.youtube-nocookie.com/embed/13f6IxRyz6c",
+    "url": "https://www.youtube-nocookie.com/embed/zwwCCMCt6yA",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -106843,24 +106519,6 @@
     "feed": null,
     "title": "Eska Rock Dobrze Rockuje (1080i)",
     "url": "https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "ESPNU.us",
-    "feed": null,
-    "title": "ESPN U",
-    "url": "https://fl7.moveonjoy.com/ESPN_U/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "ESPNews.us",
-    "feed": null,
-    "title": "ESPNews",
-    "url": "https://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -107118,24 +106776,6 @@
     "quality": null
   },
   {
-    "channel": "FanDuelSportsNetwork.us",
-    "feed": null,
-    "title": "FanDuel Sports Network",
-    "url": "https://fl7.moveonjoy.com/PAC_12/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "FanDuelTV.us",
-    "feed": null,
-    "title": "FanDuel TV",
-    "url": "https://fl7.moveonjoy.com/TVG/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "fanduel-tv-extra.us",
     "feed": null,
     "title": "Fanduel TV Extra",
@@ -107185,15 +106825,6 @@
     "feed": null,
     "title": "FGTEEV",
     "url": "https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "film-atolyesi-sener-sen-filmleri.tr",
-    "feed": null,
-    "title": "Film Atölyesi: Şener Şen Filmleri",
-    "url": "https://www.youtube-nocookie.com/embed/co9vp4TNYYY",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -107688,25 +107319,7 @@
     "channel": "FoxNewsChannel.us",
     "feed": null,
     "title": "Fox News Channel",
-    "url": "https://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "FoxNewsChannel.us",
-    "feed": null,
-    "title": "Fox News Channel",
     "url": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "FoxSoul.us",
-    "feed": null,
-    "title": "Fox Soul",
-    "url": "https://fl7.moveonjoy.com/FOX_SOUL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -107973,15 +107586,6 @@
     "quality": null
   },
   {
-    "channel": "free-form-east.us",
-    "feed": null,
-    "title": "Free form East",
-    "url": "https://fl7.moveonjoy.com/FREE_FORM/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "freedom-free-om-uatv.ua",
     "feed": null,
     "title": "Freedom (FREEДOM) (UATV)",
@@ -108117,15 +107721,6 @@
     "quality": null
   },
   {
-    "channel": "fyi-east.us",
-    "feed": null,
-    "title": "FYI East",
-    "url": "https://fl7.moveonjoy.com/FYI/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "g-eye-tv.gh",
     "feed": null,
     "title": "G-eye TV",
@@ -108171,19 +107766,19 @@
     "quality": null
   },
   {
-    "channel": "gandan-tv.mn",
+    "channel": "gardening-with-monty-don.us",
     "feed": null,
-    "title": "Gandan TV",
-    "url": "https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8",
+    "title": "Gardening With Monty Don",
+    "url": "https://livetv-fa.tubi.video/gardening-monty-don/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
   },
   {
-    "channel": "gardening-with-monty-don.us",
+    "channel": "garfield-and-friends.ca",
     "feed": null,
-    "title": "Gardening With Monty Don",
-    "url": "https://livetv-fa.tubi.video/gardening-monty-don/playlist.m3u8",
+    "title": "Garfield & Friends",
+    "url": "https://www.youtube-nocookie.com/embed/PO8Yr-88tMg",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -108265,15 +107860,6 @@
     "feed": null,
     "title": "Geo Tez (576i)",
     "url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "GetTV.us",
-    "feed": null,
-    "title": "GetTV",
-    "url": "https://fl7.moveonjoy.com/GET_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -108382,15 +107968,6 @@
     "feed": null,
     "title": "Golden Community Television (GCO.tv) (Golden CO)",
     "url": "https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "GolfChannel.us",
-    "feed": null,
-    "title": "Golf Channel",
-    "url": "https://fl7.moveonjoy.com/GOLF/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -108693,15 +108270,6 @@
     "quality": null
   },
   {
-    "channel": "Grit.us",
-    "feed": null,
-    "title": "Grit",
-    "url": "https://fl7.moveonjoy.com/GRIT_TV/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "gtn-canada-1080i.ca",
     "feed": null,
     "title": "GTN Canada (1080i)",
@@ -108810,24 +108378,6 @@
     "quality": null
   },
   {
-    "channel": "hadi-tv-french.uk",
-    "feed": null,
-    "title": "Hadi TV French",
-    "url": "https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "hadi-tv-hausa.iq",
-    "feed": null,
-    "title": "Hadi TV Hausa",
-    "url": "https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "hadi-tv-indonesian-and-thai.uk",
     "feed": null,
     "title": "Hadi TV Indonesian and Thai",
@@ -108909,28 +108459,10 @@
     "quality": null
   },
   {
-    "channel": "HallmarkDrama.us",
-    "feed": null,
-    "title": "Hallmark Drama",
-    "url": "https://fl7.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "hallmark-en-espanol.us",
     "feed": null,
     "title": "Hallmark en Espanol",
     "url": "https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "hallmark-movies-and-mysteries-east.us",
-    "feed": null,
-    "title": "Hallmark Movies & Mysteries East",
-    "url": "https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -109029,7 +108561,16 @@
     "channel": "HBCHokkaidoNews24.jp",
     "feed": null,
     "title": "HBC Hokkaido News 24",
-    "url": "https://www.youtube-nocookie.com/embed/LKilC11wo6E",
+    "url": "https://www.youtube-nocookie.com/embed/v7RHmyDyUe8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "hechicera-tv.pe",
+    "feed": null,
+    "title": "Hechicera TV",
+    "url": "https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -109129,15 +108670,6 @@
     "feed": null,
     "title": "Hiroshima News 24",
     "url": "https://www.youtube-nocookie.com/embed/e2pgLUmaxGs",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "History.us",
-    "feed": null,
-    "title": "History",
-    "url": "https://fl7.moveonjoy.com/history_channel/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -109282,15 +108814,6 @@
     "feed": null,
     "title": "HSE24 Trend",
     "url": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "HSN.us",
-    "feed": null,
-    "title": "HSN",
-    "url": "https://fl7.moveonjoy.com/HSN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -109443,7 +108966,7 @@
     "channel": "imagentv.mx",
     "feed": null,
     "title": "ImagenTV",
-    "url": "https://www.youtube-nocookie.com/embed/9ZsOdCuYexQ",
+    "url": "https://www.youtube-nocookie.com/embed/kvtHHvy-N6s",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -109470,7 +108993,7 @@
     "channel": "independent-television.bd",
     "feed": null,
     "title": "Independent Television",
-    "url": "https://www.youtube-nocookie.com/embed/pFGX0emFshM",
+    "url": "https://www.youtube-nocookie.com/embed/JO--TCjPO0M",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -109489,15 +109012,6 @@
     "feed": null,
     "title": "India News Rajasthan",
     "url": "https://www.youtube-nocookie.com/embed/Xl3102bInCw",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "indian-market-prices.in",
-    "feed": null,
-    "title": "Indian Market Prices",
-    "url": "https://www.youtube-nocookie.com/embed/Vh9fKw0mvRE",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -109911,7 +109425,7 @@
     "channel": "KalingaTV.in",
     "feed": null,
     "title": "Kalinga TV",
-    "url": "https://www.youtube-nocookie.com/embed/LNyLvyrAPpw",
+    "url": "https://www.youtube-nocookie.com/embed/MF9pY4R01O8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -110178,6 +109692,15 @@
     "quality": null
   },
   {
+    "channel": "KidsTV.id",
+    "feed": null,
+    "title": "Kids TV",
+    "url": "https://origin5.mediacdn.ru/live/kidstv/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "Kino24.ru",
     "feed": null,
     "title": "Kino 24",
@@ -110280,7 +109803,7 @@
     "channel": "kompastv-jember.id",
     "feed": null,
     "title": "KompasTV Jember",
-    "url": "https://www.youtube-nocookie.com/embed/MoTczEH-EGc",
+    "url": "https://www.youtube-nocookie.com/embed/Ul-5DWxODbs",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -110442,7 +109965,7 @@
     "channel": "kumudamnews.in",
     "feed": null,
     "title": "KumudamNews",
-    "url": "https://www.youtube-nocookie.com/embed/YGtpkyXIZU0",
+    "url": "https://www.youtube-nocookie.com/embed/veV1nUpOf20",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -110460,7 +109983,7 @@
     "channel": "kurtlar-vadisi.tr",
     "feed": null,
     "title": "Kurtlar Vadisi",
-    "url": "https://www.youtube-nocookie.com/embed/rMytwysu944",
+    "url": "https://www.youtube-nocookie.com/embed/f4TFDDD2fb4",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -110524,15 +110047,6 @@
     "feed": null,
     "title": "La Nación+",
     "url": "https://www.youtube-nocookie.com/embed/5f__Ls4_VYQ",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "la-sentinelle-tv.cd",
-    "feed": null,
-    "title": "La Sentinelle TV",
-    "url": "https://tnt-television.com/LA_SENTINELLE/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -110646,15 +110160,6 @@
     "quality": null
   },
   {
-    "channel": "leesburg-lakefront-tv-leesburg-fl.us",
-    "feed": null,
-    "title": "Leesburg Lakefront TV (Leesburg FL)",
-    "url": "https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "legend-films.us",
     "feed": null,
     "title": "Legend Films",
@@ -110709,19 +110214,10 @@
     "quality": null
   },
   {
-    "channel": "lenca-television-canal-40.hn",
-    "feed": null,
-    "title": "Lenca Television Canal 40",
-    "url": "https://lencatelevision.com/hls/stream.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "leo-si-penjaga-alam.id",
     "feed": null,
     "title": "Leo Si Penjaga Alam",
-    "url": "https://www.youtube-nocookie.com/embed/n_IlwmmgYvY",
+    "url": "https://www.youtube-nocookie.com/embed/RdlfZb_RFZA",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -110785,15 +110281,6 @@
     "feed": null,
     "title": "LIFE! End Times TV",
     "url": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "lifetime-movies-east.us",
-    "feed": null,
-    "title": "Lifetime Movies East",
-    "url": "https://fl7.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -110988,6 +110475,15 @@
     "quality": null
   },
   {
+    "channel": "long-beach-television.us",
+    "feed": null,
+    "title": "Long Beach Television",
+    "url": "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "LoriaTV.ad",
     "feed": null,
     "title": "Lòria TV",
@@ -111019,15 +110515,6 @@
     "feed": null,
     "title": "Lou!",
     "url": "https://www.youtube-nocookie.com/embed/GrvB0cOnjPo",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "LoveNature.ca",
-    "feed": null,
-    "title": "Love Nature",
-    "url": "https://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -111153,7 +110640,7 @@
     "channel": "MadaniChannelBangla.bd",
     "feed": null,
     "title": "Madani Channel Bangla",
-    "url": "https://www.youtube-nocookie.com/embed/U2b3wcTiIGg",
+    "url": "https://www.youtube-nocookie.com/embed/jo8xRjQ--z0",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -111171,7 +110658,7 @@
     "channel": "maharashtra-times.in",
     "feed": null,
     "title": "Maharashtra Times",
-    "url": "https://www.youtube-nocookie.com/embed/vqBjfW52OGw",
+    "url": "https://www.youtube-nocookie.com/embed/rNc_xBx5DH0",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -111495,7 +110982,7 @@
     "channel": "Meganoticias.cl",
     "feed": null,
     "title": "Meganoticias",
-    "url": "https://www.youtube-nocookie.com/embed/Iv-r3Kri-Mg",
+    "url": "https://www.youtube-nocookie.com/embed/g1_YT73WAEU",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -111531,7 +111018,7 @@
     "channel": "MethmagaTV.lk",
     "feed": null,
     "title": "Methmaga TV",
-    "url": "https://www.youtube-nocookie.com/embed/WWvPH-kGp7g",
+    "url": "https://www.youtube-nocookie.com/embed/p6UV91xHm8c",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -111568,15 +111055,6 @@
     "feed": null,
     "title": "MGM+ East",
     "url": "https://fl7.moveonjoy.com/EPIX/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "MGMPlusMarquee.us",
-    "feed": null,
-    "title": "MGM+ Marquee",
-    "url": "https://fl7.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -111645,15 +111123,6 @@
     "quality": null
   },
   {
-    "channel": "MilitaryHistory.us",
-    "feed": null,
-    "title": "Military History",
-    "url": "https://fl7.moveonjoy.com/Military_History/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "militarytimes.us",
     "feed": null,
     "title": "MilitaryTimes",
@@ -111708,55 +111177,10 @@
     "quality": null
   },
   {
-    "channel": "MLBNetwork.us",
-    "feed": null,
-    "title": "MLB Network",
-    "url": "https://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "mn25.mn",
-    "feed": null,
-    "title": "MN25",
-    "url": "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "mnb.mn",
-    "feed": null,
-    "title": "MNB Гэр бүл",
-    "url": "https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "mnb.mn-1",
-    "feed": null,
-    "title": "MNB Монголын Мэдээ",
-    "url": "https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "mnb.mn-1",
     "feed": null,
     "title": "MNB Монголын Мэдээ",
     "url": "https://live.mnb.mn/hls/mn2.stream.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "mnc.mn",
-    "feed": null,
-    "title": "MNC",
-    "url": "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -111924,15 +111348,6 @@
     "quality": null
   },
   {
-    "channel": "MotorvisionPlus.de",
-    "feed": null,
-    "title": "Motorvision TV",
-    "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "motorvision-tv-french.fr",
     "feed": null,
     "title": "Motorvision.tv (French)",
@@ -111996,15 +111411,6 @@
     "quality": null
   },
   {
-    "channel": "MSG.us",
-    "feed": null,
-    "title": "MSG",
-    "url": "https://fl7.moveonjoy.com/MSG/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "MTA3AlArabia.uk",
     "feed": null,
     "title": "MTA 3 Al-Arabia",
@@ -112059,55 +111465,10 @@
     "quality": null
   },
   {
-    "channel": "MTVClassic.us",
-    "feed": null,
-    "title": "MTV Classic",
-    "url": "https://fl7.moveonjoy.com/MTV_CLASSIC/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "mtv-east.us",
     "feed": null,
     "title": "MTV East",
     "url": "https://fl7.moveonjoy.com/MTV/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "MTVLive.us",
-    "feed": null,
-    "title": "MTV Live",
-    "url": "https://fl7.moveonjoy.com/MTV_LIVE/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "MTV2.us",
-    "feed": null,
-    "title": "MTV2",
-    "url": "https://fl7.moveonjoy.com/MTV_2/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "MTVU.us",
-    "feed": null,
-    "title": "mtvU",
-    "url": "https://fl7.moveonjoy.com/MTV_U/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Much.ca",
-    "feed": null,
-    "title": "Much",
-    "url": "https://fl7.moveonjoy.com/MUCH/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -112134,7 +111495,7 @@
     "channel": "multimedios-costa-rica.cr",
     "feed": null,
     "title": "Multimedios Costa Rica",
-    "url": "https://www.youtube-nocookie.com/embed/PPLRwlqX_L8",
+    "url": "https://www.youtube-nocookie.com/embed/1Eipd8lgxag",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -112419,6 +111780,15 @@
     "quality": null
   },
   {
+    "channel": "nashua-etv-channel-22-nashua-nh.us",
+    "feed": null,
+    "title": "Nashua ETV Channel 22 Nashua NH",
+    "url": "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "nashua-gtv-channel-16-nashua-nh.us",
     "feed": null,
     "title": "Nashua GTV Channel 16 Nashua NH",
@@ -112495,15 +111865,6 @@
     "feed": null,
     "title": "NatureTime Finland",
     "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "NBATV.us",
-    "feed": null,
-    "title": "NBA TV",
-    "url": "https://fl7.moveonjoy.com/NBA_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -112603,15 +111964,6 @@
     "feed": null,
     "title": "NBC 8 Lancaster PA (WGAL)",
     "url": "https://livetv-fa.tubi.video/wgal/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "nbc-8-lima-oh-wlio-dt1.us",
-    "feed": null,
-    "title": "NBC 8 Lima OH (WLIO-DT1)",
-    "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -112737,7 +112089,7 @@
     "channel": "NBCNewsNOW.us",
     "feed": null,
     "title": "NBC News Now",
-    "url": "https://www.youtube-nocookie.com/embed/nWdcK5hBQzM",
+    "url": "https://www.youtube-nocookie.com/embed/y2_4Jdzu9OQ",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -112851,19 +112203,19 @@
     "quality": null
   },
   {
-    "channel": "NeiMonggolTVChildrenChannel.cn",
+    "channel": "NeiMonggolTVAgricultureAnimalChannel.cn",
     "feed": null,
-    "title": "Nei Monggol TV Children Channel",
-    "url": "https://play1-qk.nmtv.cn/live/1686560464515368.m3u8",
+    "title": "Nei Monggol TV Agriculture & Animal Channel",
+    "url": "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
   },
   {
-    "channel": "NeiMonggolTVNewsChannel.cn",
+    "channel": "NeiMonggolTVCultureEntertainmentChannel.cn",
     "feed": null,
-    "title": "Nei Monggol TV News Channel",
-    "url": "https://play1-qk.nmtv.cn/live/1686560423879174.m3u8",
+    "title": "Nei Monggol TV Culture Entertainment Channel",
+    "url": "https://play1-qk.nmtv.cn/live/1686561195713372.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -112959,16 +112311,7 @@
     "quality": null
   },
   {
-    "channel": "NewsNation.us",
-    "feed": null,
-    "title": "News Nation",
-    "url": "https://fl7.moveonjoy.com/NEWS_NATION/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "NewsNation.us",
+    "channel": "NewsNation.in",
     "feed": null,
     "title": "News Nation",
     "url": "https://www.youtube-nocookie.com/embed/1YYCsMjMQb8",
@@ -112999,6 +112342,15 @@
     "feed": null,
     "title": "NewsFirst Kannada",
     "url": "https://www.youtube-nocookie.com/embed/9RTeslTjggw",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "newsfirst-sri-lanka.lk",
+    "feed": null,
+    "title": "Newsfirst Sri Lanka",
+    "url": "https://www.youtube-nocookie.com/embed/sE-m0ea2qp0",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -113043,7 +112395,7 @@
     "channel": "newsx-live.in",
     "feed": null,
     "title": "NewsX Live",
-    "url": "https://www.youtube-nocookie.com/embed/CyRWDS_-ajk",
+    "url": "https://www.youtube-nocookie.com/embed/JFAAOizSaFk",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -113053,24 +112405,6 @@
     "feed": null,
     "title": "NFL",
     "url": "https://aegis-cloudfront-1.tubi.video/4237973e-9e8c-4ec6-95b3-b7363ce39470/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "NFLNetwork.us",
-    "feed": null,
-    "title": "NFL Network",
-    "url": "https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "NFLRedZone.us",
-    "feed": null,
-    "title": "NFL RedZone",
-    "url": "https://fl7.moveonjoy.com/NFL_RedZone/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -113121,15 +112455,6 @@
     "quality": null
   },
   {
-    "channel": "NickMusic.us",
-    "feed": null,
-    "title": "Nick Music",
-    "url": "https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "nickelodeon-east.us",
     "feed": null,
     "title": "Nickelodeon East",
@@ -113143,15 +112468,6 @@
     "feed": null,
     "title": "Nicktoons",
     "url": "https://www.youtube-nocookie.com/embed/NuhhGUi6MJ8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Nicktoons.us",
-    "feed": null,
-    "title": "NickToons",
-    "url": "https://fl7.moveonjoy.com/NICKTOONS/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -113265,6 +112581,15 @@
     "quality": null
   },
   {
+    "channel": "Now14.il",
+    "feed": null,
+    "title": "Now 14",
+    "url": "https://www.youtube-nocookie.com/embed/ZnpV8wsaznM",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "now-tv-102-3fm-edmonton-ckno-fm.ca",
     "feed": null,
     "title": "Now TV 102.3FM Edmonton (CKNO-FM)",
@@ -113331,7 +112656,7 @@
     "channel": "ntv-news.jp",
     "feed": null,
     "title": "NTV News",
-    "url": "https://www.youtube-nocookie.com/embed/2JDbb4Izntw",
+    "url": "https://www.youtube-nocookie.com/embed/-c-fWfLCsAQ",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -113341,6 +112666,15 @@
     "feed": null,
     "title": "NTV Telugu",
     "url": "https://www.youtube-nocookie.com/embed/L0RktSIM980",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "oan.us",
+    "feed": null,
+    "title": "OAN",
+    "url": "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -113508,6 +112842,15 @@
     "quality": null
   },
   {
+    "channel": "one-hd-31.th",
+    "feed": null,
+    "title": "ONE HD 31",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "orange-county-orange-tv-orange-county-fl.us",
     "feed": null,
     "title": "Orange County Orange TV (Orange County FL)",
@@ -113535,24 +112878,6 @@
     "quality": null
   },
   {
-    "channel": "orf-iii-hd.at",
-    "feed": null,
-    "title": "ORF III HD",
-    "url": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "orszaggyules-plenaris.hu",
-    "feed": null,
-    "title": "Országgyűlés (Plenáris)",
-    "url": "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "otr-gold.us",
     "feed": null,
     "title": "OTR Gold",
@@ -113575,15 +112900,6 @@
     "feed": null,
     "title": "Our Vinyl",
     "url": "https://d29rvfbwwm1vce.cloudfront.net/scheduler/scheduleMaster/459.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "OutdoorChannel.us",
-    "feed": null,
-    "title": "Outdoor Channel",
-    "url": "https://fl7.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -113619,16 +112935,16 @@
     "channel": "OutsideTVPlus.us",
     "feed": null,
     "title": "Outside TV",
-    "url": "https://fl7.moveonjoy.com/OUTSIDE_TV/index.m3u8",
+    "url": "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
   },
   {
-    "channel": "Ovation.us",
+    "channel": "OutsideTVPlus.us",
     "feed": null,
-    "title": "Ovation",
-    "url": "https://fl7.moveonjoy.com/Ovation/index.m3u8",
+    "title": "Outside TV",
+    "url": "https://fl7.moveonjoy.com/OUTSIDE_TV/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -114003,15 +113319,6 @@
     "quality": null
   },
   {
-    "channel": "placentia-tv-placentia-ca.us",
-    "feed": null,
-    "title": "Placentia TV (Placentia CA)",
-    "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "pll-network.us",
     "feed": null,
     "title": "PLL Network",
@@ -114093,24 +113400,6 @@
     "quality": null
   },
   {
-    "channel": "PopTV.us",
-    "feed": null,
-    "title": "Pop TV",
-    "url": "https://fl7.moveonjoy.com/Pop_TV/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "popcorn.mn",
-    "feed": null,
-    "title": "Popcorn",
-    "url": "https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "poradnik-zdrowie-tv-1080i.pl",
     "feed": null,
     "title": "Poradnik Zdrowie TV (1080i)",
@@ -114160,42 +113449,6 @@
     "feed": null,
     "title": "Pragna TV",
     "url": "https://www.youtube-nocookie.com/embed/yYM_vdmwabM",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "PremierSports1.mn",
-    "feed": null,
-    "title": "Premier Sports 1",
-    "url": "https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "PremierSports2.mn",
-    "feed": null,
-    "title": "Premier Sports 2",
-    "url": "https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "PremierSports4.mn",
-    "feed": null,
-    "title": "Premier Sports 4",
-    "url": "https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "PremierSports5.mn",
-    "feed": null,
-    "title": "Premier Sports 5",
-    "url": "https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -114336,15 +113589,6 @@
     "quality": null
   },
   {
-    "channel": "PursuitChannel.us",
-    "feed": null,
-    "title": "Pursuit Channel",
-    "url": "https://fl7.moveonjoy.com/Pursuit_Channel/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "puthiyathalaimuraitv.in",
     "feed": null,
     "title": "PuthiyathalaimuraiTV",
@@ -114381,15 +113625,6 @@
     "quality": null
   },
   {
-    "channel": "qsvs-milanow.it",
-    "feed": null,
-    "title": "QSVS: Milanow",
-    "url": "https://www.youtube-nocookie.com/embed/bTlDXBi6HWQ",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "qsvs-top-calcio-24.it",
     "feed": null,
     "title": "QSVS: Top Calcio 24",
@@ -114417,10 +113652,28 @@
     "quality": null
   },
   {
+    "channel": "QTV3.cn",
+    "feed": null,
+    "title": "QTV-3",
+    "url": "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "QTV4.cn",
     "feed": null,
     "title": "QTV-4",
     "url": "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "QTV5.cn",
+    "feed": null,
+    "title": "QTV-5",
+    "url": "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -114529,15 +113782,6 @@
     "feed": null,
     "title": "QVC Live",
     "url": "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "qvc-live.us",
-    "feed": null,
-    "title": "QVC Live",
-    "url": "https://fl7.moveonjoy.com/QVC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -114714,15 +113958,6 @@
     "quality": null
   },
   {
-    "channel": "radio-czworka.pl",
-    "feed": null,
-    "title": "Radio Czwórka",
-    "url": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "radio-ideal-104-7-fm-la-esperanza.hn",
     "feed": null,
     "title": "Radio Ideal 104.7 FM (La Esperanza)",
@@ -114795,24 +114030,6 @@
     "quality": null
   },
   {
-    "channel": "rakuten-familia.pt",
-    "feed": null,
-    "title": "Rakuten Família",
-    "url": "https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "rakuten-top-movies-uk.es",
-    "feed": null,
-    "title": "Rakuten Top Movies UK",
-    "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "rakuten-tv-action-movies-finland.es",
     "feed": null,
     "title": "Rakuten TV Action Movies Finland",
@@ -114867,15 +114084,6 @@
     "quality": null
   },
   {
-    "channel": "rakuten-tv-asian-cinema-italy.it",
-    "feed": null,
-    "title": "Rakuten TV Asian Cinema Italy",
-    "url": "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "rakuten-tv-cine-espanol.es",
     "feed": null,
     "title": "Rakuten TV Cine Español",
@@ -114898,15 +114106,6 @@
     "feed": null,
     "title": "Rakuten TV Comedy Movies Germany",
     "url": "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "rakuten-tv-comedy-movies-italy.es",
-    "feed": null,
-    "title": "Rakuten TV Comedy Movies Italy",
-    "url": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -114943,15 +114142,6 @@
     "feed": null,
     "title": "Rakuten TV Crime Series Italy",
     "url": "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "rakuten-tv-crime-series-spain.es",
-    "feed": null,
-    "title": "Rakuten TV Crime Series Spain",
-    "url": "https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115002,10 +114192,10 @@
     "quality": null
   },
   {
-    "channel": "rakuten-tv-family-movies-germany.es",
+    "channel": "rakuten-tv-family-movies-finland.es",
     "feed": null,
-    "title": "Rakuten TV Family Movies Germany",
-    "url": "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8",
+    "title": "Rakuten TV Family Movies Finland",
+    "url": "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115038,19 +114228,19 @@
     "quality": null
   },
   {
-    "channel": "rakuten-tv-films-comedie.fr",
+    "channel": "rakuten-tv-films-action.fr",
     "feed": null,
-    "title": "Rakuten TV Films Comédie",
-    "url": "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8",
+    "title": "Rakuten TV Films Action",
+    "url": "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
   },
   {
-    "channel": "rakuten-tv-films-drames.fr",
+    "channel": "rakuten-tv-films-comedie.fr",
     "feed": null,
-    "title": "Rakuten TV Films Drames",
-    "url": "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8",
+    "title": "Rakuten TV Films Comédie",
+    "url": "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115191,28 +114381,10 @@
     "quality": null
   },
   {
-    "channel": "rakuten-tv-thrillers-germany.de",
-    "feed": null,
-    "title": "Rakuten TV Thrillers Germany",
-    "url": "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "rakuten-tv-thrillers-spain.es",
     "feed": null,
     "title": "Rakuten TV Thrillers Spain",
     "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "rakuten-tv-thrillers-uk.uk",
-    "feed": null,
-    "title": "Rakuten TV Thrillers UK",
-    "url": "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115419,7 +114591,7 @@
     "channel": "RecordNews.br",
     "feed": null,
     "title": "Record News",
-    "url": "https://www.youtube-nocookie.com/embed/KxLvgrt-qio",
+    "url": "https://www.youtube-nocookie.com/embed/7Fx8ae3VZeM",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115461,10 +114633,10 @@
     "quality": null
   },
   {
-    "channel": "Reelz.us",
+    "channel": "redemption-tv-ministry.za",
     "feed": null,
-    "title": "Reelz",
-    "url": "https://fl7.moveonjoy.com/REELZ/index.m3u8",
+    "title": "Redemption TV Ministry",
+    "url": "https://live.nixsat.com/play/rtm/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115551,15 +114723,6 @@
     "quality": null
   },
   {
-    "channel": "Revolt.us",
-    "feed": null,
-    "title": "Revolt",
-    "url": "https://fl7.moveonjoy.com/REVOLT/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "revry-europe-frequency-backend.fr",
     "feed": null,
     "title": "Revry Europe (Frequency backend)",
@@ -115608,7 +114771,7 @@
     "channel": "RioTVCamara.br",
     "feed": null,
     "title": "Rio TV Câmara",
-    "url": "https://www.youtube-nocookie.com/embed/JhvY7prafwE",
+    "url": "https://www.youtube-nocookie.com/embed/W5nugxx6_q0",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115617,7 +114780,7 @@
     "channel": "RKBNEWS24.jp",
     "feed": null,
     "title": "RKB News 24",
-    "url": "https://www.youtube-nocookie.com/embed/2imUnZiQo3M",
+    "url": "https://www.youtube-nocookie.com/embed/y7gTdnIjvxM",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115644,7 +114807,7 @@
     "channel": "RoyaNews.jo",
     "feed": null,
     "title": "Roya News",
-    "url": "https://www.youtube-nocookie.com/embed/seITqk_WQKA",
+    "url": "https://www.youtube-nocookie.com/embed/bIjB8XOEGzw",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115911,19 +115074,10 @@
     "quality": null
   },
   {
-    "channel": "SampitTV.id",
-    "feed": null,
-    "title": "Sampit TV",
-    "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "SandeshNews.in",
     "feed": null,
     "title": "Sandesh News",
-    "url": "https://www.youtube-nocookie.com/embed/SrBI7ksUMRk",
+    "url": "https://www.youtube-nocookie.com/embed/JOkQVAJ9qrU",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115959,7 +115113,7 @@
     "channel": "sathiyam-news.in",
     "feed": null,
     "title": "Sathiyam News",
-    "url": "https://www.youtube-nocookie.com/embed/_BiCnIEWeWI",
+    "url": "https://www.youtube-nocookie.com/embed/Vhzrf5bJqIQ",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -115995,7 +115149,7 @@
     "channel": "SBS.kr",
     "feed": null,
     "title": "SBS",
-    "url": "https://www.youtube-nocookie.com/embed/LpUU2e7RZpo",
+    "url": "https://www.youtube-nocookie.com/embed/2CGm57d8Ap8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -116095,6 +115249,15 @@
     "feed": null,
     "title": "Semeı",
     "url": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "senal-espana-xhunes-tdt.mx",
+    "feed": null,
+    "title": "Señal España (XHUNES-TDT)",
+    "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -116202,7 +115365,7 @@
     "channel": "shop-ch-thailand.th",
     "feed": null,
     "title": "SHOP CH Thailand",
-    "url": "https://www.youtube-nocookie.com/embed/tJQU-TiqhSw",
+    "url": "https://www.youtube-nocookie.com/embed/pkHM92m-aMg",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -116328,7 +115491,7 @@
     "channel": "shout-studios-hawkeye.us",
     "feed": null,
     "title": "Shout! Studios: Hawkeye",
-    "url": "https://www.youtube-nocookie.com/embed/E2DgVGC61fc",
+    "url": "https://www.youtube-nocookie.com/embed/13Zn9UcDpNk",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -116409,7 +115572,7 @@
     "channel": "shout-studios-the-beverly-hillbillies.us",
     "feed": null,
     "title": "Shout! Studios: The Beverly Hillbillies",
-    "url": "https://www.youtube-nocookie.com/embed/yxqCmD3Sh1w",
+    "url": "https://www.youtube-nocookie.com/embed/IYTUTEmuOUM",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -116427,7 +115590,7 @@
     "channel": "shout-studios-the-greatest-american-hero.us",
     "feed": null,
     "title": "Shout! Studios: The Greatest American Hero",
-    "url": "https://www.youtube-nocookie.com/embed/ypbJsMKfHs8",
+    "url": "https://www.youtube-nocookie.com/embed/BAJI4dztvTs",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -116473,15 +115636,6 @@
     "feed": null,
     "title": "Showtime East",
     "url": "https://fl7.moveonjoy.com/SHOWTIME/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "showtime-next-east.us",
-    "feed": null,
-    "title": "Showtime Next East",
-    "url": "https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -116535,7 +115689,7 @@
     "channel": "SindhTVNews.pk",
     "feed": null,
     "title": "Sindh TV News",
-    "url": "https://www.youtube-nocookie.com/embed/yNS6CKF4Lrs",
+    "url": "https://www.youtube-nocookie.com/embed/JRyi2knciRA",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -116608,24 +115762,6 @@
     "feed": null,
     "title": "Sky News Arabia (Portrait)",
     "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "smart-healthy-green-living.us",
-    "feed": null,
-    "title": "Smart Healthy Green Living",
-    "url": "https://amg16109-shgliving-amg16109c1-klowdtv-us-2235.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-klowdtvus/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "smithsonian-channel-east.us",
-    "feed": null,
-    "title": "Smithsonian Channel East",
-    "url": "https://fl7.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -116757,24 +115893,6 @@
     "quality": null
   },
   {
-    "channel": "SportsmanChannel.us",
-    "feed": null,
-    "title": "Sportsman Channel",
-    "url": "https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "SportsNetNewYork.us",
-    "feed": null,
-    "title": "SportsNet New York",
-    "url": "https://fl7.moveonjoy.com/SNY/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "SQOOLTV.fr",
     "feed": null,
     "title": "SQOOL TV",
@@ -116865,33 +115983,6 @@
     "quality": null
   },
   {
-    "channel": "StartTV.us",
-    "feed": null,
-    "title": "Start TV",
-    "url": "https://fl7.moveonjoy.com/Start_Tv/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "starz-east.us",
-    "feed": null,
-    "title": "Starz East",
-    "url": "https://fl7.moveonjoy.com/STARZ/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "starz-encore-classic-east.us",
-    "feed": null,
-    "title": "Starz Encore Classic East",
-    "url": "https://fl7.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "starz-west.us",
     "feed": null,
     "title": "Starz West",
@@ -116932,15 +116023,6 @@
     "feed": null,
     "title": "Stingray Remember the 80s",
     "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "stockton-govtv-stockton-ca.us",
-    "feed": null,
-    "title": "Stockton GovTV (Stockton CA)",
-    "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117090,6 +116172,15 @@
     "quality": null
   },
   {
+    "channel": "super-simple-simple-songs.ca",
+    "feed": null,
+    "title": "Super Simple: Simple Songs",
+    "url": "https://www.youtube-nocookie.com/embed/zpHgSyuD46M",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "super-soccer-cartoons-supastrikas.us",
     "feed": null,
     "title": "Super Soccer Cartoons: SupaStrikas",
@@ -117174,7 +116265,7 @@
     "channel": "svbc-ttd.in",
     "feed": null,
     "title": "SVBC TTD",
-    "url": "https://www.youtube-nocookie.com/embed/QCQyWxdHsmk",
+    "url": "https://www.youtube-nocookie.com/embed/m68RYlCB_PE",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117184,15 +116275,6 @@
     "feed": null,
     "title": "SVBC TTD: SVBC2",
     "url": "https://www.youtube-nocookie.com/embed/9ZX83GswrME",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "SwatantraTV.in",
-    "feed": null,
-    "title": "Swatantra TV",
-    "url": "https://www.youtube-nocookie.com/embed/i1WQEC1xiRQ",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117211,15 +116293,6 @@
     "feed": null,
     "title": "Sydenham S.D.A Church",
     "url": "https://www.youtube-nocookie.com/embed/1McnAuwX0Ls",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "syfy-east.us",
-    "feed": null,
-    "title": "Syfy East",
-    "url": "https://fl7.moveonjoy.com/SYFY/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117283,6 +116356,15 @@
     "feed": null,
     "title": "TaiwanPlus",
     "url": "https://www.youtube-nocookie.com/embed/XH5SyDW29ys",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "tajikistan.tj",
+    "feed": null,
+    "title": "Tajikistan",
+    "url": "https://live.teleradiocom.tj/1/3m.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117423,19 +116505,10 @@
     "quality": null
   },
   {
-    "channel": "TeenNick.us",
-    "feed": null,
-    "title": "TeenNick",
-    "url": "https://fl7.moveonjoy.com/Teen_Nick/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "Tele1.tr",
     "feed": null,
     "title": "Tele 1",
-    "url": "https://www.youtube-nocookie.com/embed/3WmXwAaa1VQ",
+    "url": "https://www.youtube-nocookie.com/embed/elQyWeeDCYU",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117615,7 +116688,16 @@
     "channel": "teleradyo-serbisyo.ph",
     "feed": null,
     "title": "Teleradyo Serbisyo",
-    "url": "https://www.youtube-nocookie.com/embed/nE41RnDMM70",
+    "url": "https://www.youtube-nocookie.com/embed/wdFSugPOU-w",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "teleregione-118.it",
+    "feed": null,
+    "title": "TeleRegione 118",
+    "url": "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117651,7 +116733,7 @@
     "channel": "TelevisaGuadalajara.mx",
     "feed": null,
     "title": "Televisa Guadalajara",
-    "url": "https://www.youtube-nocookie.com/embed/A3x1VKv3cHE",
+    "url": "https://www.youtube-nocookie.com/embed/9Ac6i4V66S0",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117687,7 +116769,7 @@
     "channel": "TelevisaMonterrey.mx",
     "feed": null,
     "title": "Televisa Monterrey",
-    "url": "https://www.youtube-nocookie.com/embed/dp-o9Uc6zgk",
+    "url": "https://www.youtube-nocookie.com/embed/8xn1oho-v7g",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117696,7 +116778,7 @@
     "channel": "TelevisaPiedrasNegras.mx",
     "feed": null,
     "title": "Televisa Piedras Negras",
-    "url": "https://www.youtube-nocookie.com/embed/JPRrSYSm_k8",
+    "url": "https://www.youtube-nocookie.com/embed/7wumx5waaOM",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117828,10 +116910,19 @@
     "quality": null
   },
   {
+    "channel": "TelewizjaGorzow.pl",
+    "feed": null,
+    "title": "Telewizja Gorzów",
+    "url": "https://www.youtube-nocookie.com/embed/d8wIQseXTrw",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "TelewizjaOlsztyn.pl",
     "feed": null,
     "title": "Telewizja Olsztyn",
-    "url": "https://www.youtube-nocookie.com/embed/6zljNmFUN68",
+    "url": "https://www.youtube-nocookie.com/embed/iER91czvrBI",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117886,15 +116977,6 @@
     "feed": null,
     "title": "Tempe Channel 11",
     "url": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "TennisChannel.us",
-    "feed": null,
-    "title": "Tennis Channel",
-    "url": "https://fl7.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -117975,7 +117057,7 @@
     "channel": "TheBuddhist.lk",
     "feed": null,
     "title": "The Buddhist TV",
-    "url": "https://www.youtube-nocookie.com/embed/q56773gpZc8",
+    "url": "https://www.youtube-nocookie.com/embed/I3OmevuiyuQ",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -118003,15 +117085,6 @@
     "feed": null,
     "title": "The Conners",
     "url": "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "TheCowboyChannel.us",
-    "feed": null,
-    "title": "The Cowboy Channel",
-    "url": "https://fl7.moveonjoy.com/Cowboy_Channel/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -118093,6 +117166,15 @@
     "feed": null,
     "title": "The Land Before Time",
     "url": "https://www.youtube-nocookie.com/embed/rB9GdQ5Unt4",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "the-library-channel-tv18.us",
+    "feed": null,
+    "title": "The Library Channel TV18",
+    "url": "https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -118218,7 +117300,7 @@
     "channel": "time-news-live.pk",
     "feed": null,
     "title": "Time News Live",
-    "url": "https://www.youtube-nocookie.com/embed/cA4GtumgpKU",
+    "url": "https://www.youtube-nocookie.com/embed/1YUEqjcHx4c",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -118269,6 +117351,15 @@
     "quality": null
   },
   {
+    "channel": "tlaxcala-television.mx",
+    "feed": null,
+    "title": "Tlaxcala Televisión",
+    "url": "https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "tn-todo-noticias.ar",
     "feed": null,
     "title": "TN Todo Noticias",
@@ -118299,7 +117390,7 @@
     "channel": "tokushoutsu-chojin-sentai-jetman.us",
     "feed": null,
     "title": "TokuSHOUTsu: Chōjin Sentai Jetman",
-    "url": "https://www.youtube-nocookie.com/embed/RcEQe_jHCF0",
+    "url": "https://www.youtube-nocookie.com/embed/1DiQVlrnmPM",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -118737,51 +117828,6 @@
     "quality": null
   },
   {
-    "channel": "TSN1.ca",
-    "feed": null,
-    "title": "TSN1",
-    "url": "https://fl7.moveonjoy.com/TSN_1/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "TSN2.ca",
-    "feed": null,
-    "title": "TSN2",
-    "url": "https://fl7.moveonjoy.com/TSN_2/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "TSN3.ca",
-    "feed": null,
-    "title": "TSN3",
-    "url": "https://fl7.moveonjoy.com/TSN_3/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "TSN4.ca",
-    "feed": null,
-    "title": "TSN4",
-    "url": "https://fl7.moveonjoy.com/TSN_4/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "TSN5.ca",
-    "feed": null,
-    "title": "TSN5",
-    "url": "https://fl7.moveonjoy.com/TSN_5/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "tu-decizi.ro",
     "feed": null,
     "title": "Tu Decizi",
@@ -118830,7 +117876,7 @@
     "channel": "TVAssembleiaMinasGerais.br",
     "feed": null,
     "title": "TV Assembleia Minas Gerais",
-    "url": "https://www.youtube-nocookie.com/embed/icwo4OsH5CQ",
+    "url": "https://www.youtube-nocookie.com/embed/SgwmNsUlUrM",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -118875,7 +117921,7 @@
     "channel": "TVDerana.lk",
     "feed": null,
     "title": "TV Derana",
-    "url": "https://www.youtube-nocookie.com/embed/yEAKhriMcMY",
+    "url": "https://www.youtube-nocookie.com/embed/GsmAdok4yeY",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -118903,15 +117949,6 @@
     "feed": null,
     "title": "TV Justiça",
     "url": "https://www.youtube-nocookie.com/embed/Jj4wqVF_nAM",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "TVLand.us",
-    "feed": null,
-    "title": "TV Land",
-    "url": "https://fl7.moveonjoy.com/TV_LAND/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -118980,15 +118017,6 @@
     "quality": null
   },
   {
-    "channel": "TVOne.us",
-    "feed": null,
-    "title": "TV One",
-    "url": "https://fl7.moveonjoy.com/TV_ONE/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "tv-one-crime-and-justice.us",
     "feed": null,
     "title": "TV One Crime & Justice",
@@ -119046,16 +118074,7 @@
     "channel": "tv-tambau.br",
     "feed": null,
     "title": "TV Tambaú",
-    "url": "https://www.youtube-nocookie.com/embed/KzTnrNZvMx8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "TVTemis.ca",
-    "feed": null,
-    "title": "TV Témis",
-    "url": "https://www.youtube-nocookie.com/embed/hj__pEA6VKk",
+    "url": "https://www.youtube-nocookie.com/embed/_Q4mw83mExE",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -119110,15 +118129,6 @@
     "feed": null,
     "title": "TV5 News",
     "url": "https://www.youtube-nocookie.com/embed/LUnp_p497s0",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "tv7.mn",
-    "feed": null,
-    "title": "TV7",
-    "url": "https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -119200,15 +118210,6 @@
     "feed": null,
     "title": "TV9 Marathi",
     "url": "https://www.youtube-nocookie.com/embed/TO578cVRmpM",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "tv9-nusantara.id",
-    "feed": null,
-    "title": "TV9 Nusantara",
-    "url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -119304,28 +118305,10 @@
     "quality": null
   },
   {
-    "channel": "TVJ.jm",
-    "feed": null,
-    "title": "TVJ",
-    "url": "https://fl7.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "tvlibertad.pe",
     "feed": null,
     "title": "TVLibertad",
     "url": "https://www.youtube-nocookie.com/embed/sLZ5Bh_AWVc",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "TVMparati.ve",
-    "feed": null,
-    "title": "TVM para ti",
-    "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -119628,15 +118611,6 @@
     "quality": null
   },
   {
-    "channel": "tvri-yogyakarta.id",
-    "feed": null,
-    "title": "TVRI Yogyakarta",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "tvs-frontier-network.us",
     "feed": null,
     "title": "TVS Frontier Network",
@@ -119658,7 +118632,7 @@
     "channel": "tvsudecka-pl.pl",
     "feed": null,
     "title": "TVSUDECKA PL",
-    "url": "https://www.youtube-nocookie.com/embed/7d95L1mNxkw",
+    "url": "https://www.youtube-nocookie.com/embed/30v1JbHUHKw",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -119677,15 +118651,6 @@
     "feed": null,
     "title": "TVU Concepción",
     "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "ULosLagosTV.cl",
-    "feed": null,
-    "title": "U Los Lagos TV",
-    "url": "https://tv.ulagos.cl/web/live.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -119830,15 +118795,6 @@
     "feed": null,
     "title": "UNTV News and Rescue",
     "url": "https://www.youtube-nocookie.com/embed/Y0mGX-aG4gs",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "UpTV.us",
-    "feed": null,
-    "title": "Up TV",
-    "url": "https://fl7.moveonjoy.com/Up_Tv/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -120051,15 +119007,6 @@
     "quality": null
   },
   {
-    "channel": "VICETV.us",
-    "feed": null,
-    "title": "Vice TV",
-    "url": "https://fl7.moveonjoy.com/VICELAND/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "victor-valley-movies.us",
     "feed": null,
     "title": "Victor Valley Movies",
@@ -120153,7 +119100,7 @@
     "channel": "VSHNews.pk",
     "feed": null,
     "title": "VSH NEWS",
-    "url": "https://www.youtube-nocookie.com/embed/I2fT0ethP4I",
+    "url": "https://www.youtube-nocookie.com/embed/EmSKx18dTE4",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -120172,15 +119119,6 @@
     "feed": null,
     "title": "Vyas NIC",
     "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "WNetwork.ca",
-    "feed": null,
-    "title": "W Network",
-    "url": "https://fl7.moveonjoy.com/W_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -120253,15 +119191,6 @@
     "feed": null,
     "title": "Waterbear",
     "url": "https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "wbbj-jackson-tn.us",
-    "feed": null,
-    "title": "WBBJ (Jackson TN)",
-    "url": "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -120609,15 +119538,6 @@
     "quality": null
   },
   {
-    "channel": "WeTV.us",
-    "feed": null,
-    "title": "We TV",
-    "url": "https://fl7.moveonjoy.com/WE_TV/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "wecn-unico-tv.pr",
     "feed": null,
     "title": "WECN (Único TV)",
@@ -120645,24 +119565,6 @@
     "quality": null
   },
   {
-    "channel": "WFLADT1.us",
-    "feed": null,
-    "title": "WFLA-DT1",
-    "url": "https://fl7.moveonjoy.com/FL_Tampa_NBC/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "WFLXDT1.us",
-    "feed": null,
-    "title": "WFLX-DT1",
-    "url": "https://fl7.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "wfmz-dorney-park-camera.us",
     "feed": null,
     "title": "WFMZ Dorney Park Camera",
@@ -120676,15 +119578,6 @@
     "feed": null,
     "title": "WFMZ PennST camera",
     "url": "https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "WFTSDT1.us",
-    "feed": null,
-    "title": "WFTS-DT1",
-    "url": "https://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -120810,16 +119703,7 @@
     "channel": "wildbrain-teletubbies.uk",
     "feed": null,
     "title": "WildBrain: Teletubbies",
-    "url": "https://www.youtube-nocookie.com/embed/GejRYeUEJiI",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "Willow.us",
-    "feed": null,
-    "title": "Willow",
-    "url": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
+    "url": "https://www.youtube-nocookie.com/embed/dHHxLXaZlYM",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -120915,15 +119799,6 @@
     "quality": null
   },
   {
-    "channel": "WKCFDT1.us",
-    "feed": null,
-    "title": "WKCF-DT1",
-    "url": "https://fl7.moveonjoy.com/CW_ORLANDO/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "wls-abc-7-news-chicago-il.us",
     "feed": null,
     "title": "WLS ABC 7 News (Chicago IL)",
@@ -120960,15 +119835,6 @@
     "quality": null
   },
   {
-    "channel": "WNBCDT1.us",
-    "feed": null,
-    "title": "WNBC-DT1",
-    "url": "https://fl7.moveonjoy.com/NBC_EAST/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "wolcott-governmental-tv-wolcott-ct.us",
     "feed": null,
     "title": "Wolcott Governmental TV (Wolcott CT)",
@@ -120991,15 +119857,6 @@
     "feed": null,
     "title": "Womens Sports Network Canada",
     "url": "https://livetv-fa.tubi.video/womens-sports-network-canada/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "WorldFishingNetwork.us",
-    "feed": null,
-    "title": "World Fishing Network",
-    "url": "https://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -121036,15 +119893,6 @@
     "feed": null,
     "title": "World War TV",
     "url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "WPECDT1.us",
-    "feed": null,
-    "title": "WPEC-DT1",
-    "url": "https://fl7.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -121113,15 +119961,6 @@
     "quality": null
   },
   {
-    "channel": "WTOGDT1.us",
-    "feed": null,
-    "title": "WTOG-DT1",
-    "url": "https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "wtvd-abc-11-news-raleigh-durham-nc.us",
     "feed": null,
     "title": "WTVD ABC 11 News (Raleigh-Durham NC)",
@@ -121144,15 +119983,6 @@
     "feed": null,
     "title": "WVCU-LP Concord University Radio The Cure 97.7",
     "url": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "WVGNLD1.vi",
-    "feed": null,
-    "title": "WVGN-LD1",
-    "url": "https://fl7.moveonjoy.com/Virgin_Islands_NBC/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -121207,15 +120037,6 @@
     "feed": null,
     "title": "Yahoo Finance",
     "url": "https://www.youtube-nocookie.com/embed/KQp-e_XQnDE",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "YesNetwork.us",
-    "feed": null,
-    "title": "Yes Network",
-    "url": "https://fl7.moveonjoy.com/YES_NETWORK/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -121365,15 +120186,6 @@
     "quality": null
   },
   {
-    "channel": "zoo-moo-australia.sg",
-    "feed": null,
-    "title": "Zoo Moo (Australia)",
-    "url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "zoomer-tv.us",
     "feed": null,
     "title": "Zoomer TV",
@@ -121486,24 +120298,6 @@
     "feed": null,
     "title": "Астрахань.Ru TV",
     "url": "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "cb09db995b12100a.by",
-    "feed": null,
-    "title": "Беларусь 1",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "453c8847a4707d90.by",
-    "feed": null,
-    "title": "Беларусь 2",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -121671,15 +120465,6 @@
     "quality": null
   },
   {
-    "channel": "international.ru-1",
-    "feed": null,
-    "title": "Домашний International",
-    "url": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "c14a962ba9eca97d.ru",
     "feed": null,
     "title": "Евразия (Орск)",
@@ -121792,15 +120577,6 @@
     "feed": null,
     "title": "Карусель",
     "url": "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "international.ru-2",
-    "feed": null,
-    "title": "Карусель International",
-    "url": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -122103,7 +120879,7 @@
     "quality": null
   },
   {
-    "channel": "international.ru-3",
+    "channel": "international.ru-1",
     "feed": null,
     "title": "Музыка Кино International",
     "url": "https://kino-1.catcast.tv/content/37739/index.m3u8",
@@ -122337,15 +121113,6 @@
     "quality": null
   },
   {
-    "channel": "96c5b0dd64c2ed38.mn",
-    "feed": null,
-    "title": "Өлзий ТВ",
-    "url": "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "576i.ru",
     "feed": null,
     "title": "Патриот (576i)",
@@ -122404,15 +121171,6 @@
     "feed": null,
     "title": "Первый Ярославский",
     "url": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "international.ru-4",
-    "feed": null,
-    "title": "Перец International",
-    "url": "https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -122481,15 +121239,6 @@
     "quality": null
   },
   {
-    "channel": "international.ru-5",
-    "feed": null,
-    "title": "Пятница! International",
-    "url": "https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "bba9fbadf0fc7e1f.ru",
     "feed": null,
     "title": "Пятый Канал",
@@ -122548,15 +121297,6 @@
     "feed": null,
     "title": "РЕН ТВ",
     "url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "international.ru-6",
-    "feed": null,
-    "title": "РЕН ТВ International",
-    "url": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -122652,10 +121392,28 @@
     "quality": null
   },
   {
-    "channel": "meditation-music.ru",
+    "channel": "play.ru",
     "feed": null,
-    "title": "Сити Эдем Meditation Music",
-    "url": "https://cityeden.catcast.tv/content/47410/index.m3u8",
+    "title": "Сити Эдем Play Христианский Музыкальный",
+    "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "play.ru-1",
+    "feed": null,
+    "title": "Сити Эдем Бирма Play",
+    "url": "https://cityeden.catcast.tv/content/34364/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "a793e6e2ee12dd96.ru",
+    "feed": null,
+    "title": "Сити Эдем КиноАзия",
+    "url": "https://cityeden.catcast.tv/content/34393/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -122670,10 +121428,37 @@
     "quality": null
   },
   {
+    "channel": "3df00d21652a2928.ru",
+    "feed": null,
+    "title": "Сити Эдем КиноДрама",
+    "url": "https://cityeden.catcast.tv/content/45269/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "f2d92154e85fc5b6.ru",
     "feed": null,
     "title": "Сити Эдем КиноКлассика",
     "url": "https://cityeden.catcast.tv/content/34185/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "0a4f32d22e9a6781.ru",
+    "feed": null,
+    "title": "Сити Эдем КиноКомедия",
+    "url": "https://cityeden.catcast.tv/content/41331/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "e483c599c3e26749.ru",
+    "feed": null,
+    "title": "Сити Эдем КиноМистика",
+    "url": "https://cityeden.catcast.tv/content/40783/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -122688,28 +121473,19 @@
     "quality": null
   },
   {
+    "channel": "2a79aae18541d3c8.ru",
+    "feed": null,
+    "title": "Сити Эдем КиноЭкшен",
+    "url": "https://cityeden.catcast.tv/content/41333/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "f8d6c57c0d1ed8e9.ru",
     "feed": null,
     "title": "Сити Эдем Классическая Музыка",
     "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "361ed93c5ce89265.ru",
-    "feed": null,
-    "title": "Сити Эдем Сиртаки ТВ",
-    "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "bdba975ccee6a7d7.ru",
-    "feed": null,
-    "title": "Сити Эдем ТелеНовелла",
-    "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -122737,15 +121513,6 @@
     "feed": null,
     "title": "Советское телевидение. ГОСТЕЛЕРАДИОФОНД: Следствие ведут ЗнаТоКи",
     "url": "https://www.youtube-nocookie.com/embed/NFXv2UW-KLI",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "3cf2923498b8783c.mn",
-    "feed": null,
-    "title": "Соён Гэгээрүүлэгч",
-    "url": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -122988,7 +121755,7 @@
     "channel": "24kz.kz",
     "feed": null,
     "title": "Телеканал 24kz",
-    "url": "https://www.youtube-nocookie.com/embed/Fh23-ufBgVw",
+    "url": "https://www.youtube-nocookie.com/embed/ndiD-exkoF8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -123057,6 +121824,15 @@
     "quality": null
   },
   {
+    "channel": "4d2a515e868bf5f3.ru",
+    "feed": null,
+    "title": "ТК Алмазный край",
+    "url": "https://stream.almaz-media.tv:8080/hls/576.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "aca00a187c2ea064.ru",
     "feed": null,
     "title": "ТНВ-Планета (Казань)",
@@ -123084,15 +121860,6 @@
     "quality": null
   },
   {
-    "channel": "international.ru-7",
-    "feed": null,
-    "title": "ТНТ International",
-    "url": "https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "music.ru",
     "feed": null,
     "title": "ТНТ MUSIC",
@@ -123106,15 +121873,6 @@
     "feed": null,
     "title": "ТНТ4",
     "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
-    "channel": "4-international.ru",
-    "feed": null,
-    "title": "ТНТ4 International",
-    "url": "https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -123165,15 +121923,6 @@
     "quality": null
   },
   {
-    "channel": "446c885d533c68e2.mn",
-    "feed": null,
-    "title": "Хөгжим",
-    "url": "https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8",
-    "referrer": null,
-    "user_agent": null,
-    "quality": null
-  },
-  {
     "channel": "3bc1cf4a6bacd29f.ru",
     "feed": null,
     "title": "Хузур ТВ",
@@ -123205,6 +121954,15 @@
     "feed": null,
     "title": "Ювелирочка ТВ",
     "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
+    "channel": "cb3d8d7864713a45.ru",
+    "feed": null,
+    "title": "ЮВЕЛИРТРЕЙД",
+    "url": "https://www.youtube-nocookie.com/embed/1NAx20M91cs",
     "referrer": null,
     "user_agent": null,
     "quality": null
@@ -123534,6 +122292,15 @@
     "quality": null
   },
   {
+    "channel": "b8f85ac99c01c80e.cn",
+    "feed": null,
+    "title": "宿州公共",
+    "url": "https://live.ahsz.tv/video/s10001-ggpd/index.m3u8",
+    "referrer": null,
+    "user_agent": null,
+    "quality": null
+  },
+  {
     "channel": "2897a8a7d14af23f.cn",
     "feed": null,
     "title": "宿州新闻综合",
@@ -123555,7 +122322,7 @@
     "channel": "peppa-pig.cn",
     "feed": null,
     "title": "小猪佩奇 中文官方 - Peppa Pig",
-    "url": "https://www.youtube-nocookie.com/embed/wyW4Oz7-lXU",
+    "url": "https://www.youtube-nocookie.com/embed/ez6-zreN3uQ",
     "referrer": null,
     "user_agent": null,
     "quality": null
