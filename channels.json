@@ -894,7 +894,8 @@
     "owners": [],
     "country": "HU",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -2300,8 +2301,7 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "business",
-      "all-channels"
+      "business"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -2435,8 +2435,7 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -3126,7 +3125,8 @@
     "country": "ES",
     "categories": [
       "public",
-      "weather"
+      "weather",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -3147,7 +3147,8 @@
     "country": "ES",
     "categories": [
       "comedy",
-      "public"
+      "public",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -3253,7 +3254,8 @@
       "classic",
       "comedy",
       "public",
-      "series"
+      "series",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -3293,7 +3295,8 @@
     ],
     "country": "TH",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1970-03-26",
@@ -10670,8 +10673,7 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -14440,7 +14442,8 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -20778,8 +20781,7 @@
     ],
     "country": "UG",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -21637,7 +21639,8 @@
     "owners": [],
     "country": "EG",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -22571,7 +22574,8 @@
     ],
     "country": "TH",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2012-12-01",
@@ -23803,8 +23807,7 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -29124,8 +29127,7 @@
     ],
     "country": "ID",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2008-05-20",
@@ -33278,9 +33280,7 @@
     "network": null,
     "owners": [],
     "country": "ID",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -36477,7 +36477,8 @@
     "country": "BE",
     "categories": [
       "general",
-      "all-channels"
+      "all-channels",
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -36701,9 +36702,7 @@
     ],
     "country": "TR",
     "categories": [
-      "general",
-      "all-channels",
-      "entertainment"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "1993-07-12",
@@ -39254,8 +39253,7 @@
     "country": "US",
     "categories": [
       "education",
-      "culture",
-      "all-channels"
+      "culture"
     ],
     "is_nsfw": false,
     "launched": "2005-01-01",
@@ -39362,7 +39360,8 @@
     ],
     "country": "IN",
     "categories": [
-      "lifestyle"
+      "lifestyle",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2017-01-15",
@@ -40785,8 +40784,7 @@
     "owners": [],
     "country": "TJ",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -41387,8 +41385,7 @@
     "owners": [],
     "country": "ID",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2011-01-22",
@@ -41584,7 +41581,11 @@
   {
     "id": "BallySportsArizona.us",
     "name": "Bally Sports Arizona",
-    "alt_names": [],
+    "alt_names": [
+      "Fox Sports Arizona",
+      "Fox Sports Net Arizona",
+      "FSN Arizona"
+    ],
     "network": null,
     "owners": [
       "Sinclair Broadcast Group and Entertainment Studios"
@@ -41595,7 +41596,7 @@
     ],
     "is_nsfw": false,
     "launched": "1996-09-07",
-    "closed": null,
+    "closed": "2023-10-21",
     "replaced_by": null,
     "website": "https://www.ballysports.com/arizona/"
   },
@@ -41611,7 +41612,7 @@
     ],
     "is_nsfw": false,
     "launched": null,
-    "closed": null,
+    "closed": "2023-10-21",
     "replaced_by": null,
     "website": "https://www.ballysports.com/arizona/"
   },
@@ -41627,328 +41628,16 @@
     ],
     "is_nsfw": false,
     "launched": "2008-04-25",
-    "closed": null,
+    "closed": "2023-10-21",
     "replaced_by": null,
     "website": "https://www.ballysports.com/arizona/"
   },
   {
-    "id": "BallySportsDetroit.us",
-    "name": "Bally Sports Detroit",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1997-09-17",
-    "closed": null,
-    "replaced_by": null,
-    "website": "http://www.ballysports.com/detroit"
-  },
-  {
-    "id": "BallySportsDetroitExtra.us",
-    "name": "Bally Sports Detroit Extra",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "2007-01-01",
-    "closed": null,
-    "replaced_by": null,
-    "website": "http://www.ballysports.com/detroit"
-  },
-  {
-    "id": "BallySportsFlorida.us",
-    "name": "Bally Sports Florida",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1987-12-29",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/florida-sun/"
-  },
-  {
-    "id": "BallySportsFloridaPlus.us",
-    "name": "Bally Sports Florida Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/florida-sun/"
-  },
-  {
-    "id": "BallySportsGreatLakes.us",
-    "name": "Bally Sports Great Lakes",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "2006-03-12",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/ohio-greatlakes/"
-  },
-  {
-    "id": "BallySportsIndiana.us",
-    "name": "Bally Sports Indiana",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Sinclair Broadcast Group and Entertainment Studios"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "2006-11-01",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/indiana/"
-  },
-  {
-    "id": "BallySportsIndianaPlus.us",
-    "name": "Bally Sports Indiana Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Sinclair Broadcast Group and Entertainment Studios"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/indiana/"
-  },
-  {
-    "id": "BallySportsKansasCity.us",
-    "name": "Bally Sports Kansas City",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "2008-03-31",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/kansas-city/"
-  },
-  {
-    "id": "BallySportsKansasCityPlus.us",
-    "name": "Bally Sports Kansas City Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/kansas-city/"
-  },
-  {
-    "id": "BallySportsMidwest.us",
-    "name": "Bally Sports Midwest",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "St. Louis Cardinals"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1989-11-01",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/midwest/"
-  },
-  {
-    "id": "BallySportsMidwestCentralDownstateIllinois.us",
-    "name": "Bally Sports Midwest Central & Downstate Illinois",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "St. Louis Cardinals"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/midwest/"
-  },
-  {
-    "id": "BallySportsMidwestIowa.us",
-    "name": "Bally Sports Midwest Iowa",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "St. Louis Cardinals"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/midwest/"
-  },
-  {
-    "id": "BallySportsMidwestNebraska.us",
-    "name": "Bally Sports Midwest Nebraska",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "St. Louis Cardinals"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/midwest/"
-  },
-  {
-    "id": "BallySportsMidwestPlus.us",
-    "name": "Bally Sports Midwest Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "St. Louis Cardinals"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/midwest/"
-  },
-  {
-    "id": "BallySportsMidwestSoutheastMissouri.us",
-    "name": "Bally Sports Midwest Southeast Missouri",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "St. Louis Cardinals"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/midwest/"
-  },
-  {
-    "id": "BallySportsMidwestSouthwestMidMissouri.us",
-    "name": "Bally Sports Midwest Southwest & Mid-Missouri",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "St. Louis Cardinals"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/midwest/"
-  },
-  {
-    "id": "BallySportsMidwestStLouis.us",
-    "name": "Bally Sports Midwest St Louis",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "St. Louis Cardinals"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/midwest/"
-  },
-  {
     "id": "BallySportsNewOrleans.us",
     "name": "Bally Sports New Orleans",
-    "alt_names": [],
+    "alt_names": [
+      "Fox Sports New Orleans"
+    ],
     "network": null,
     "owners": [
       "Diamond Sports Group"
@@ -41959,7 +41648,7 @@
     ],
     "is_nsfw": false,
     "launched": "2012-10-31",
-    "closed": null,
+    "closed": "2024-10-21",
     "replaced_by": null,
     "website": "https://www.ballysports.com/southwest/"
   },
@@ -41977,180 +41666,16 @@
     ],
     "is_nsfw": false,
     "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/southwest/"
-  },
-  {
-    "id": "BallySportsNorth.us",
-    "name": "Bally Sports North",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1989-03-01",
-    "closed": null,
-    "replaced_by": null,
-    "website": "http://ballysports.com/north"
-  },
-  {
-    "id": "BallySportsNorthExtra.us",
-    "name": "Bally Sports North Extra",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "http://ballysports.com/north"
-  },
-  {
-    "id": "BallySportsNorthPlus.us",
-    "name": "Bally Sports North Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "http://ballysports.com/north"
-  },
-  {
-    "id": "BallySportsOhio.us",
-    "name": "Bally Sports Ohio",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Cincinnati Reds"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1989-02-09",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/ohio-greatlakes"
-  },
-  {
-    "id": "BallySportsOhioCincinnati.us",
-    "name": "Bally Sports Ohio Cincinnati",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Cincinnati Reds"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/ohio-greatlakes"
-  },
-  {
-    "id": "BallySportsOhioCleveland.us",
-    "name": "Bally Sports Ohio Cleveland",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Cincinnati Reds"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/ohio-greatlakes"
-  },
-  {
-    "id": "BallySportsOhioPlus.us",
-    "name": "Bally Sports Ohio Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Cincinnati Reds"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/ohio-greatlakes"
-  },
-  {
-    "id": "BallySportsOklahoma.us",
-    "name": "Bally Sports Oklahoma",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "2008-10-29",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/southwest/"
-  },
-  {
-    "id": "BallySportsOklahomaPlus.us",
-    "name": "Bally Sports Oklahoma Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
+    "closed": "2024-10-21",
     "replaced_by": null,
     "website": "https://www.ballysports.com/southwest/"
   },
   {
     "id": "BallySportsSanDiego.us",
     "name": "Bally Sports San Diego",
-    "alt_names": [],
+    "alt_names": [
+      "Fox Sports San Diego"
+    ],
     "network": null,
     "owners": [
       "Diamond Sports Group",
@@ -42162,7 +41687,7 @@
     ],
     "is_nsfw": false,
     "launched": "2012-03-17",
-    "closed": null,
+    "closed": "2024-04-01",
     "replaced_by": null,
     "website": "https://www.ballysports.com/san-diego/"
   },
@@ -42181,595 +41706,9 @@
     ],
     "is_nsfw": false,
     "launched": null,
-    "closed": null,
+    "closed": "2024-04-01",
     "replaced_by": null,
     "website": "https://www.ballysports.com/san-diego/"
-  },
-  {
-    "id": "BallySportsSoCal.us",
-    "name": "Bally Sports SoCal",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1997-01-27",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/west-socal/"
-  },
-  {
-    "id": "BallySportsSoCalPlus.us",
-    "name": "Bally Sports SoCal Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/west-socal/"
-  },
-  {
-    "id": "BallySportsSouth.us",
-    "name": "Bally Sports South",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1990-08-29",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSouthAlabama.us",
-    "name": "Bally Sports South Alabama",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSoutheast.us",
-    "name": "Bally Sports Southeast",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "2006-10-13",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSoutheastAlabama.us",
-    "name": "Bally Sports Southeast Alabama",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSoutheastGeorgia.us",
-    "name": "Bally Sports Southeast Georgia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSoutheastKentucky.us",
-    "name": "Bally Sports Southeast Kentucky",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSoutheastMississippi.us",
-    "name": "Bally Sports Southeast Mississippi",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSoutheastNorthCarolina.us",
-    "name": "Bally Sports Southeast North Carolina",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSoutheastPlus.us",
-    "name": "Bally Sports Southeast Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSoutheastSouthCarolina.us",
-    "name": "Bally Sports Southeast South Carolina",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSoutheastTennessee.us",
-    "name": "Bally Sports Southeast Tennessee",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSouthGeorgia.us",
-    "name": "Bally Sports South Georgia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSouthKentucky.us",
-    "name": "Bally Sports South Kentucky",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSouthMississippi.us",
-    "name": "Bally Sports South Mississippi",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSouthNorthCarolinas.us",
-    "name": "Bally Sports South North Carolinas",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSouthPlus.us",
-    "name": "Bally Sports South Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSouthSouthCarolinas.us",
-    "name": "Bally Sports South South Carolinas",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSouthTennessee.us",
-    "name": "Bally Sports South Tennessee",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/south/"
-  },
-  {
-    "id": "BallySportsSouthwest.us",
-    "name": "Bally Sports Southwest",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Texas Rangers"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1983-01-04",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/southwest/"
-  },
-  {
-    "id": "BallySportsSouthwestArkansas.us",
-    "name": "Bally Sports Southwest Arkansas",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Texas Rangers"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/southwest/"
-  },
-  {
-    "id": "BallySportsSouthwestDallasFortWorth.us",
-    "name": "Bally Sports Southwest/Dallas Fort Worth",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Texas Rangers"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/southwest/"
-  },
-  {
-    "id": "BallySportsSouthwestHouston.us",
-    "name": "Bally Sports Southwest Houston",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Texas Rangers"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/southwest/"
-  },
-  {
-    "id": "BallySportsSouthwestPlus.us",
-    "name": "Bally Sports Southwest Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Texas Rangers"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/southwest/"
-  },
-  {
-    "id": "BallySportsSouthwestSanAntonio.us",
-    "name": "Bally Sports Southwest San Antonio",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Texas Rangers"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/southwest/"
-  },
-  {
-    "id": "BallySportsSun.us",
-    "name": "Bally Sports Sun",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1988-03-04",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/florida-sun/"
-  },
-  {
-    "id": "BallySportsSunPlus.us",
-    "name": "Bally Sports Sun Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/florida-sun/"
-  },
-  {
-    "id": "BallySportsWest.us",
-    "name": "Bally Sports West",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Los Angeles Angels"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "1985-10-19",
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/west-socal/"
-  },
-  {
-    "id": "BallySportsWestPlus.us",
-    "name": "Bally Sports West Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Los Angeles Angels"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "https://www.ballysports.com/west-socal/"
-  },
-  {
-    "id": "BallySportsWisconsin.us",
-    "name": "Bally Sports Wisconsin",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Milwaukee Brewers"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": "2007-04-01",
-    "closed": null,
-    "replaced_by": null,
-    "website": "http://ballysports.com/wisconsin"
-  },
-  {
-    "id": "BallySportsWisconsinPlus.us",
-    "name": "Bally Sports Wisconsin Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Diamond Sports Group",
-      "Milwaukee Brewers"
-    ],
-    "country": "US",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "http://ballysports.com/wisconsin"
   },
   {
     "id": "BaltaTV.ua",
@@ -50800,8 +49739,7 @@
     ],
     "country": "FR",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2022-09-28",
@@ -54607,7 +53545,9 @@
     "network": null,
     "owners": [],
     "country": "BR",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -55510,8 +54450,7 @@
     "owners": [],
     "country": "CW",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -58836,7 +57775,8 @@
     "owners": [],
     "country": "SK",
     "categories": [
-      "all-channels"
+      "all-channels",
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -58854,9 +57794,7 @@
     ],
     "country": "UG",
     "categories": [
-      "entertainment",
-      "all-channels",
-      "general"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -59421,8 +58359,7 @@
     ],
     "country": "UG",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -59440,8 +58377,7 @@
     ],
     "country": "UG",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -64570,8 +63506,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -64624,7 +63559,9 @@
     "network": null,
     "owners": [],
     "country": "BR",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -65026,9 +63963,7 @@
     "network": null,
     "owners": [],
     "country": "AR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -65677,9 +64612,7 @@
     "network": null,
     "owners": [],
     "country": "AR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -66221,7 +65154,9 @@
     "network": null,
     "owners": [],
     "country": "AR",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -69300,8 +68235,7 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "culture",
-      "all-channels"
+      "culture"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -70630,8 +69564,7 @@
     "owners": [],
     "country": "CO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -70786,7 +69719,9 @@
     "network": null,
     "owners": [],
     "country": "CO",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -72709,7 +71644,8 @@
     "owners": [],
     "country": "AR",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -80579,7 +79515,8 @@
       "news",
       "lifestyle",
       "music",
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -85128,7 +84065,8 @@
     ],
     "country": "TH",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1958-01-25",
@@ -85283,7 +84221,8 @@
     ],
     "country": "TH",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1967-11-27",
@@ -85432,7 +84371,8 @@
     ],
     "country": "TH",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2011-01-05",
@@ -86215,8 +85155,7 @@
     "country": "US",
     "categories": [
       "news",
-      "culture",
-      "all-channels"
+      "culture"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -87380,7 +86319,9 @@
     "network": "Global BC",
     "owners": [],
     "country": "CA",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -87857,8 +86798,7 @@
     "owners": [],
     "country": "AF",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -89700,8 +88640,7 @@
     "owners": [],
     "country": "HN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2013-06-10",
@@ -91459,7 +90398,8 @@
     ],
     "country": "US",
     "categories": [
-      "movies"
+      "movies",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1993-04-01",
@@ -95755,7 +94695,8 @@
     "owners": [],
     "country": "BG",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -99766,7 +98707,8 @@
     ],
     "country": "PH",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2007-03-19",
@@ -103346,8 +102288,7 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -104496,7 +103437,8 @@
     "owners": [],
     "country": "PE",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -105721,7 +104663,8 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1979-04-15",
@@ -106440,8 +105383,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -106667,7 +105609,8 @@
     ],
     "country": "US",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2009-03-09",
@@ -106912,7 +105855,8 @@
     ],
     "country": "CA",
     "categories": [
-      "movies"
+      "movies",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1983-02-01",
@@ -107648,7 +106592,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -110387,7 +109332,8 @@
     ],
     "country": "JM",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1993-03-01",
@@ -110624,7 +109570,8 @@
     "country": "BR",
     "categories": [
       "family",
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -111062,8 +110009,7 @@
     "owners": [],
     "country": "ML",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -113818,8 +112764,7 @@
     ],
     "country": "BD",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2016-09-21",
@@ -116624,7 +115569,8 @@
     ],
     "country": "BD",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2009-03-26",
@@ -117480,8 +116426,7 @@
     "owners": [],
     "country": "HR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2018-01-01",
@@ -120933,8 +119878,7 @@
     "owners": [],
     "country": "PY",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -122510,8 +121454,7 @@
     "owners": [],
     "country": "PL",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -123834,7 +122777,8 @@
     ],
     "country": "TZ",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -124426,7 +123370,8 @@
     "owners": [],
     "country": "VN",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -125551,8 +124496,7 @@
     ],
     "country": "UG",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -127549,8 +126493,7 @@
     "owners": [],
     "country": "TJ",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -131741,7 +130684,8 @@
     ],
     "country": "SV",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -133193,8 +132137,7 @@
     "owners": [],
     "country": "ES",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -135063,8 +134006,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -141117,7 +140059,8 @@
     "country": "FR",
     "categories": [
       "news",
-      "all-channels"
+      "all-channels",
+      "top-news"
     ],
     "is_nsfw": false,
     "launched": "1993-01-01",
@@ -145024,6 +143967,1196 @@
     "website": null
   },
   {
+    "id": "FanDuelSportsNetworkDetroit.us",
+    "name": "FanDuel Sports Network Detroit",
+    "alt_names": [
+      "Bally Sports Detroit",
+      "Fox Sports Detroit"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1997-09-17",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://fanduelsportsNetworknetwork.com/detroit"
+  },
+  {
+    "id": "FanDuelSportsNetworkDetroitExtra.us",
+    "name": "FanDuel Sports Network Detroit Extra",
+    "alt_names": [
+      "Bally Sports Detroit Extra"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2007-01-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://fanduelsportsNetworknetwork.com/detroit"
+  },
+  {
+    "id": "FanDuelSportsNetworkFlorida.us",
+    "name": "FanDuel Sports Network Florida",
+    "alt_names": [
+      "Bally Sports Florida",
+      "Fox Sports Florida",
+      "SportsChannel Florida"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1987-12-29",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/florida-sun/"
+  },
+  {
+    "id": "FanDuelSportsNetworkFloridaPlus.us",
+    "name": "FanDuel Sports Network Florida Plus",
+    "alt_names": [
+      "Bally Sports Florida Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/florida-sun/"
+  },
+  {
+    "id": "FanDuelSportsNetworkGreatLakes.us",
+    "name": "FanDuel Sports Network Great Lakes",
+    "alt_names": [
+      "Bally Sports Great Lakes",
+      "SportsTime Ohio"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2006-03-12",
+    "closed": "2025-03-01",
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/ohio-greatlakes/"
+  },
+  {
+    "id": "FanDuelSportsNetworkIndiana.us",
+    "name": "FanDuel Sports Network Indiana",
+    "alt_names": [
+      "Bally Sports Indiana",
+      "Fox Sports Indiana"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2006-11-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/indiana/"
+  },
+  {
+    "id": "FanDuelSportsNetworkIndianaPlus.us",
+    "name": "FanDuel Sports Network Indiana Plus",
+    "alt_names": [
+      "Bally Sports Indiana Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/indiana/"
+  },
+  {
+    "id": "FanDuelSportsNetworkKansasCity.us",
+    "name": "FanDuel Sports Network Kansas City",
+    "alt_names": [
+      "Bally Sports Kansas City",
+      "Fox Sports Kansas City"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2008-03-31",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/kansas-city/"
+  },
+  {
+    "id": "FanDuelSportsNetworkKansasCityPlus.us",
+    "name": "FanDuel Sports Network Kansas City Plus",
+    "alt_names": [
+      "Bally Sports Kansas City Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/kansas-city/"
+  },
+  {
+    "id": "FanDuelSportsNetworkMidwest.us",
+    "name": "FanDuel Sports Network Midwest",
+    "alt_names": [
+      "Bally Sports Midwest",
+      "Fox Sports Midwest",
+      "Prime Sports Midwest"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1989-11-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/midwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkMidwestCentralDownstateIllinois.us",
+    "name": "FanDuel Sports Network Midwest Central & Downstate Illinois",
+    "alt_names": [
+      "Bally Sports Midwest Central & Downstate Illinois"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/midwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkMidwestIowa.us",
+    "name": "FanDuel Sports Network Midwest Iowa",
+    "alt_names": [
+      "Bally Sports Midwest Iowa"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/midwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkMidwestNebraska.us",
+    "name": "FanDuel Sports Network Midwest Nebraska",
+    "alt_names": [
+      "Bally Sports Midwest Nebraska"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/midwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkMidwestPlus.us",
+    "name": "FanDuel Sports Network Midwest Plus",
+    "alt_names": [
+      "Bally Sports Midwest Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/midwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkMidwestSoutheastMissouri.us",
+    "name": "FanDuel Sports Network Midwest Southeast Missouri",
+    "alt_names": [
+      "Bally Sports Midwest Southeast Missouri"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/midwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkMidwestSouthwestMidMissouri.us",
+    "name": "FanDuel Sports Network Midwest Southwest & Mid-Missouri",
+    "alt_names": [
+      "Bally Sports Midwest Southwest & Mid-Missouri"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/midwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkMidwestStLouis.us",
+    "name": "FanDuel Sports Network Midwest St Louis",
+    "alt_names": [
+      "Bally Sports Midwest St Louis"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/midwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkNorth.us",
+    "name": "FanDuel Sports Network North",
+    "alt_names": [
+      "Bally Sports North",
+      "Fox Sports North",
+      "Midwest Sports Channel"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1989-03-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/north"
+  },
+  {
+    "id": "FanDuelSportsNetworkNorthExtra.us",
+    "name": "FanDuel Sports Network North Extra",
+    "alt_names": [
+      "Bally Sports North Extra"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/north"
+  },
+  {
+    "id": "FanDuelSportsNetworkNorthPlus.us",
+    "name": "FanDuel Sports Network North Plus",
+    "alt_names": [
+      "Bally Sports North Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/north"
+  },
+  {
+    "id": "FanDuelSportsNetworkOhio.us",
+    "name": "FanDuel Sports Network Ohio",
+    "alt_names": [
+      "Bally Sports Ohio",
+      "Fox Sports Ohio",
+      "SportsChannel Ohio"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1989-02-09",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/ohio-greatlakes"
+  },
+  {
+    "id": "FanDuelSportsNetworkOhioCincinnati.us",
+    "name": "FanDuel Sports Network Ohio Cincinnati",
+    "alt_names": [
+      "Bally Sports Ohio Cincinnati"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/ohio-greatlakes"
+  },
+  {
+    "id": "FanDuelSportsNetworkOhioCleveland.us",
+    "name": "FanDuel Sports Network Ohio Cleveland",
+    "alt_names": [
+      "Bally Sports Ohio Cleveland"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/ohio-greatlakes"
+  },
+  {
+    "id": "FanDuelSportsNetworkOhioPlus.us",
+    "name": "FanDuel Sports Network Ohio Plus",
+    "alt_names": [
+      "Bally Sports Ohio Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/ohio-greatlakes"
+  },
+  {
+    "id": "FanDuelSportsNetworkOklahoma.us",
+    "name": "FanDuel Sports Network Oklahoma",
+    "alt_names": [
+      "Bally Sports Oklahoma",
+      "Fox Sports Oklahoma"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2008-10-29",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/southwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkOklahomaPlus.us",
+    "name": "FanDuel Sports Network Oklahoma Plus",
+    "alt_names": [
+      "Bally Sports Oklahoma Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/southwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoCal.us",
+    "name": "FanDuel Sports Network SoCal",
+    "alt_names": [
+      "Bally Sports SoCal",
+      "Prime Ticket",
+      "Fox Sports West 2"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1997-01-27",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/west-socal/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoCalPlus.us",
+    "name": "FanDuel Sports Network SoCal Plus",
+    "alt_names": [
+      "Bally Sports SoCal Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/west-socal/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouth.us",
+    "name": "FanDuel Sports Network South",
+    "alt_names": [
+      "Bally Sports South",
+      "Fox Sports South",
+      "SportSouth"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1990-08-29",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthAlabama.us",
+    "name": "FanDuel Sports Network South Alabama",
+    "alt_names": [
+      "Bally Sports South Alabama"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoutheast.us",
+    "name": "FanDuel Sports Network Southeast",
+    "alt_names": [
+      "Bally Sports Southeast",
+      "Fox Sports Southeast",
+      "SportSouth",
+      "Turner South"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2006-10-13",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoutheastAlabama.us",
+    "name": "FanDuel Sports Network Southeast Alabama",
+    "alt_names": [
+      "Bally Sports Southeast Alabama"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoutheastGeorgia.us",
+    "name": "FanDuel Sports Network Southeast Georgia",
+    "alt_names": [
+      "Bally Sports Southeast Georgia"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoutheastKentucky.us",
+    "name": "FanDuel Sports Network Southeast Kentucky",
+    "alt_names": [
+      "Bally Sports Southeast Kentucky"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoutheastMississippi.us",
+    "name": "FanDuel Sports Network Southeast Mississippi",
+    "alt_names": [
+      "Bally Sports Southeast Mississippi"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoutheastNorthCarolina.us",
+    "name": "FanDuel Sports Network Southeast North Carolina",
+    "alt_names": [
+      "Bally Sports Southeast North Carolina"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoutheastPlus.us",
+    "name": "FanDuel Sports Network Southeast Plus",
+    "alt_names": [
+      "Bally Sports Southeast Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoutheastSouthCarolina.us",
+    "name": "FanDuel Sports Network Southeast South Carolina",
+    "alt_names": [
+      "Bally Sports Southeast South Carolina"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSoutheastTennessee.us",
+    "name": "FanDuel Sports Network Southeast Tennessee",
+    "alt_names": [
+      "Bally Sports Southeast Tennessee"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthGeorgia.us",
+    "name": "FanDuel Sports Network South Georgia",
+    "alt_names": [
+      "Bally Sports South Georgia"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthKentucky.us",
+    "name": "FanDuel Sports Network South Kentucky",
+    "alt_names": [
+      "Bally Sports South Kentucky"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthMississippi.us",
+    "name": "FanDuel Sports Network South Mississippi",
+    "alt_names": [
+      "Bally Sports South Mississippi"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthNorthCarolinas.us",
+    "name": "FanDuel Sports Network South North Carolinas",
+    "alt_names": [
+      "Bally Sports South North Carolinas"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthPlus.us",
+    "name": "FanDuel Sports Network South Plus",
+    "alt_names": [
+      "Bally Sports South Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthSouthCarolinas.us",
+    "name": "FanDuel Sports Network South South Carolinas",
+    "alt_names": [
+      "Bally Sports South South Carolinas"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthTennessee.us",
+    "name": "FanDuel Sports Network South Tennessee",
+    "alt_names": [
+      "Bally Sports South Tennessee"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/south/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthwest.us",
+    "name": "FanDuel Sports Network Southwest",
+    "alt_names": [
+      "Bally Sports Southwest",
+      "Fox Sports Southwest",
+      "Prime Sports Southwest",
+      "Home Sports Entertainment"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1983-01-04",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/southwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthwestArkansas.us",
+    "name": "FanDuel Sports Network Southwest Arkansas",
+    "alt_names": [
+      "Bally Sports Southwest Arkansas"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/southwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthwestDallasFortWorth.us",
+    "name": "FanDuel Sports Network Southwest/Dallas Fort Worth",
+    "alt_names": [
+      "Bally Sports Southwest/Dallas Fort Worth"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/southwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthwestHouston.us",
+    "name": "FanDuel Sports Network Southwest Houston",
+    "alt_names": [
+      "Bally Sports Southwest Houston"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/southwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthwestPlus.us",
+    "name": "FanDuel Sports Network Southwest Plus",
+    "alt_names": [
+      "Bally Sports Southwest Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/southwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSouthwestSanAntonio.us",
+    "name": "FanDuel Sports Network Southwest San Antonio",
+    "alt_names": [
+      "Bally Sports Southwest San Antonio"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/southwest/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSun.us",
+    "name": "FanDuel Sports Network Sun",
+    "alt_names": [
+      "Bally Sports Sun",
+      "Fox Sports Sun",
+      "Sun Sports",
+      "Sunshine Network"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1988-03-04",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/florida-sun/"
+  },
+  {
+    "id": "FanDuelSportsNetworkSunPlus.us",
+    "name": "FanDuel Sports Network Sun Plus",
+    "alt_names": [
+      "Bally Sports Sun Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/florida-sun/"
+  },
+  {
+    "id": "FanDuelSportsNetworkWest.us",
+    "name": "FanDuel Sports Network West",
+    "alt_names": [
+      "Bally Sports West",
+      "Fox Sports West",
+      "Prime Sports West",
+      "Prime Ticket"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "1985-10-19",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/west-socal/"
+  },
+  {
+    "id": "FanDuelSportsNetworkWestPlus.us",
+    "name": "FanDuel Sports Network West Plus",
+    "alt_names": [
+      "Bally Sports West Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/west-socal/"
+  },
+  {
+    "id": "FanDuelSportsNetworkWisconsin.us",
+    "name": "FanDuel Sports Network Wisconsin",
+    "alt_names": [
+      "Bally Sports Wisconsin",
+      "Fox Sports Wisconsin"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2007-04-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/wisconsin"
+  },
+  {
+    "id": "FanDuelSportsNetworkWisconsinPlus.us",
+    "name": "FanDuel Sports Network Wisconsin Plus",
+    "alt_names": [
+      "Bally Sports Wisconsin Plus"
+    ],
+    "network": "FanDuel Sports Network",
+    "owners": [
+      "Main Street Sports Group"
+    ],
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://fanduelsportsNetworknetwork.com/wisconsin"
+  },
+  {
     "id": "FanDuelTV.us",
     "name": "FanDuel TV",
     "alt_names": [
@@ -145588,7 +145721,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -146452,7 +146586,8 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -149170,7 +149305,8 @@
     "owners": [],
     "country": "DE",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -151491,7 +151627,8 @@
     "owners": [],
     "country": "UG",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -151566,7 +151703,8 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -156007,8 +156145,7 @@
     ],
     "country": "CR",
     "categories": [
-      "sports",
-      "all-channels"
+      "sports"
     ],
     "is_nsfw": false,
     "launched": "2019-01-01",
@@ -157030,8 +157167,7 @@
     "owners": [],
     "country": "NG",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -160122,7 +160258,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -160857,7 +160994,8 @@
     "owners": [],
     "country": "AT",
     "categories": [
-      "culture"
+      "culture",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -161538,7 +161676,8 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -161752,7 +161891,8 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -162328,7 +162468,8 @@
     ],
     "country": "TH",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2014-05-25",
@@ -164424,7 +164565,8 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -164901,8 +165043,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -165623,7 +165764,8 @@
     ],
     "country": "VE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2024-08-01",
@@ -168069,7 +168211,8 @@
     "owners": [],
     "country": "BS",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2012-04-10",
@@ -168085,7 +168228,8 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -174455,7 +174599,8 @@
     ],
     "country": "GY",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -183205,8 +183350,7 @@
     "owners": [],
     "country": "ID",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -187061,7 +187205,8 @@
     "owners": [],
     "country": "TJ",
     "categories": [
-      "science"
+      "science",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -187751,7 +187896,9 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels",
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -189180,7 +189327,8 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -192501,9 +192649,7 @@
     "network": null,
     "owners": [],
     "country": "IT",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -193694,8 +193840,7 @@
     "owners": [],
     "country": "TJ",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -194517,7 +194662,8 @@
     ],
     "country": "TN",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -197066,7 +197212,8 @@
     ],
     "country": "TH",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2012-02-15",
@@ -199670,8 +199817,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -214522,8 +214668,7 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -215449,7 +215594,8 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -239611,8 +239757,7 @@
     "owners": [],
     "country": "TJ",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -243693,8 +243838,7 @@
     ],
     "country": "ID",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2007-01-27",
@@ -262678,8 +262822,7 @@
     ],
     "country": "KP",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "1963-03-03",
@@ -305090,7 +305233,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2015-01-01",
@@ -312834,8 +312978,7 @@
     "categories": [
       "news",
       "music",
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -314890,8 +315033,7 @@
     ],
     "country": "IN",
     "categories": [
-      "legislative",
-      "all-channels"
+      "legislative"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -315303,7 +315445,8 @@
     "owners": [],
     "country": "LA",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -315787,8 +315930,7 @@
     "owners": [],
     "country": "CR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -319683,7 +319825,8 @@
     "owners": [],
     "country": "AR",
     "categories": [
-      "animation"
+      "animation",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1995-01-12",
@@ -319756,7 +319899,8 @@
     ],
     "country": "BG",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -326652,7 +326796,8 @@
     ],
     "country": "TH",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1955-06-24",
@@ -329357,8 +329502,7 @@
     "owners": [],
     "country": "KE",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -329706,8 +329850,7 @@
     "owners": [],
     "country": "LK",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -329925,8 +330068,7 @@
     ],
     "country": "RO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2020-08-15",
@@ -331729,7 +331871,8 @@
     "owners": [],
     "country": "PE",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -335473,7 +335616,8 @@
     "owners": [],
     "country": "MK",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -335630,7 +335774,8 @@
     "owners": [],
     "country": "MK",
     "categories": [
-      "sports"
+      "sports",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -336593,8 +336738,7 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2008-02-15",
@@ -339219,8 +339363,7 @@
     "owners": [],
     "country": "ID",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": "2003-10-28",
@@ -341609,7 +341752,8 @@
     ],
     "country": "US",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2006-01-16",
@@ -342862,7 +343006,8 @@
     "owners": [],
     "country": "GT",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -345452,8 +345597,7 @@
     ],
     "country": "KZ",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": "2006-12-16",
@@ -345503,7 +345647,8 @@
     "owners": [],
     "country": "LA",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -348067,8 +348212,7 @@
     "owners": [],
     "country": "CA",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -350664,7 +350808,8 @@
     ],
     "country": "US",
     "categories": [
-      "documentary"
+      "documentary",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2001-01-07",
@@ -351977,7 +352122,8 @@
     "owners": [],
     "country": "PE",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -353016,7 +353162,8 @@
     ],
     "country": "US",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1939-04-30",
@@ -353104,8 +353251,7 @@
     ],
     "country": "US",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": "2020-05-01",
@@ -356251,13 +356397,14 @@
     ],
     "country": "US",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1998-06-01",
     "closed": null,
     "replaced_by": null,
-    "website": "https://longisland.news12.com/"
+    "website": "https://bronx.news12.com/"
   },
   {
     "id": "News12Brooklyn.us",
@@ -356275,7 +356422,7 @@
     "launched": "2005-01-01",
     "closed": null,
     "replaced_by": null,
-    "website": "https://longisland.news12.com/"
+    "website": "https://brooklyn.news12.com/"
   },
   {
     "id": "News12Conneticut.us",
@@ -356287,13 +356434,14 @@
     ],
     "country": "US",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1995-06-01",
     "closed": null,
     "replaced_by": null,
-    "website": "https://longisland.news12.com/"
+    "website": "https://connecticut.news12.com/"
   },
   {
     "id": "News12HudsonValley.us",
@@ -356305,13 +356453,14 @@
     ],
     "country": "US",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2005-01-01",
     "closed": null,
     "replaced_by": null,
-    "website": "https://longisland.news12.com/"
+    "website": "https://hudsonvalley.news12.com/"
   },
   {
     "id": "News12LongIsland.us",
@@ -356341,13 +356490,14 @@
     ],
     "country": "US",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1996-03-26",
     "closed": null,
     "replaced_by": null,
-    "website": "https://longisland.news12.com/"
+    "website": "https://newjersey.news12.com/"
   },
   {
     "id": "News12NewYork.us",
@@ -356378,13 +356528,14 @@
     ],
     "country": "US",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1995-10-01",
     "closed": null,
     "replaced_by": null,
-    "website": "https://longisland.news12.com/"
+    "website": "https://westchester.news12.com/"
   },
   {
     "id": "News18AssamNorthEast.in",
@@ -357169,8 +357320,7 @@
     ],
     "country": "US",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2021-03-01",
@@ -370126,8 +370276,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -370369,8 +370518,7 @@
     ],
     "country": "IT",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -381571,7 +381719,8 @@
     "owners": [],
     "country": "GR",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2021-09-20",
@@ -384917,8 +385066,7 @@
     "country": "IT",
     "categories": [
       "outdoor",
-      "travel",
-      "all-channels"
+      "travel"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -384939,8 +385087,7 @@
     "country": "IT",
     "categories": [
       "outdoor",
-      "travel",
-      "all-channels"
+      "travel"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -384962,8 +385109,7 @@
     "country": "IT",
     "categories": [
       "outdoor",
-      "travel",
-      "all-channels"
+      "travel"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -385656,7 +385802,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -390589,7 +390736,8 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -397193,7 +397341,8 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -397377,7 +397526,8 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -402574,7 +402724,9 @@
     "network": null,
     "owners": [],
     "country": "PR",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -402711,7 +402863,8 @@
     "owners": [],
     "country": "EC",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -404097,8 +404250,7 @@
     ],
     "country": "AR",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -408803,7 +408955,8 @@
     "owners": [],
     "country": "CR",
     "categories": [
-      "sports"
+      "sports",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -408993,8 +409146,7 @@
     "owners": [],
     "country": "CV",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -410232,8 +410384,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -410248,9 +410399,7 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -410264,9 +410413,7 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -410578,9 +410725,7 @@
     "network": null,
     "owners": [],
     "country": "TH",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -410952,7 +411097,8 @@
     "owners": [],
     "country": "IR",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -411762,7 +411908,9 @@
     "network": "Jawa Pos Multimedia",
     "owners": [],
     "country": "ID",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": "2008-09-01",
     "closed": null,
@@ -416007,7 +416155,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -420652,7 +420801,8 @@
     ],
     "country": "JO",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -420686,7 +420836,8 @@
     ],
     "country": "JO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2011-01-01",
@@ -421325,8 +421476,7 @@
     "owners": [],
     "country": "BF",
     "categories": [
-      "culture",
-      "all-channels"
+      "culture"
     ],
     "is_nsfw": false,
     "launched": "2023-12-09",
@@ -421344,8 +421494,7 @@
     ],
     "country": "BN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2006-02-23",
@@ -421381,8 +421530,7 @@
     ],
     "country": "BN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -421418,8 +421566,7 @@
     ],
     "country": "BN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2003-07-09",
@@ -423757,22 +423904,6 @@
     "website": "http://www.rtp.pt/rtp2/"
   },
   {
-    "id": "RTP3.pt",
-    "name": "RTP 3",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "PT",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": "http://www.rtp.pt/rtp3/"
-  },
-  {
     "id": "RTPA.cd",
     "name": "RTPA",
     "alt_names": [
@@ -423921,6 +424052,24 @@
     "closed": null,
     "replaced_by": null,
     "website": "http://www.rtp.pt/rtpmemoria/"
+  },
+  {
+    "id": "RTPNoticias.pt",
+    "name": "RTP Noticias",
+    "alt_names": [
+      "RTP 3"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "PT",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.rtp.pt/noticias/"
   },
   {
     "id": "RTPTelevision.co",
@@ -426803,7 +426952,8 @@
     "owners": [],
     "country": "ES",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -427876,7 +428026,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -429033,7 +429184,9 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -431024,8 +431177,7 @@
     "owners": [],
     "country": "CR",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -431205,9 +431357,7 @@
     "network": null,
     "owners": [],
     "country": "AR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -431787,8 +431937,7 @@
     "owners": [],
     "country": "CR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -434486,9 +434635,7 @@
     "network": null,
     "owners": [],
     "country": "VN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -440174,7 +440321,10 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [],
+    "categories": [
+      "all-channels",
+      "religious"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -449452,8 +449602,7 @@
     "owners": [],
     "country": "GR",
     "categories": [
-      "kids",
-      "all-channels"
+      "kids"
     ],
     "is_nsfw": false,
     "launched": "1999-01-01",
@@ -451000,7 +451149,8 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -456762,7 +456912,8 @@
     "owners": [],
     "country": "DE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -463762,7 +463913,9 @@
     "network": null,
     "owners": [],
     "country": "TH",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -464671,7 +464824,9 @@
     "network": null,
     "owners": [],
     "country": "US",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -465307,7 +465462,9 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -467295,8 +467452,7 @@
     "owners": [],
     "country": "PA",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -475123,8 +475279,7 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -476855,8 +477010,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -477711,7 +477865,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -477850,7 +478005,8 @@
     ],
     "country": "VE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -480944,7 +481100,9 @@
     "network": null,
     "owners": [],
     "country": "PR",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -483404,10 +483562,7 @@
     "network": null,
     "owners": [],
     "country": "MX",
-    "categories": [
-      "all-channels",
-      "general"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -484242,7 +484397,8 @@
     "owners": [],
     "country": "HN",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -484403,8 +484559,7 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": "1992-01-01",
@@ -486535,7 +486690,8 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2010-04-22",
@@ -486604,7 +486760,9 @@
     "network": null,
     "owners": [],
     "country": "TH",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -487083,8 +487241,7 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "classic",
-      "all-channels"
+      "classic"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -488226,9 +488383,7 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -488765,8 +488920,7 @@
     "owners": [],
     "country": "BG",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -489173,7 +489327,8 @@
     "owners": [],
     "country": "GR",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -491629,7 +491784,8 @@
     "owners": [],
     "country": "TJ",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -497581,7 +497737,9 @@
       "TRT"
     ],
     "country": "TR",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": "1986-09-15",
     "closed": null,
@@ -499223,7 +499381,8 @@
     ],
     "country": "CA",
     "categories": [
-      "sports"
+      "sports",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2008-08-29",
@@ -499253,7 +499412,8 @@
     "owners": [],
     "country": "CA",
     "categories": [
-      "sports"
+      "sports",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2014-08-25",
@@ -499484,7 +499644,8 @@
     "owners": [],
     "country": "TH",
     "categories": [
-      "sports"
+      "sports",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -502810,9 +502971,7 @@
       "Televisió de Catalunya"
     ],
     "country": "ES",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": "1995-01-01",
     "closed": null,
@@ -504534,7 +504693,8 @@
     "owners": [],
     "country": "FR",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -506949,8 +507109,7 @@
     "owners": [],
     "country": "TJ",
     "categories": [
-      "kids",
-      "all-channels"
+      "kids"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -507756,7 +507915,8 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -507825,7 +507985,8 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -508858,8 +509019,7 @@
     "owners": [],
     "country": "HN",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -508971,8 +509131,7 @@
     "owners": [],
     "country": "HN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -512628,7 +512787,9 @@
     "network": null,
     "owners": [],
     "country": "BR",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -513659,7 +513820,8 @@
     ],
     "country": "JM",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1997-01-01",
@@ -514655,8 +514817,7 @@
     "owners": [],
     "country": "TJ",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -515888,7 +516049,8 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -517047,7 +517209,8 @@
     ],
     "country": "VE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2019-11-04",
@@ -517538,7 +517701,8 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -522443,7 +522607,9 @@
     "network": null,
     "owners": [],
     "country": "TJ",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -523529,7 +523695,8 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -523544,7 +523711,9 @@
     "network": null,
     "owners": [],
     "country": "TJ",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -524409,8 +524578,7 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -525002,9 +525170,7 @@
     "network": null,
     "owners": [],
     "country": "ID",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -526912,8 +527078,7 @@
     ],
     "country": "UG",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -529426,8 +529591,7 @@
     "categories": [
       "education",
       "science",
-      "documentary",
-      "all-channels"
+      "documentary"
     ],
     "is_nsfw": false,
     "launched": "2025-06-01",
@@ -529719,7 +529883,8 @@
     "owners": [],
     "country": "LB",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -529933,7 +530098,8 @@
     "owners": [],
     "country": "PE",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -530037,8 +530203,7 @@
     "categories": [
       "education",
       "entertainment",
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2024-10-11",
@@ -530485,7 +530650,8 @@
     "country": "BR",
     "categories": [
       "education",
-      "culture"
+      "culture",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -531161,9 +531327,7 @@
     "network": null,
     "owners": [],
     "country": "RU",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -532165,7 +532329,9 @@
     "network": null,
     "owners": [],
     "country": "US",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -532180,7 +532346,8 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -533347,7 +533514,8 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -535280,7 +535448,8 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2015-08-31",
@@ -539407,7 +539576,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -539783,9 +539953,7 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -543684,7 +543852,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -543787,8 +543956,7 @@
     "owners": [],
     "country": "HU",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -549462,8 +549630,7 @@
     ],
     "country": "UG",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -550775,7 +550942,8 @@
     "owners": [],
     "country": "CA",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -552029,9 +552197,7 @@
     "network": null,
     "owners": [],
     "country": "KR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": "2005-05-20",
     "closed": null,
@@ -574365,7 +574531,8 @@
     ],
     "country": "NG",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -576607,7 +576774,9 @@
       "Cannella Media DTC"
     ],
     "country": "US",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": "2025-06-09",
     "closed": null,
@@ -611147,9 +611316,7 @@
     "network": "Telemundo",
     "owners": [],
     "country": "US",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -618352,8 +618519,7 @@
     ],
     "country": "VI",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -626916,8 +627082,7 @@
     "owners": [],
     "country": "MX",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -632894,7 +633059,8 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -632926,7 +633092,8 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "kids"
+      "kids",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -632959,7 +633126,8 @@
     "country": "IN",
     "categories": [
       "classic",
-      "movies"
+      "movies",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -633049,7 +633217,8 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -635085,7 +635254,8 @@
     "country": "IN",
     "categories": [
       "news",
-      "classic"
+      "classic",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -635115,7 +635285,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -635281,8 +635452,7 @@
     "owners": [],
     "country": "AL",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -635769,7 +635939,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -635814,7 +635985,9 @@
     "network": null,
     "owners": [],
     "country": "CO",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -636778,7 +636951,9 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "all-channels"
+      "all-channels",
+      "news",
+      "public"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -638868,25 +639043,6 @@
     "website": null
   },
   {
-    "id": "anime-vanguard-live.jp",
-    "name": "Anime Vanguard Live",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "JP",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "animation"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "ankara-buyuksehir-belediyesi.tr",
     "name": "Ankara Büyükşehir Belediyesi",
     "alt_names": [],
@@ -639049,25 +639205,6 @@
     "categories": [
       "all-channels",
       "legislative"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "asahi-documentary.jp",
-    "name": "Asahi: Documentary",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "JP",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "documentary"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -639468,16 +639605,17 @@
     "website": null
   },
   {
-    "id": "banyumas-tv.id",
-    "name": "Banyumas TV",
+    "id": "barney-the-dinosaur.ca",
+    "name": "Barney the Dinosaur",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": "ID",
+    "country": "CA",
     "subdivision": null,
     "city": null,
     "categories": [
-      "all-channels"
+      "all-channels",
+      "animation"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -640040,6 +640178,25 @@
     "website": null
   },
   {
+    "id": "bloomberg-tv-us.us",
+    "name": "Bloomberg TV US",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "US",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "business"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "bloomfield-access-government-tv.us",
     "name": "Bloomfield Access Government TV",
     "alt_names": [],
@@ -640146,25 +640303,6 @@
     "categories": [
       "all-channels",
       "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "bob-ross.us",
-    "name": "Bob Ross",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -640579,6 +640717,25 @@
     "categories": [
       "all-channels",
       "legislative"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "camp-lakebottom.us",
+    "name": "Camp Lakebottom",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "US",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "animation"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -642229,6 +642386,25 @@
     "website": null
   },
   {
+    "id": "cocuklar-duymas-n.tr",
+    "name": "Çocuklar Duymasın",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "TR",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "coinvaulttv.us",
     "name": "CoinVaultTV",
     "alt_names": [],
@@ -642240,6 +642416,25 @@
     "categories": [
       "all-channels",
       "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "colimdot-tv.do",
+    "name": "ColimdoT TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "DO",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "sports"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -642606,6 +642801,25 @@
     "website": null
   },
   {
+    "id": "crafter-s-tv.uk",
+    "name": "Crafter's TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "UK",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "craftsy.us",
     "name": "Craftsy",
     "alt_names": [],
@@ -642865,6 +643079,25 @@
   {
     "id": "cti-2.tw",
     "name": "CTI+ | 中天2台",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "TW",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "ctitv-news.tw",
+    "name": "CTITV News 中天新聞",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -643801,6 +644034,24 @@
     "website": null
   },
   {
+    "id": "dua-channel.iq",
+    "name": "Dua Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IQ",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "dungeons-and-dragons-adventures.us",
     "name": "Dungeons & Dragons Adventures",
     "alt_names": [],
@@ -644170,6 +644421,26 @@
     "city": null,
     "categories": [
       "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "el-33-originals.es",
+    "name": "El 33 Originals",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "ES",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "culture",
+      "public"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -646531,6 +646802,25 @@
     "website": null
   },
   {
+    "id": "get-movies.ru",
+    "name": "Get Movies: Маша и Медведь",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "kids"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "gilroy-cmap-tv-channel-17.us",
     "name": "Gilroy CMAP TV Channel 17",
     "alt_names": [],
@@ -646757,25 +647047,6 @@
     "website": null
   },
   {
-    "id": "gongyoung-shopping.kr",
-    "name": "Gongyoung Shopping",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "shop"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "good-tv-ch1.tw",
     "name": "GOOD TV CH1 綜合台",
     "alt_names": [],
@@ -646814,348 +647085,6 @@
     "website": null
   },
   {
-    "id": "good-tv-ch3.tw",
-    "name": "GOOD TV CH3 真情部落格 短版",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch5.tw",
-    "name": "GOOD TV CH5 共享觀點 短版",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch6.tw",
-    "name": "GOOD TV CH6 親近神 詩歌音樂",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch7.tw",
-    "name": "GOOD TV CH7 禱告大軍 信息",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch9.tw",
-    "name": "GOOD TV CH9 愛+好醫生 短版",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch12.tw",
-    "name": "GOOD TV CH12 維他命施",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch14.tw",
-    "name": "GOOD TV CH14 真情部落格",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch15.tw",
-    "name": "GOOD TV CH15 真情之夜",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch16.tw",
-    "name": "GOOD TV CH16 葉光明",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch17.tw",
-    "name": "GOOD TV CH17 大衛鮑森",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch18.tw",
-    "name": "GOOD TV CH18 國際講員",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch20.tw",
-    "name": "GOOD TV CH20 恩典時分",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch21.tw",
-    "name": "GOOD TV CH21 華語講員",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch24.tw",
-    "name": "GOOD TV CH24 劉三講古",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch27.tw",
-    "name": "GOOD TV CH27 空中聖經學院",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch28.tw",
-    "name": "GOOD TV CH28 現代詩歌",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch29.tw",
-    "name": "GOOD TV CH29 經典音樂河",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch30.tw",
-    "name": "GOOD TV CH30 天堂敬拜",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch32.tw",
-    "name": "GOOD TV CH32 特會系列：禱告與轉化",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "good-tv-ch38.tw",
     "name": "GOOD TV CH38 特會系列：青年特會",
     "alt_names": [],
@@ -647176,78 +647105,6 @@
   {
     "id": "good-tv-ch40-8.tw",
     "name": "GOOD TV CH40 家庭8點檔轉轉發現愛",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch45.tw",
-    "name": "GOOD TV CH45 卡通",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch47.tw",
-    "name": "GOOD TV CH47 牧者頻道",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch49.tw",
-    "name": "GOOD TV CH49 禱告頻道",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "good-tv-ch50.tw",
-    "name": "GOOD TV CH50 國際講員 中文發音",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -647489,6 +647346,63 @@
     "website": null
   },
   {
+    "id": "hadi-tv-azeri-and-russian.iq",
+    "name": "Hadi TV Azeri and Russian",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IQ",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "hadi-tv-english-and-urdu.iq",
+    "name": "Hadi TV English and Urdu",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IQ",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "hadi-tv-farsi.iq",
+    "name": "Hadi TV Farsi",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IQ",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "hadi-tv-french.uk",
     "name": "Hadi TV French",
     "alt_names": [],
@@ -647507,6 +647421,25 @@
     "website": null
   },
   {
+    "id": "hadi-tv-hausa.iq",
+    "name": "Hadi TV Hausa",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IQ",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "hadi-tv-indonesian-and-thai.uk",
     "name": "Hadi TV Indonesian and Thai",
     "alt_names": [],
@@ -647517,6 +647450,25 @@
     "city": null,
     "categories": [
       "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "hadi-tv-pashto-and-persian.iq",
+    "name": "Hadi TV Pashto and Persian",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IQ",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -648699,31 +648651,12 @@
     "website": null
   },
   {
-    "id": "ion-plus-east.us",
-    "name": "ION Plus East",
+    "id": "irib5-tehran-tv.ir",
+    "name": "IRIB5 Tehran TV",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ionian-channel.gr",
-    "name": "Ionian Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "GR",
+    "country": "IR",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -649338,25 +649271,6 @@
     "website": null
   },
   {
-    "id": "kern-county-television.us",
-    "name": "Kern County Television",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "legislative"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "keshet-12-1080i.il",
     "name": "Keshet 12 (1080i)",
     "alt_names": [],
@@ -649616,6 +649530,25 @@
       "all-channels",
       "legislative",
       "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "korean-central-television-1080i.kp",
+    "name": "Korean Central Television (1080i)",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "KP",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -650631,25 +650564,6 @@
     "website": null
   },
   {
-    "id": "livefm-sri-lanka.lk",
-    "name": "LiveFM Sri Lanka",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "LK",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "lmtv-french.ci",
     "name": "LMTV French",
     "alt_names": [],
@@ -651044,25 +650958,6 @@
     "website": null
   },
   {
-    "id": "maharashtra-times.in",
-    "name": "Maharashtra Times",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "majestad-television.us",
     "name": "Majestad Televisión",
     "alt_names": [],
@@ -651347,8 +651242,8 @@
     "website": null
   },
   {
-    "id": "mbc-daejeon-mbc.kr",
-    "name": "MBC Daejeon (대전 MBC)",
+    "id": "mbc-daegu-mbc.kr",
+    "name": "MBC Daegu (대구 MBC)",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -651366,8 +651261,8 @@
     "website": null
   },
   {
-    "id": "mbc-jeju-mbc.kr",
-    "name": "MBC Jeju (제주 MBC)",
+    "id": "mbc-daejeon-mbc.kr",
+    "name": "MBC Daejeon (대전 MBC)",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -653639,6 +653534,25 @@
     "website": null
   },
   {
+    "id": "news24-daily.bd",
+    "name": "News24 Daily",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "newsfirst-kannada.in",
     "name": "NewsFirst Kannada",
     "alt_names": [],
@@ -655274,6 +655188,25 @@
     "website": null
   },
   {
+    "id": "portutv.ve",
+    "name": "PortuTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VE",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "power-rangers.us",
     "name": "Power Rangers",
     "alt_names": [],
@@ -656417,25 +656350,6 @@
     "website": null
   },
   {
-    "id": "rakuten-tv-comedy-movies-spain.es",
-    "name": "Rakuten TV Comedy Movies Spain",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "ES",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "rakuten-tv-comedy-movies-uk.es",
     "name": "Rakuten TV Comedy Movies UK",
     "alt_names": [],
@@ -656664,6 +656578,26 @@
     "website": null
   },
   {
+    "id": "rakuten-tv-family-movies-spain.es",
+    "name": "Rakuten TV Family Movies Spain",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "ES",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "family",
+      "movies"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "rakuten-tv-family-movies-uk.es",
     "name": "Rakuten TV Family Movies UK",
     "alt_names": [],
@@ -656676,6 +656610,24 @@
       "all-channels",
       "family",
       "movies"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "rakuten-tv-films-action.fr",
+    "name": "Rakuten TV Films Action",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "FR",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -656704,6 +656656,24 @@
   {
     "id": "rakuten-tv-films-drames.fr",
     "name": "Rakuten TV Films Drames",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "FR",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "rakuten-tv-films-famille.fr",
+    "name": "Rakuten TV Films Famille",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -657804,12 +657774,50 @@
     "website": null
   },
   {
+    "id": "rtv-news.bd",
+    "name": "Rtv News",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "rtv-rijnmond-extra.nl",
     "name": "RTV Rijnmond Extra",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "NL",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "rtv-riobamba.ec",
+    "name": "RTV Riobamba",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "EC",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -658106,25 +658114,6 @@
     "website": null
   },
   {
-    "id": "sbs-kbc.kr",
-    "name": "SBS KBC",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "sbs-news.jp",
     "name": "SBS News",
     "alt_names": [],
@@ -658203,25 +658192,6 @@
   {
     "id": "sbt-ribeirao-preto.br",
     "name": "SBT RIBEIRÃO PRETO",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sbt-rs.br",
-    "name": "SBT RS",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -658571,25 +658541,6 @@
     "categories": [
       "all-channels",
       "classic"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "shout-studios-dennis-the-menace.us",
-    "name": "Shout! Studios: Dennis the Menace",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "series"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -659639,6 +659590,25 @@
     "website": null
   },
   {
+    "id": "super-soccer-cartoons-supastrikas.us",
+    "name": "Super Soccer Cartoons: SupaStrikas",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "US",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "animation"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "super-tv-media.ba",
     "name": "Super TV Media",
     "alt_names": [],
@@ -659724,25 +659694,6 @@
     "categories": [
       "all-channels",
       "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "svbc-sri-venkateswara-bhakti-channel.in",
-    "name": "SVBC Sri Venkateswara Bhakti Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -659950,25 +659901,6 @@
     "categories": [
       "all-channels",
       "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tajikistan.tj",
-    "name": "Tajikistan",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TJ",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -660194,6 +660126,25 @@
     "city": null,
     "categories": [
       "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tele-ola-44-576i.do",
+    "name": "Tele Ola 44 (576i)",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "DO",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -660479,43 +660430,6 @@
     "website": null
   },
   {
-    "id": "teleradyo-serbisyo.ph",
-    "name": "Teleradyo Serbisyo",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "PH",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "teleregione-118.it",
-    "name": "TeleRegione 118",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IT",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "telesur-english.ve",
     "name": "Telesur English",
     "alt_names": [],
@@ -660584,25 +660498,6 @@
     "categories": [
       "all-channels",
       "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "televisa-univision-saltillo.mx",
-    "name": "Televisa Univision Saltillo",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "MX",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -661111,24 +661006,6 @@
     "website": null
   },
   {
-    "id": "the-ohio-channel-wviz-dt-2.us",
-    "name": "The Ohio Channel (WVIZ DT-2)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "the-smurfs.us",
     "name": "The Smurfs",
     "alt_names": [],
@@ -661337,6 +661214,24 @@
     "website": null
   },
   {
+    "id": "tlaxcala-television.mx",
+    "name": "Tlaxcala Televisión",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "MX",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "tn-todo-noticias.ar",
     "name": "TN Todo Noticias",
     "alt_names": [],
@@ -661481,25 +661376,6 @@
     "categories": [
       "all-channels",
       "animation"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tokushoutsu-retro-godzilla-marathon.us",
-    "name": "TokuSHOUTsu: Retro Godzilla Marathon",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "classic"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -661826,25 +661702,6 @@
     "website": null
   },
   {
-    "id": "tr24.cm",
-    "name": "TR24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CM",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "trace-sport-stars-australia.fr",
     "name": "Trace Sport Stars (Australia)",
     "alt_names": [],
@@ -662006,24 +661863,6 @@
     "categories": [
       "all-channels",
       "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "true-4u-720.th",
-    "name": "True 4U (720)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TH",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -662463,6 +662302,24 @@
     "website": null
   },
   {
+    "id": "tv3cat-originals.es",
+    "name": "TV3CAT Originals",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "ES",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "tv4.tr",
     "name": "TV4",
     "alt_names": [],
@@ -662876,6 +662733,25 @@
     "website": null
   },
   {
+    "id": "tvri-gorontalo.id",
+    "name": "TVRI Gorontalo",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "ID",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "tvri-jambi.id",
     "name": "TVRI Jambi",
     "alt_names": [],
@@ -663030,25 +662906,6 @@
   {
     "id": "tvri-lampung.id",
     "name": "TVRI Lampung",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "ID",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tvri-maluku.id",
-    "name": "TVRI Maluku",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -663760,6 +663617,24 @@
     "website": null
   },
   {
+    "id": "uu-tv-uskudar-universitesi-tv.tr",
+    "name": "ÜÜ TV Üsküdar Üniversitesi TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "TR",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "v6-news-telugu.in",
     "name": "V6 News Telugu",
     "alt_names": [],
@@ -664017,6 +663892,25 @@
     "website": null
   },
   {
+    "id": "vh1-east.us",
+    "name": "VH1 East",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "US",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "via-television-720p.pe",
     "name": "Vía Televisión (720P)",
     "alt_names": [],
@@ -664195,24 +664089,6 @@
     "categories": [
       "all-channels",
       "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "vtv7-hd.vn",
-    "name": "VTV7 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -666450,8 +666326,8 @@
     "website": null
   },
   {
-    "id": "cb09db995b12100a.by",
-    "name": "Беларусь 1",
+    "id": "453c8847a4707d90.by",
+    "name": "Беларусь 2",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -666460,26 +666336,7 @@
     "city": null,
     "categories": [
       "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "6a82f3d9fc8ad774.by",
-    "name": "Беларусь 3",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BY",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "culture"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -666768,8 +666625,8 @@
     "website": null
   },
   {
-    "id": "537a9cb78de35dda.ru",
-    "name": "Дом Кино",
+    "id": "9b66dc070f22fe8c.ru",
+    "name": "Дума ТВ",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -666778,7 +666635,7 @@
     "city": null,
     "categories": [
       "all-channels",
-      "movies"
+      "legislative"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -666789,25 +666646,6 @@
   {
     "id": "c14a962ba9eca97d.ru",
     "name": "Евразия (Орск)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "df156ecf5e1fbe36.ru",
-    "name": "Енисей",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -668167,235 +668005,6 @@
     "website": null
   },
   {
-    "id": "meditation-music.ru",
-    "name": "Сити Эдем Meditation Music",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "play.ru",
-    "name": "Сити Эдем Play Христианский Музыкальный",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "4f5ae8b8940a4e6c.ru",
-    "name": "Сити Эдем АвтоГид",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "auto"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "d6944aefa9de43d3.ru",
-    "name": "Сити Эдем КиноДетектив",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "34e14c32a9582c6a.ru",
-    "name": "Сити Эдем КиноДок",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "documentary",
-      "series"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0a4f32d22e9a6781.ru",
-    "name": "Сити Эдем КиноКомедия",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ad7cf4d575186f4e.ru",
-    "name": "Сити Эдем КиноФантастика",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2a79aae18541d3c8.ru",
-    "name": "Сити Эдем КиноЭкшен",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f8d6c57c0d1ed8e9.ru",
-    "name": "Сити Эдем Классическая Музыка",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e79c71764823bdf5.ru",
-    "name": "Сити Эдем МедЗдрав",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "lifestyle"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f60c0ed56522c0f6.ru",
-    "name": "Сити Эдем Рецепты Гурмана",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "cooking"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "361ed93c5ce89265.ru",
-    "name": "Сити Эдем Сиртаки ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "918c212e369f1dfd.ru",
     "name": "Смайл ТВ",
     "alt_names": [],
@@ -669244,25 +668853,6 @@
     "website": null
   },
   {
-    "id": "cb3d8d7864713a45.ru",
-    "name": "ЮВЕЛИРТРЕЙД",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "shop"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "0dc661bc1d30f636.ru",
     "name": "Югра",
     "alt_names": [],
@@ -669539,25 +669129,6 @@
     "categories": [
       "all-channels",
       "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f985687675ff94a8.jp",
-    "name": "アイドルマスターチャンネル",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "JP",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -669990,24 +669561,6 @@
     "website": null
   },
   {
-    "id": "97522b4caa1103eb.cn",
-    "name": "宿州科教",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "peppa-pig.cn",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "alt_names": [],
@@ -670416,186 +669969,6 @@
     "network": null,
     "owners": [],
     "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw",
-    "name": "立法院IVOD直播交通委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-1",
-    "name": "立法院IVOD直播內政委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-2",
-    "name": "立法院IVOD直播司法及法制委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-3",
-    "name": "立法院IVOD直播外交及國防委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-4",
-    "name": "立法院IVOD直播教育及文化委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-5",
-    "name": "立法院IVOD直播朝野協商",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-6",
-    "name": "立法院IVOD直播社會福利及衛生環境委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-7",
-    "name": "立法院IVOD直播經濟委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-8",
-    "name": "立法院IVOD直播財政委員會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ivod.tw-9",
-    "name": "立法院IVOD直播院會",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TW",
     "subdivision": null,
     "city": null,
     "categories": [
