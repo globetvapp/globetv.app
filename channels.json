@@ -357,8 +357,7 @@
     ],
     "country": "IN",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2013-03-16",
@@ -894,7 +893,8 @@
     "owners": [],
     "country": "HU",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -1339,6 +1339,22 @@
     "closed": null,
     "replaced_by": null,
     "website": "https://1tv.ge/"
+  },
+  {
+    "id": "1TV.md",
+    "name": "1TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "MD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://1tv.md/"
   },
   {
     "id": "1TVPersian.ir",
@@ -2300,8 +2316,7 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "business",
-      "all-channels"
+      "business"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -2435,8 +2450,7 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -2486,7 +2500,8 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "auto"
+      "auto",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -4796,8 +4811,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2012-07-03",
@@ -5816,8 +5830,7 @@
     ],
     "country": "IN",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2014-07-20",
@@ -12401,7 +12414,8 @@
     "owners": [],
     "country": "IQ",
     "categories": [
-      "kids"
+      "kids",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -12419,7 +12433,8 @@
     "owners": [],
     "country": "IQ",
     "categories": [
-      "kids"
+      "kids",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2020-02-10",
@@ -14835,7 +14850,8 @@
     "owners": [],
     "country": "RW",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -15339,7 +15355,8 @@
     ],
     "country": "AE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1996-02-01",
@@ -18149,7 +18166,8 @@
     ],
     "country": "UK",
     "categories": [
-      "education"
+      "education",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2006-01-01",
@@ -19837,8 +19855,7 @@
     "owners": [],
     "country": "QA",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -19981,7 +19998,9 @@
     "network": null,
     "owners": [],
     "country": "SY",
-    "categories": [],
+    "categories": [
+      "general"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -20299,8 +20318,7 @@
     ],
     "country": "YE",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -20576,9 +20594,7 @@
     "network": null,
     "owners": [],
     "country": "IQ",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -21720,7 +21736,8 @@
     "owners": [],
     "country": "EG",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -24193,8 +24210,7 @@
     ],
     "country": "IR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2002-10-15",
@@ -26800,8 +26816,7 @@
     ],
     "country": "RO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "1993-11-29",
@@ -27577,8 +27592,7 @@
     "owners": [],
     "country": "ZA",
     "categories": [
-      "travel",
-      "all-channels"
+      "travel"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -28820,8 +28834,7 @@
     ],
     "country": "IN",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -32479,8 +32492,7 @@
     "country": "SA",
     "categories": [
       "business",
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -33525,7 +33537,9 @@
       "Digdaya Media Nusantara"
     ],
     "country": "ID",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -34714,8 +34728,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -39697,8 +39710,7 @@
     ],
     "country": "AZ",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2000-12-25",
@@ -41613,9 +41625,7 @@
     "network": null,
     "owners": [],
     "country": "HU",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -45824,8 +45834,7 @@
     "owners": [],
     "country": "AR",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -58719,7 +58728,8 @@
     ],
     "country": "UG",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -59400,7 +59410,8 @@
     "owners": [],
     "country": "ID",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -60889,7 +60900,9 @@
     "network": null,
     "owners": [],
     "country": "PE",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -63116,9 +63129,7 @@
     "network": null,
     "owners": [],
     "country": "AR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -64525,8 +64536,7 @@
     "owners": [],
     "country": "CO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -66797,10 +66807,11 @@
     ],
     "country": "SV",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "2009-06-01",
     "closed": null,
     "replaced_by": null,
     "website": "https://www.misioncristianaelohim.com/"
@@ -67076,9 +67087,7 @@
     "network": null,
     "owners": [],
     "country": "CL",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -73153,7 +73162,8 @@
     "owners": [],
     "country": "AR",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -73702,8 +73712,7 @@
     "owners": [],
     "country": "ES",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -75061,8 +75070,7 @@
     "owners": [],
     "country": "EC",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -75968,8 +75976,7 @@
     "owners": [],
     "country": "CR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -76867,8 +76874,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -83774,7 +83780,8 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "documentary"
+      "documentary",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -84385,7 +84392,8 @@
     "owners": [],
     "country": "CI",
     "categories": [
-      "business"
+      "business",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -84451,7 +84459,8 @@
     "owners": [],
     "country": "TG",
     "categories": [
-      "entertainment"
+      "entertainment",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -85553,7 +85562,8 @@
     ],
     "country": "MM",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2012-05-11",
@@ -86510,8 +86520,7 @@
     "country": "US",
     "categories": [
       "news",
-      "culture",
-      "all-channels"
+      "culture"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -88695,7 +88704,9 @@
     "owners": [],
     "country": "CL",
     "categories": [
-      "general"
+      "general",
+      "all-channels",
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -91653,8 +91664,7 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -101255,7 +101265,8 @@
     ],
     "country": "SG",
     "categories": [
-      "business"
+      "business",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1995-06-20",
@@ -101790,6 +101801,7 @@
     "id": "CNCMonteria.co",
     "name": "CNC Monteria",
     "alt_names": [
+      "CNC Montería",
       "CNC Córdoba"
     ],
     "network": "CNC",
@@ -102419,7 +102431,8 @@
     ],
     "country": "BR",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2020-03-15",
@@ -105618,6 +105631,26 @@
     "closed": null,
     "replaced_by": null,
     "website": null
+  },
+  {
+    "id": "ContaLaNorte.pt",
+    "name": "Conta La Norte",
+    "alt_names": [
+      "Conta Lá Norte"
+    ],
+    "network": null,
+    "owners": [
+      "Holding Audiovisual SA"
+    ],
+    "country": "PT",
+    "categories": [
+      "outdoor"
+    ],
+    "is_nsfw": false,
+    "launched": "2025-09-05",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://conta-la.pt/"
   },
   {
     "id": "ContinentalTelevision.bo",
@@ -109193,8 +109226,7 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "legislative",
-      "all-channels"
+      "legislative"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -110957,8 +110989,7 @@
     ],
     "country": "IN",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -110976,8 +111007,7 @@
     ],
     "country": "IN",
     "categories": [
-      "lifestyle",
-      "all-channels"
+      "lifestyle"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -111722,8 +111752,7 @@
     "owners": [],
     "country": "ID",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": "2006-10-01",
@@ -114859,8 +114888,7 @@
     ],
     "country": "IN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "1994-01-01",
@@ -115069,8 +115097,7 @@
     "country": "IN",
     "categories": [
       "education",
-      "outdoor",
-      "all-channels"
+      "outdoor"
     ],
     "is_nsfw": false,
     "launched": "2015-05-26",
@@ -115522,8 +115549,7 @@
     ],
     "country": "IN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "1975-11-27",
@@ -117883,7 +117909,8 @@
     "owners": [],
     "country": "ID",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2006-01-27",
@@ -122939,7 +122966,8 @@
     ],
     "country": "NP",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -124098,6 +124126,22 @@
     "closed": null,
     "replaced_by": null,
     "website": "https://doblectelevision.com/"
+  },
+  {
+    "id": "DobraTV.ba",
+    "name": "Dobra TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BA",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.dobratv.com/"
   },
   {
     "id": "DobrogeaTV.ro",
@@ -127232,7 +127276,8 @@
     "owners": [],
     "country": "ID",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -130701,7 +130746,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "documentary"
+      "documentary",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -142006,7 +142052,8 @@
     "country": "FR",
     "categories": [
       "news",
-      "all-channels"
+      "all-channels",
+      "top-news"
     ],
     "is_nsfw": false,
     "launched": "1993-01-01",
@@ -142225,8 +142272,7 @@
     ],
     "country": "FR",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "1993-01-01",
@@ -143909,8 +143955,7 @@
     "owners": [],
     "country": "SI",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -147824,8 +147869,7 @@
     ],
     "country": "IR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -149194,7 +149238,8 @@
     "owners": [],
     "country": "LY",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2019-01-01",
@@ -149284,7 +149329,8 @@
     "owners": [],
     "country": "HU",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -157905,8 +157951,7 @@
     "country": "US",
     "categories": [
       "travel",
-      "auto",
-      "all-channels"
+      "auto"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -158251,8 +158296,7 @@
     ],
     "country": "LB",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "1993-02-15",
@@ -162919,6 +162963,24 @@
     "website": "http://www.gibet.ng/"
   },
   {
+    "id": "GibraltarFATV.gi",
+    "name": "Gibraltar FA TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gibraltar Football Association"
+    ],
+    "country": "GI",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2022-09-30",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.gibraltarfa.com/"
+  },
+  {
     "id": "GichichioTV.ke",
     "name": "Gichichio TV",
     "alt_names": [],
@@ -165284,8 +165346,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -165376,14 +165437,14 @@
     "website": "https://godisabletv.org/"
   },
   {
-    "id": "GodStandsTV.ph",
+    "id": "GodStandsTV.pk",
     "name": "God Stands TV",
     "alt_names": [
       "GS TV"
     ],
     "network": null,
     "owners": [],
-    "country": "PH",
+    "country": "PK",
     "categories": [
       "religious"
     ],
@@ -167289,8 +167350,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -170492,8 +170552,7 @@
     "owners": [],
     "country": "CN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -171740,8 +171799,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "education",
-      "all-channels"
+      "education"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -172505,8 +172563,7 @@
     "owners": [],
     "country": "HT",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -172522,8 +172579,7 @@
     "owners": [],
     "country": "US",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -174106,7 +174162,8 @@
     ],
     "country": "IN",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -175576,7 +175633,8 @@
     "owners": [],
     "country": "RO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -177109,7 +177167,8 @@
     ],
     "country": "GY",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -179114,6 +179173,22 @@
     "website": "https://www.hitexpress.tv/"
   },
   {
+    "id": "HitFM.md",
+    "name": "Hit FM",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "MD",
+    "categories": [
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://hitfm.md/"
+  },
+  {
     "id": "HitMixMusic.bg",
     "name": "Hit Mix Music",
     "alt_names": [],
@@ -180810,8 +180885,7 @@
     ],
     "country": "IN",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -184731,7 +184805,8 @@
     "categories": [
       "series",
       "entertainment",
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2003-10-01",
@@ -184988,7 +185063,8 @@
     ],
     "country": "VN",
     "categories": [
-      "sports"
+      "sports",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2003-09-25",
@@ -190282,7 +190358,8 @@
     ],
     "country": "GE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2003-03-15",
@@ -194927,7 +195004,8 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -195546,7 +195624,8 @@
     "owners": [],
     "country": "UA",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -195806,6 +195885,22 @@
     "website": "https://www.iradios.ca/itv"
   },
   {
+    "id": "ITVMaster.ba",
+    "name": "ITV Master",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BA",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://itv-master.com/"
+  },
+  {
     "id": "ITVN.za",
     "name": "ITVN",
     "alt_names": [
@@ -195994,6 +196089,22 @@
     "closed": null,
     "replaced_by": null,
     "website": "https://www.itv.com.mt/"
+  },
+  {
+    "id": "ITVStory.ba",
+    "name": "ITV Story",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BA",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://itv-story.com/"
   },
   {
     "id": "iTVTurkishMusic.ca",
@@ -196915,8 +197026,7 @@
     ],
     "country": "BD",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2014-04-05",
@@ -198866,7 +198976,8 @@
     "country": "CN",
     "categories": [
       "kids",
-      "animation"
+      "animation",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2005-11-28",
@@ -198902,8 +199013,7 @@
     "owners": [],
     "country": "CN",
     "categories": [
-      "business",
-      "all-channels"
+      "business"
     ],
     "is_nsfw": false,
     "launched": "2008-06-02",
@@ -201463,6 +201573,24 @@
     "closed": null,
     "replaced_by": null,
     "website": "https://www.nhk.or.jp/nagano/"
+  },
+  {
+    "id": "JonkopingsLokalTV.se",
+    "name": "Jonkopings Lokal-TV",
+    "alt_names": [
+      "Jönköpings Lokal-TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "SE",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.jonkopingtv.se/"
   },
   {
     "id": "JonmoBhumiTV.au",
@@ -215447,8 +215575,7 @@
     ],
     "country": "IN",
     "categories": [
-      "movies",
-      "all-channels"
+      "movies"
     ],
     "is_nsfw": false,
     "launched": "2007-01-01",
@@ -218775,8 +218902,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "lifestyle",
-      "all-channels"
+      "lifestyle"
     ],
     "is_nsfw": false,
     "launched": "2013-01-13",
@@ -264283,8 +264409,7 @@
     "owners": [],
     "country": "PS",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -310483,8 +310608,7 @@
     ],
     "country": "AR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "1978-04-08",
@@ -312751,7 +312875,8 @@
     "owners": [],
     "country": "SV",
     "categories": [
-      "legislative"
+      "legislative",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -312800,7 +312925,8 @@
     "owners": [],
     "country": "CA",
     "categories": [
-      "legislative"
+      "legislative",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -320688,8 +320814,7 @@
     "owners": [],
     "country": "CO",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -324003,8 +324128,7 @@
     ],
     "country": "IN",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -325212,8 +325336,7 @@
     ],
     "country": "IN",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": "2010-10-14",
@@ -325865,8 +325988,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -332865,7 +332987,8 @@
     "owners": [],
     "country": "LK",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -333588,8 +333711,7 @@
     "owners": [],
     "country": "HU",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -334456,8 +334578,7 @@
     "owners": [],
     "country": "PE",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -336124,8 +336245,7 @@
     "owners": [],
     "country": "CM",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -336880,8 +337000,7 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -336915,8 +337034,7 @@
     ],
     "country": "IN",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -340062,7 +340180,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -340343,8 +340462,7 @@
     ],
     "country": "RO",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -340362,7 +340480,8 @@
     ],
     "country": "RO",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -344611,7 +344730,8 @@
     ],
     "country": "GY",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -349636,7 +349756,8 @@
     "country": "FR",
     "categories": [
       "music",
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -351236,8 +351357,7 @@
     "owners": [],
     "country": "PS",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -352262,8 +352382,7 @@
     ],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -354836,8 +354955,7 @@
     "owners": [],
     "country": "PE",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -355216,7 +355334,8 @@
     "owners": [],
     "country": "MX",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -358007,8 +358126,7 @@
     "owners": [],
     "country": "CN",
     "categories": [
-      "culture",
-      "all-channels"
+      "culture"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -358024,8 +358142,7 @@
     "owners": [],
     "country": "CN",
     "categories": [
-      "culture",
-      "all-channels"
+      "culture"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -358041,8 +358158,7 @@
     "owners": [],
     "country": "CN",
     "categories": [
-      "kids",
-      "all-channels"
+      "kids"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -359617,7 +359733,8 @@
     ],
     "country": "US",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1998-06-01",
@@ -359690,8 +359807,7 @@
     ],
     "country": "US",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "1986-12-15",
@@ -359709,8 +359825,7 @@
     ],
     "country": "US",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "1996-03-26",
@@ -361529,7 +361644,8 @@
     ],
     "country": "US",
     "categories": [
-      "sports"
+      "sports",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1994-09-04",
@@ -361735,7 +361851,9 @@
     "network": null,
     "owners": [],
     "country": "CM",
-    "categories": [],
+    "categories": [
+      "general"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -366277,8 +366395,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -371082,8 +371199,7 @@
     "owners": [],
     "country": "GR",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -373572,8 +373688,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -373693,8 +373808,7 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": "1994-08-01",
@@ -373710,8 +373824,7 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": "1994-08-01",
@@ -373727,8 +373840,7 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": "1994-08-01",
@@ -373762,8 +373874,7 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": "1994-08-01",
@@ -373835,8 +373946,7 @@
     ],
     "country": "IT",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -378333,8 +378443,7 @@
     "owners": [],
     "country": "TR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -380875,8 +380984,7 @@
     ],
     "country": "IN",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": "2014-03-24",
@@ -382122,8 +382230,7 @@
     ],
     "country": "IN",
     "categories": [
-      "movies",
-      "all-channels"
+      "movies"
     ],
     "is_nsfw": false,
     "launched": "2012-01-01",
@@ -384938,8 +385045,7 @@
     "owners": [],
     "country": "PY",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -385168,7 +385274,8 @@
     "owners": [],
     "country": "GR",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "2021-09-20",
@@ -392961,9 +393068,7 @@
     "network": null,
     "owners": [],
     "country": "ID",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": "1998-01-01",
     "closed": null,
@@ -404961,6 +405066,42 @@
     "website": "http://prvaplus.prva.rs/"
   },
   {
+    "id": "Prvaskolskatelevizija.hr",
+    "name": "Prva skolska televizija",
+    "alt_names": [
+      "Prva školska televizija"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "HR",
+    "categories": [
+      "education"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.skolska-tv.com/"
+  },
+  {
+    "id": "PrvaSkopskaTV.mk",
+    "name": "Prva Skopska TV",
+    "alt_names": [
+      "Прва Скопска ТВ"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://prvaskopska.mk/"
+  },
+  {
     "id": "PrvaWorld.rs",
     "name": "Prva World",
     "alt_names": [],
@@ -405233,9 +405374,7 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -405904,8 +406043,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -406900,9 +407038,7 @@
     "network": null,
     "owners": [],
     "country": "TR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -407687,7 +407823,8 @@
     "owners": [],
     "country": "CN",
     "categories": [
-      "movies"
+      "movies",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -408742,8 +408879,7 @@
     "owners": [],
     "country": "IR",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -409763,8 +409899,7 @@
     "owners": [],
     "country": "PS",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -414212,9 +414347,7 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -417080,7 +417213,8 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": "1953-09-27",
@@ -418467,8 +418601,7 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -420249,8 +420382,7 @@
     "owners": [],
     "country": "PY",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -420873,7 +421005,8 @@
     "owners": [],
     "country": "CR",
     "categories": [
-      "classic"
+      "classic",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -425234,7 +425367,8 @@
     "owners": [],
     "country": "PE",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -425802,7 +425936,8 @@
     "owners": [],
     "country": "IT",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -428382,7 +428517,9 @@
       "Radiotelevizija Republike Srpske"
     ],
     "country": "BA",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -432901,9 +433038,7 @@
       "Sakal Media Group"
     ],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": "2008-08-15",
     "closed": null,
@@ -432979,9 +433114,7 @@
       "SABC"
     ],
     "country": "ZA",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -434255,9 +434388,7 @@
     "network": null,
     "owners": [],
     "country": "IR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -434480,7 +434611,8 @@
     "owners": [],
     "country": "CO",
     "categories": [
-      "music"
+      "music",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -436145,7 +436277,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -439203,7 +439336,9 @@
     "network": null,
     "owners": [],
     "country": "VN",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -439947,9 +440082,7 @@
     "network": null,
     "owners": [],
     "country": "TR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -441900,9 +442033,7 @@
     "network": null,
     "owners": [],
     "country": "RU",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -443646,8 +443777,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -444193,8 +444323,7 @@
     ],
     "country": "US",
     "categories": [
-      "shop",
-      "all-channels"
+      "shop"
     ],
     "is_nsfw": false,
     "launched": "1991-03-12",
@@ -444510,8 +444639,7 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "music",
-      "all-channels"
+      "music"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -445562,8 +445690,7 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": "2006-03-21",
@@ -446217,8 +446344,7 @@
     ],
     "country": "PK",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": "2004-10-01",
@@ -447172,9 +447298,7 @@
       "Voice of Asia Network Pvt Ltd"
     ],
     "country": "LK",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": "2009-09-17",
     "closed": null,
@@ -454713,8 +454837,7 @@
     "owners": [],
     "country": "IR",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -455784,9 +455907,7 @@
     "network": null,
     "owners": [],
     "country": "AR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -455866,8 +455987,7 @@
     "owners": [],
     "country": "VE",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -470887,7 +471007,8 @@
     "owners": [],
     "country": "HN",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -475407,9 +475528,7 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -480903,7 +481022,8 @@
     "owners": [],
     "country": "VN",
     "categories": [
-      "shop"
+      "shop",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -483496,9 +483616,7 @@
     "network": null,
     "owners": [],
     "country": "GT",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -485037,8 +485155,7 @@
     "owners": [],
     "country": "CR",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -485088,7 +485205,9 @@
     "network": null,
     "owners": [],
     "country": "AR",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": "2006-07-01",
     "closed": null,
@@ -486381,8 +486500,7 @@
     "owners": [],
     "country": "HU",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -488510,9 +488628,7 @@
     "network": null,
     "owners": [],
     "country": "ES",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -488680,10 +488796,7 @@
     "network": null,
     "owners": [],
     "country": "MX",
-    "categories": [
-      "all-channels",
-      "general"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -488697,7 +488810,10 @@
     "network": null,
     "owners": [],
     "country": "MX",
-    "categories": [],
+    "categories": [
+      "all-channels",
+      "general"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -489550,8 +489666,7 @@
     "owners": [],
     "country": "HN",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -490020,6 +490135,22 @@
     "website": null
   },
   {
+    "id": "TelevizijaKobra.mk",
+    "name": "Televizija Kobra",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "TelevizijaM.ba",
     "name": "Televizija M",
     "alt_names": [],
@@ -490035,6 +490166,24 @@
     "closed": null,
     "replaced_by": null,
     "website": "https://tv-m.net/"
+  },
+  {
+    "id": "TelevizijaProtel.mk",
+    "name": "Televizija Protel",
+    "alt_names": [
+      "Протел Телевизија"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
   },
   {
     "id": "TelevizijaPruga.rs",
@@ -490054,6 +490203,24 @@
     "closed": null,
     "replaced_by": null,
     "website": "http://www.pruga.rs/"
+  },
+  {
+    "id": "TelevizijaStar.mk",
+    "name": "Televizija Star",
+    "alt_names": [
+      "Телевизија Стар"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://tvstar.com.mk/"
   },
   {
     "id": "TelevizijaTV7.me",
@@ -490420,8 +490587,7 @@
     "owners": [],
     "country": "PL",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -490968,8 +491134,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -495380,7 +495545,9 @@
     "network": null,
     "owners": [],
     "country": "GR",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -495889,9 +496056,7 @@
     "network": null,
     "owners": [],
     "country": "UA",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -500090,7 +500255,8 @@
     "owners": [],
     "country": "JP",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -506109,7 +506275,8 @@
     "owners": [],
     "country": "CL",
     "categories": [
-      "sports"
+      "sports",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -507317,9 +507484,7 @@
     "network": null,
     "owners": [],
     "country": "MY",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -514249,7 +514414,8 @@
     "owners": [],
     "country": "SX",
     "categories": [
-      "kids"
+      "kids",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -515858,8 +516024,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -515932,6 +516097,24 @@
     "closed": null,
     "replaced_by": null,
     "website": "https://www.tvdasartes.com/"
+  },
+  {
+    "id": "TVDecouverte.ch",
+    "name": "TV Decouverte",
+    "alt_names": [
+      "TV Découverte"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "CH",
+    "categories": [
+      "culture"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://tvdecouverte.ch/"
   },
   {
     "id": "TVDelta.rs",
@@ -516451,8 +516634,7 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "news",
-      "all-channels"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -518466,6 +518648,22 @@
     "website": null
   },
   {
+    "id": "TVGurra.mk",
+    "name": "TV Gurra",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "TVGwinnett.us",
     "name": "TV Gwinnett",
     "alt_names": [],
@@ -519132,6 +519330,24 @@
     "closed": null,
     "replaced_by": null,
     "website": "https://www.tvingolstadt.de/"
+  },
+  {
+    "id": "Tvins.se",
+    "name": "Tvins",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Thane Direct"
+    ],
+    "country": "SE",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.tvins.se/"
   },
   {
     "id": "TVIntegracao.br",
@@ -519823,6 +520039,22 @@
     "website": "https://radiokalientequiquijana.blogspot.com/"
   },
   {
+    "id": "TVKaltrina.mk",
+    "name": "TV Kaltrina",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "TVKanal25.rs",
     "name": "TV Kanal 25",
     "alt_names": [
@@ -520142,6 +520374,24 @@
     "closed": null,
     "replaced_by": null,
     "website": "http://www.tvkikinda.rs/"
+  },
+  {
+    "id": "TVKISSMenada.mk",
+    "name": "TV KISS & Menada",
+    "alt_names": [
+      "Телевизија KISS & Менада"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
   },
   {
     "id": "TVKladovo.rs",
@@ -520556,7 +520806,8 @@
     "owners": [],
     "country": "CI",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -522802,8 +523053,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -522963,6 +523213,24 @@
     "closed": null,
     "replaced_by": null,
     "website": "https://www.tvm.co.mz/"
+  },
+  {
+    "id": "TVMTelevizija.mk",
+    "name": "TVM Televizija",
+    "alt_names": [
+      "Television Ohrid"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://tvm.mk/"
   },
   {
     "id": "TVMu.id",
@@ -524987,8 +525255,7 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "religious",
-      "all-channels"
+      "religious"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -529449,7 +529716,8 @@
     "owners": [],
     "country": "BR",
     "categories": [
-      "news"
+      "news",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -530765,6 +531033,24 @@
     "website": "https://www.watchyour.tv/live.php?id=848"
   },
   {
+    "id": "TVSvet.mk",
+    "name": "TV Svet",
+    "alt_names": [
+      "ТВ Свет"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "MK",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "TVSVintageNetwork.us",
     "name": "TVS Vintage Network",
     "alt_names": [],
@@ -531994,8 +532280,7 @@
     "owners": [],
     "country": "AR",
     "categories": [
-      "education",
-      "all-channels"
+      "education"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -532949,7 +533234,8 @@
     ],
     "country": "UG",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -537285,9 +537571,7 @@
     "network": null,
     "owners": [],
     "country": "RU",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -538164,9 +538448,7 @@
     "network": null,
     "owners": [],
     "country": "TR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -540037,9 +540319,7 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -540166,8 +540446,7 @@
     "owners": [],
     "country": "IR",
     "categories": [
-      "sports",
-      "all-channels"
+      "sports"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -540228,9 +540507,7 @@
     "network": null,
     "owners": [],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": "2008-05-05",
     "closed": null,
@@ -540959,9 +541236,7 @@
       "SRM Group"
     ],
     "country": "IN",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": "2014-08-24",
     "closed": null,
@@ -550122,7 +550397,8 @@
     "owners": [],
     "country": "HU",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -570588,7 +570864,9 @@
     "network": null,
     "owners": [],
     "country": "ID",
-    "categories": [],
+    "categories": [
+      "all-channels"
+    ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -636099,9 +636377,7 @@
     "network": null,
     "owners": [],
     "country": "IR",
-    "categories": [
-      "all-channels"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
@@ -639373,7 +639649,8 @@
     "owners": [],
     "country": "IN",
     "categories": [
-      "religious"
+      "religious",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -639945,7 +640222,8 @@
     ],
     "country": "IN",
     "categories": [
-      "movies"
+      "movies",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -639961,8 +640239,7 @@
     "owners": [],
     "country": "ZA",
     "categories": [
-      "movies",
-      "all-channels"
+      "movies"
     ],
     "is_nsfw": false,
     "launched": "2022-04-25",
@@ -640134,7 +640411,7 @@
     "is_nsfw": false,
     "launched": null,
     "closed": "2024-04-26",
-    "replaced_by": null,
+    "replaced_by": "AnmolCinema2.in",
     "website": null
   },
   {
@@ -641647,7 +641924,8 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general"
+      "general",
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -642334,8 +642612,7 @@
     "owners": [],
     "country": "DO",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -642959,8 +643236,7 @@
     "owners": [],
     "country": "HU",
     "categories": [
-      "entertainment",
-      "all-channels"
+      "entertainment"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -643052,8 +643328,7 @@
     "owners": [],
     "country": "CR",
     "categories": [
-      "general",
-      "all-channels"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -643763,6 +644038,25 @@
     "categories": [
       "all-channels",
       "music"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "4d4ba00702c45743.ru",
+    "name": "360° Новости",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -645702,6 +645996,25 @@
     "website": null
   },
   {
+    "id": "antofagasta-tv-atv.cl",
+    "name": "Antofagasta TV (ATV)",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "CL",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "antv.vn",
     "name": "ANTV",
     "alt_names": [],
@@ -646002,17 +646315,17 @@
     "website": null
   },
   {
-    "id": "azahares-radio-multimedia.ar",
-    "name": "Azahares Radio Multimedia",
+    "id": "awaz-tv-news.pk",
+    "name": "Awaz Tv News",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": "AR",
+    "country": "PK",
     "subdivision": null,
     "city": null,
     "categories": [
       "all-channels",
-      "music"
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -646255,25 +646568,6 @@
     "categories": [
       "all-channels",
       "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "barney-the-dinosaur.ca",
-    "name": "Barney the Dinosaur",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "animation"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -647141,24 +647435,6 @@
     "website": null
   },
   {
-    "id": "bread-tv.cn",
-    "name": "Bread TV面包台",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "brevard-county-government-access-tv-brevard-fl.us",
     "name": "Brevard County Government Access TV (Brevard FL)",
     "alt_names": [],
@@ -647246,6 +647522,25 @@
     "categories": [
       "all-channels",
       "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "bursa-as-tv.tr",
+    "name": "Bursa AS TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "TR",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -647385,25 +647680,6 @@
     "website": null
   },
   {
-    "id": "camp-lakebottom.us",
-    "name": "Camp Lakebottom",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "animation"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "campus-tv-talca.cl",
     "name": "Campus TV (Talca)",
     "alt_names": [],
@@ -647469,6 +647745,25 @@
     "city": null,
     "categories": [
       "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "canal-10-576i.cr",
+    "name": "Canal 10 (576i)",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "CR",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -648912,6 +649207,25 @@
     "website": null
   },
   {
+    "id": "click-tv-coronel.cl",
+    "name": "Click TV (Coronel)",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "CL",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "documentary"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "clifford-the-big-red-dog-classic.us",
     "name": "Clifford the Big Red Dog: Classic",
     "alt_names": [],
@@ -648988,25 +649302,6 @@
     "website": null
   },
   {
-    "id": "cocuklar-duymas-n.tr",
-    "name": "Çocuklar Duymasın",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "coinvaulttv.us",
     "name": "CoinVaultTV",
     "alt_names": [],
@@ -649018,6 +649313,25 @@
     "categories": [
       "all-channels",
       "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "colimdot-tv.do",
+    "name": "ColimdoT TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "DO",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "sports"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -649651,24 +649965,6 @@
     "categories": [
       "all-channels",
       "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ctv-barranquilla.co",
-    "name": "CTV Barranquilla",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CO",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -650385,6 +650681,25 @@
     "categories": [
       "all-channels",
       "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "dmj-cuzco.pe",
+    "name": "DMJ Cuzco",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "PE",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -654890,6 +655205,26 @@
     "website": null
   },
   {
+    "id": "japanim-tv.be",
+    "name": "Japanim TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BE",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "animation",
+      "kids"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "jaya-tv-live.lk",
     "name": "Jaya Tv Live",
     "alt_names": [],
@@ -655533,25 +655868,6 @@
     "website": null
   },
   {
-    "id": "krca-tv-estrella-los-angeles.us",
-    "name": "KRCA-TV Estrella Los Angeles",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "kronen-zeitung.at",
     "name": "Kronen Zeitung",
     "alt_names": [],
@@ -655823,6 +656139,24 @@
     "network": null,
     "owners": [],
     "country": "CD",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "la34-long-an-tv.vn",
+    "name": "LA34 Long An TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -656878,6 +657212,25 @@
     "website": null
   },
   {
+    "id": "maharashtra-times.in",
+    "name": "Maharashtra Times",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IN",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "majestad-television.us",
     "name": "Majestad Televisión",
     "alt_names": [],
@@ -657049,25 +657402,6 @@
     "website": null
   },
   {
-    "id": "mas-fm-95-9.ar",
-    "name": "Más FM 95.9",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "AR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "mav-tv.us",
     "name": "MAV TV",
     "alt_names": [],
@@ -657111,63 +657445,6 @@
     "network": null,
     "owners": [],
     "country": "IR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "mazhavil-manorama-hd.in",
-    "name": "Mazhavil Manorama HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "mbc-chuncheon-mbc.kr",
-    "name": "MBC Chuncheon (춘천 MBC)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "mbc-daejeon-mbc.kr",
-    "name": "MBC Daejeon (대전 MBC)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -657353,25 +657630,6 @@
     "website": null
   },
   {
-    "id": "mgs-tv.id",
-    "name": "MGS TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "ID",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "miami-beach-tv-mbtv-miami-beach-fl.us",
     "name": "Miami Beach Tv (MBTV) (Miami Beach FL)",
     "alt_names": [],
@@ -657391,31 +657649,12 @@
     "website": null
   },
   {
-    "id": "midpen-media-center-arts-issues-and-lifestyles-channel-30.us",
-    "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30",
+    "id": "midpen-media-center-government-etc-channel-26.us",
+    "name": "Midpen Media Center Government etc Channel 26",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "culture"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "milennio-tv.ar",
-    "name": "Milennio TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "AR",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -657738,25 +657977,6 @@
     "categories": [
       "all-channels",
       "legislative"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "mostanad.ir",
-    "name": "Mostanad",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -659888,44 +660108,6 @@
     "website": null
   },
   {
-    "id": "omega-tv.hn",
-    "name": "Omega TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "HN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "omid.ir",
-    "name": "Omid",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "omroep-gelderland-hd.nl",
     "name": "Omroep Gelderland HD",
     "alt_names": [],
@@ -660180,25 +660362,6 @@
     "categories": [
       "all-channels",
       "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "palm-beach-county-tv-channel-20-palm-beach-county-fl.us",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "legislative"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -661855,6 +662018,25 @@
     "website": null
   },
   {
+    "id": "rakuten-tv-action-movies-uk.es",
+    "name": "Rakuten TV Action Movies UK",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "ES",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "movies"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "rakuten-tv-alerte-cobra.fr",
     "name": "Rakuten TV Alerte Cobra",
     "alt_names": [],
@@ -662022,6 +662204,24 @@
     "website": null
   },
   {
+    "id": "rakuten-tv-crime-series-italy.it",
+    "name": "Rakuten TV Crime Series Italy",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IT",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "rakuten-tv-crime-series-spain.es",
     "name": "Rakuten TV Crime Series Spain",
     "alt_names": [],
@@ -662032,6 +662232,25 @@
     "city": null,
     "categories": [
       "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "rakuten-tv-drama-movies-finland.es",
+    "name": "Rakuten TV Drama Movies Finland",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "ES",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "movies"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -663584,25 +663803,6 @@
     "website": null
   },
   {
-    "id": "sbs-kbc.kr",
-    "name": "SBS KBC",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "sbs-news.jp",
     "name": "SBS News",
     "alt_names": [],
@@ -663736,25 +663936,6 @@
     "website": null
   },
   {
-    "id": "scvtv-santa-clarita-ca.us",
-    "name": "SCVTV (Santa Clarita CA)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "seatv.kh",
     "name": "SEATV",
     "alt_names": [],
@@ -663765,25 +663946,6 @@
     "city": null,
     "categories": [
       "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "senal-espana-xhunes-tdt.mx",
-    "name": "Señal España (XHUNES-TDT)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "MX",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "education"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -663803,6 +663965,25 @@
     "categories": [
       "all-channels",
       "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "serambinews.id",
+    "name": "Serambinews",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "ID",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -665658,24 +665839,6 @@
     "website": null
   },
   {
-    "id": "telenord-corrientes.ar",
-    "name": "Telenord Corrientes",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "AR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "teleregione-118.it",
     "name": "TeleRegione 118",
     "alt_names": [],
@@ -665819,6 +665982,25 @@
     "categories": [
       "all-channels",
       "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "telewizja-dami-radom.pl",
+    "name": "Telewizja Dami Radom",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "PL",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -667863,25 +668045,6 @@
     "website": null
   },
   {
-    "id": "tvri-bengkulu.id",
-    "name": "TVRI Bengkulu",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "ID",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "tvri-dki-jakarta.id",
     "name": "TVRI DKI Jakarta",
     "alt_names": [],
@@ -668283,6 +668446,25 @@
   {
     "id": "tvri-sulawesi-tengah.id",
     "name": "TVRI Sulawesi Tengah",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "ID",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tvri-sulawesi-tenggara.id",
+    "name": "TVRI Sulawesi Tenggara",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -668861,25 +669043,6 @@
     "website": null
   },
   {
-    "id": "vam-vid-s-and-more.cw",
-    "name": "VAM Vid's & More",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CW",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "velayat-tv.us",
     "name": "Velayat TV",
     "alt_names": [],
@@ -669221,6 +669384,24 @@
     "categories": [
       "all-channels",
       "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "vtv7-hd.vn",
+    "name": "VTV7 HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -670872,25 +671053,6 @@
     "website": null
   },
   {
-    "id": "wwxy-dt3-maranatha-radio-ministries.pr",
-    "name": "WWXY-DT3 (Maranatha Radio Ministries)",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "PR",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "wxwz-ld1-mastv-canal-23.pr",
     "name": "WXWZ-LD1 (MásTV Canal 23)",
     "alt_names": [],
@@ -671104,6 +671266,25 @@
     "city": null,
     "categories": [
       "all-channels"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "zee-bollymovies-australia.in",
+    "name": "Zee Bollymovies Australia",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IN",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "movies"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -671987,6 +672168,25 @@
     "website": null
   },
   {
+    "id": "0ade1db56c9d8128.ru",
+    "name": "Крым 24",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "14fb205a168bd637.kz",
     "name": "КТК",
     "alt_names": [],
@@ -672520,25 +672720,6 @@
     "website": null
   },
   {
-    "id": "94dc2790fc73b97e.ru",
-    "name": "Нижний Новгород 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "72fbb83931afc12a.ru",
     "name": "Ника ТВ",
     "alt_names": [],
@@ -672607,6 +672788,25 @@
     "categories": [
       "all-channels",
       "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "c5748b364326c6c6.ru",
+    "name": "НТВ Мир",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "culture"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -672697,6 +672897,25 @@
     "network": null,
     "owners": [],
     "country": "BY",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "62d4fec55c9fca47.ru",
+    "name": "ОСН",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -672824,6 +673043,25 @@
     "website": null
   },
   {
+    "id": "0410c3732d752dce.ru",
+    "name": "Первый Республиканский",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels",
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "b2de71cac352ff65.ru",
     "name": "Первый Ярославский",
     "alt_names": [],
@@ -672835,6 +673073,24 @@
     "categories": [
       "all-channels",
       "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "5cd67fe815cbc108.ru",
+    "name": "Победа",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -673094,388 +673350,6 @@
     "city": null,
     "categories": [
       "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "meditation-music.ru",
-    "name": "Сити Эдем Meditation Music",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "play.ru",
-    "name": "Сити Эдем Play Христианский Музыкальный",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "4f5ae8b8940a4e6c.ru",
-    "name": "Сити Эдем АвтоГид",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "auto"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "play.ru-1",
-    "name": "Сити Эдем Бирма Play",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "a793e6e2ee12dd96.ru",
-    "name": "Сити Эдем КиноАзия",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "b691985ba19c7a9d.ru",
-    "name": "Сити Эдем КиноАрт",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "d6944aefa9de43d3.ru",
-    "name": "Сити Эдем КиноДетектив",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "34e14c32a9582c6a.ru",
-    "name": "Сити Эдем КиноДок",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "documentary",
-      "series"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "3df00d21652a2928.ru",
-    "name": "Сити Эдем КиноДрама",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f2d92154e85fc5b6.ru",
-    "name": "Сити Эдем КиноКлассика",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0a4f32d22e9a6781.ru",
-    "name": "Сити Эдем КиноКомедия",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e483c599c3e26749.ru",
-    "name": "Сити Эдем КиноМистика",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ad7cf4d575186f4e.ru",
-    "name": "Сити Эдем КиноФантастика",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2a79aae18541d3c8.ru",
-    "name": "Сити Эдем КиноЭкшен",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f8d6c57c0d1ed8e9.ru",
-    "name": "Сити Эдем Классическая Музыка",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "e79c71764823bdf5.ru",
-    "name": "Сити Эдем МедЗдрав",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "lifestyle"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "f60c0ed56522c0f6.ru",
-    "name": "Сити Эдем Рецепты Гурмана",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "cooking"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "361ed93c5ce89265.ru",
-    "name": "Сити Эдем Сиртаки ТВ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "0caf66df4e0c4c48.ru",
-    "name": "Сити Эдем ТВ Христианский",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general",
-      "religious"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "bdba975ccee6a7d7.ru",
-    "name": "Сити Эдем ТелеНовелла",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "series"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -673754,25 +673628,6 @@
     "network": null,
     "owners": [],
     "country": "UA",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels",
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "b6c42bdf1ee3876d.ru",
-    "name": "Таврия",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -675021,24 +674876,6 @@
     "website": null
   },
   {
-    "id": "2897a8a7d14af23f.cn",
-    "name": "宿州新闻综合",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CN",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "all-channels"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "97522b4caa1103eb.cn",
     "name": "宿州科教",
     "alt_names": [],
@@ -675068,6 +674905,24 @@
     "categories": [
       "all-channels",
       "kids"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "74614c55cb6efcad.cn",
+    "name": "嵊州综合",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "CN",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "all-channels"
     ],
     "is_nsfw": false,
     "launched": null,
