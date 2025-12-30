@@ -5734,8 +5734,8 @@
   },
   {
     "channel": "Andflix.in",
-    "feed": "SD",
-    "title": "&flix",
+    "feed": "HD",
+    "title": "&flix HD",
     "url": "http://66.102.120.18:8000/play/a022/index.m3u8",
     "quality": "1080p",
     "user_agent": null,
@@ -5765,6 +5765,15 @@
     "title": "Andorra TV",
     "url": "https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/live-3000/index.m3u8",
     "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AndoTV.cn",
+    "feed": "SD",
+    "title": "Ando TV",
+    "url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
+    "quality": null,
     "user_agent": null,
     "referrer": null
   },
@@ -5810,15 +5819,6 @@
     "title": "&TV",
     "url": "http://103.182.170.32:8888/play/a03v",
     "quality": "576p",
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "AndTV.in",
-    "feed": "SD",
-    "title": "&TV",
-    "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
-    "quality": "1080p",
     "user_agent": null,
     "referrer": null
   },
@@ -6185,9 +6185,9 @@
   {
     "channel": "AnjanTV.in",
     "feed": "SD",
-    "title": "Anjan",
-    "url": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8",
-    "quality": "1080p",
+    "title": "Anjan TV",
+    "url": "https://cdn-1.pishow.tv/live/993/master.m3u8",
+    "quality": "576p",
     "user_agent": null,
     "referrer": null
   },
@@ -6687,15 +6687,6 @@
     "referrer": null
   },
   {
-    "channel": "APN.in",
-    "feed": "SD",
-    "title": "APN",
-    "url": "http://202.164.50.194:8000/play/a03j/index.m3u8",
-    "quality": "576p",
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "ApnaChannel.pk",
     "feed": "SD",
     "title": "Apna Channel",
@@ -7070,15 +7061,6 @@
     "title": "Arges TV",
     "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
     "quality": "720p",
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "ArgusNews.in",
-    "feed": "SD",
-    "title": "Argus News",
-    "url": "http://202.164.50.194:8000/play/a01n/index.m3u8",
-    "quality": "576p",
     "user_agent": null,
     "referrer": null
   },
@@ -7754,15 +7736,6 @@
     "title": "A Spor",
     "url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
     "quality": null,
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "AssamTalks.in",
-    "feed": "SD",
-    "title": "Assam Talks",
-    "url": "http://202.164.50.194:8000/play/a054/index.m3u8",
-    "quality": "576p",
     "user_agent": null,
     "referrer": null
   },
@@ -8634,19 +8607,10 @@
     "channel": "AWTV.br",
     "feed": "HD",
     "title": "AWTV",
-    "url": "https://acesso.ecast.site:3070/live/awtvlive.m3u8",
+    "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "quality": "1080p",
     "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "AWTV.br",
-    "feed": "HD",
-    "title": "AWTV",
-    "url": "https://streaming.cloudecast.com/hls/awtv/index.m3u8",
-    "quality": "1080p",
-    "user_agent": null,
-    "referrer": null
+    "referrer": "https://awtv.com.br"
   },
   {
     "channel": "AXNAsia.sg",
@@ -11688,7 +11652,7 @@
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
     "quality": "1080p",
     "user_agent": null,
-    "referrer": null
+    "referrer": "https://belarus2.by/"
   },
   {
     "channel": "Belarus3.by",
@@ -12132,15 +12096,6 @@
     "referrer": null
   },
   {
-    "channel": "BflixMovies.in",
-    "feed": "SD",
-    "title": "Bflix Movies",
-    "url": "http://163.61.227.29:8000/play/a05s/index.m3u8",
-    "quality": "576p",
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "BFM2.fr",
     "feed": "HD",
     "title": "BFM2",
@@ -12461,15 +12416,6 @@
     "title": "Большая Азия",
     "url": "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8",
     "quality": null,
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "BigMagic.in",
-    "feed": "SD",
-    "title": "Big Magic",
-    "url": "http://163.61.227.29:8000/play/a04f/index.m3u8",
-    "quality": "576p",
     "user_agent": null,
     "referrer": null
   },
@@ -13802,6 +13748,15 @@
     "title": "BritBox Mysteries",
     "url": "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8",
     "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BRKNews.in",
+    "feed": "SD",
+    "title": "BRK News",
+    "url": "https://cdn-1.pishow.tv/live/1037/master.m3u8",
+    "quality": "576p",
     "user_agent": null,
     "referrer": null
   },
@@ -23850,15 +23805,6 @@
     "referrer": null
   },
   {
-    "channel": "Darshan24.in",
-    "feed": "SD",
-    "title": "Darshan 24",
-    "url": "http://202.164.50.194:8000/play/a051/index.m3u8",
-    "quality": "576p",
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "DaruTV.hu",
     "feed": "SD",
     "title": "Daru TV",
@@ -28638,6 +28584,15 @@
     "referrer": null
   },
   {
+    "channel": "ETVJosh.in",
+    "feed": "HD",
+    "title": "ETV Josh",
+    "url": "https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
     "channel": "ETVKayseri.tr",
     "feed": "SD",
     "title": "ETV Kayseri",
@@ -28670,6 +28625,24 @@
     "title": "èTv Marche",
     "url": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8",
     "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ETVMusic.in",
+    "feed": "HD",
+    "title": "ETV Music",
+    "url": "https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ETVNews.in",
+    "feed": "HD",
+    "title": "ETV News",
+    "url": "https://cc-3448kp65yhc5w.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/WWBI/Amagi/ETV_News_IN/playlist.m3u8",
+    "quality": "1080p",
     "user_agent": null,
     "referrer": null
   },
@@ -37638,6 +37611,15 @@
     "referrer": null
   },
   {
+    "channel": "IMPDTVWorldwide.br",
+    "feed": "SD",
+    "title": "IMPD TV Worldwide",
+    "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": "https://igrejamundial.nuvemplay.live"
+  },
+  {
     "channel": "ImperialTV.bo",
     "feed": "SD",
     "title": "Imperial TV",
@@ -45003,8 +44985,8 @@
     "channel": "LatestTV.uk",
     "feed": "SD",
     "title": "Latest TV",
-    "url": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8",
-    "quality": null,
+    "url": "https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8",
+    "quality": "480p",
     "user_agent": null,
     "referrer": null
   },
@@ -47669,6 +47651,15 @@
     "title": "Malai Murasu TV",
     "url": "https://cdn-3.pishow.tv/live/1606/master.m3u8",
     "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MalaiMurasuTV.in",
+    "feed": "SD",
+    "title": "Malai Murasu TV",
+    "url": "https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8",
+    "quality": "1080p",
     "user_agent": null,
     "referrer": null
   },
@@ -51390,6 +51381,15 @@
     "referrer": null
   },
   {
+    "channel": "MRTV.mm",
+    "feed": "SD",
+    "title": "MRTV",
+    "url": "https://mrtvott.com/cache/MRTV-HD/master.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
     "channel": "MSG.us",
     "feed": "SD",
     "title": "MSG",
@@ -53752,6 +53752,15 @@
     "feed": "SD",
     "title": "NCI",
     "url": "https://cs2.push2stream.com/NCI-DVR/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NCI.ci",
+    "feed": "SD",
+    "title": "NCI",
+    "url": "https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8",
     "quality": null,
     "user_agent": null,
     "referrer": null
@@ -59792,15 +59801,6 @@
     "title": "Paramount Movie Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74",
     "quality": null,
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "ParamountNetwork.es",
-    "feed": "SD",
-    "title": "Paramount Network Spain",
-    "url": "http://176.65.146.237:8401/play/a09i/index.m3u8",
-    "quality": "1080p",
     "user_agent": null,
     "referrer": null
   },
@@ -73863,15 +73863,6 @@
     "referrer": null
   },
   {
-    "channel": "SCTV4K.vn",
-    "feed": "SD",
-    "title": "SCTV4K",
-    "url": "https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8",
-    "quality": "2160p",
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "SCTV6.vn",
     "feed": "SD",
     "title": "SCTV6",
@@ -77071,6 +77062,15 @@
     "feed": "SD",
     "title": "SQCS Canal 4",
     "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Squirrel2.es",
+    "feed": "SD",
+    "title": "Squirrel 2",
+    "url": "http://176.65.146.237:8401/play/a09i/index.m3u8",
     "quality": "1080p",
     "user_agent": null,
     "referrer": null
@@ -91029,15 +91029,6 @@
     "channel": "TVP1.pl",
     "feed": "SD",
     "title": "TVP1",
-    "url": "https://cdndai.pl/tvp1hd/index.m3u8",
-    "quality": "1080i",
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "TVP1.pl",
-    "feed": "SD",
-    "title": "TVP1",
     "url": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
     "quality": "1080p",
     "user_agent": null,
@@ -91057,6 +91048,15 @@
     "feed": "SD",
     "title": "TVP1",
     "url": "https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.mpd",
+    "quality": "1080i",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVP1.pl",
+    "feed": "SD",
+    "title": "TVP1",
+    "url": "https://liveovh011.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8",
     "quality": "1080i",
     "user_agent": null,
     "referrer": null
@@ -100526,6 +100526,24 @@
     "title": "YourTime TV",
     "url": "https://hls.yourtime.live/hls/stream.m3u8",
     "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "YRFMusic.in",
+    "feed": "SD",
+    "title": "YRF Music",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "YRFMusic.in",
+    "feed": "SD",
+    "title": "YRF Music",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8",
+    "quality": "1080p",
     "user_agent": null,
     "referrer": null
   },
